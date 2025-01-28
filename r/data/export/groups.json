@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Administrators",
+    "permissions": [
+      "manage:system"
+    ],
+    "pageRules": [],
+    "isSystem": 1,
+    "createdAt": "2025-01-28T01:07:06.476Z",
+    "updatedAt": "2025-01-28T01:07:06.476Z",
+    "redirectOnLogin": "/"
+  },
+  {
+    "id": 2,
+    "name": "Guests",
+    "permissions": [
+      "read:pages",
+      "read:assets",
+      "read:comments"
+    ],
+    "pageRules": [
+      {
+        "id": "guest",
+        "roles": [
+          "read:pages",
+          "read:assets",
+          "read:comments"
+        ],
+        "match": "START",
+        "deny": false,
+        "path": "",
+        "locales": []
+      }
+    ],
+    "isSystem": 1,
+    "createdAt": "2025-01-28T01:07:06.478Z",
+    "updatedAt": "2025-01-28T01:07:06.478Z",
+    "redirectOnLogin": "/"
+  },
+  {
+    "id": 3,
+    "name": "Moderators",
+    "permissions": [
+      "read:pages",
+      "read:assets",
+      "read:comments",
+      "write:comments",
+      "write:pages",
+      "manage:pages",
+      "delete:pages",
+      "write:styles",
+      "read:source",
+      "read:history",
+      "write:assets",
+      "manage:assets",
+      "manage:comments",
+      "manage:users"
+    ],
+    "pageRules": [
+      {
+        "id": "default",
+        "deny": false,
+        "match": "START",
+        "roles": [
+          "read:pages",
+          "read:assets",
+          "read:comments",
+          "write:comments"
+        ],
+        "path": "",
+        "locales": []
+      }
+    ],
+    "isSystem": 0,
+    "createdAt": "2025-01-28T02:02:01.586Z",
+    "updatedAt": "2025-01-28T02:04:58.937Z",
+    "redirectOnLogin": "/"
+  },
+  {
+    "id": 4,
+    "name": "Users",
+    "permissions": [
+      "read:pages",
+      "read:assets",
+      "read:comments",
+      "write:comments",
+      "write:pages",
+      "write:assets",
+      "manage:assets",
+      "read:source",
+      "read:history"
+    ],
+    "pageRules": [
+      {
+        "id": "default",
+        "deny": false,
+        "match": "START",
+        "roles": [
+          "read:pages",
+          "read:assets",
+          "read:comments",
+          "write:comments"
+        ],
+        "path": "",
+        "locales": []
+      }
+    ],
+    "isSystem": 0,
+    "createdAt": "2025-01-28T02:02:32.410Z",
+    "updatedAt": "2025-01-28T02:13:30.168Z",
+    "redirectOnLogin": "/"
+  }
+]
