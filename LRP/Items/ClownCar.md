@@ -1,8 +1,8 @@
 ---
 title: Clown car
 description: the clowns car
-published: false
-date: 2025-03-13T06:49:13.631Z
+published: true
+date: 2025-03-13T06:50:33.250Z
 tags: clown, car, funny
 editor: markdown
 dateCreated: 2025-03-13T06:49:13.631Z
