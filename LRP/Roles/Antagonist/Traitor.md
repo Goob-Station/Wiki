@@ -2,7 +2,7 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-04-08T19:49:36.020Z
+date: 2025-04-08T19:51:51.088Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
@@ -49,8 +49,8 @@ Guns and stuff
 | ![](/wspr.png) | 60 TC | WSPR Bundle | PPPSSSSHhhhh. |
 | ![](/carp_scroll.png) | 60 TC | Martial Arts Scroll | This scroll contains the secrets of an ancient martial arts technique. You will master unarmed combat, deflecting ranged weapon fire. Learning this art means you will also refuse to use dishonorable ranged weaponry. Unable to be understood by vampire and changeling agents. |
 | ![](/hardlight_bow.png) | 75 TC | Hardlight Bow | A modern bow that can fabricate hardlight arrows using an internal energy. This one is designed by the Syndicate for silent takedowns of targets. |
-| ![](/hardlight_bow.png) | 100 TC | Hardlight Bow | A modern bow that can fabricate hardlight arrows using an internal energy. This one is designed by the Syndicate for silent takedowns of targets. |
-| ![](/hardlight_bow.png) | 100 TC | Hardlight Bow | A modern bow that can fabricate hardlight arrows using an internal energy. This one is designed by the Syndicate for silent takedowns of targets. |
+| ![](/burner.png) | 100 TC | Burner Heavy Rifle | The Burner Heavy Rifle, an excelent breaching and suppression weapon. |
+| ![](/l6_saw.png) | 100 TC | L6 Saw Bundle | The iconic L6 light machine gun. |
 | ![](/china_lake.png) | 150 TC | China-Lake Bundle | An old China-Lake grenade launcher bundled with 11 rounds of various destruction capability. |
 
 #### MRP
