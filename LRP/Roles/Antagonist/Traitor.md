@@ -2,13 +2,16 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-04-08T17:01:22.144Z
+date: 2025-04-08T17:02:14.984Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
 ---
 
 # Traitor
+
+> Work in progress
+{.is-warning}
 
 ## Uplink Items
 
