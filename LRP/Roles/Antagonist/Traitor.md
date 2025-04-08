@@ -2,7 +2,7 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-04-08T19:47:10.910Z
+date: 2025-04-08T19:49:36.020Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
@@ -47,8 +47,11 @@ Guns and stuff
 | ![](/fire_axe.png) | 60 TC | Fire Axe | A classic-style weapon infused with advanced atmos technology to allow it to set targets on fire. Now with rugged rubberized handle! |
 | ![](/hristov.png) | 60 TC | Sniper Bundle | An inconspicuous briefcase that contains a Hristov, 10 spare bullets and a convenient disguise. |
 | ![](/wspr.png) | 60 TC | WSPR Bundle | PPPSSSSHhhhh. |
-| ![](/carp_scroll.png) | 60 TC | Martial Arts Scroll | PPPSSSSHhhhh. |
+| ![](/carp_scroll.png) | 60 TC | Martial Arts Scroll | This scroll contains the secrets of an ancient martial arts technique. You will master unarmed combat, deflecting ranged weapon fire. Learning this art means you will also refuse to use dishonorable ranged weaponry. Unable to be understood by vampire and changeling agents. |
 | ![](/hardlight_bow.png) | 75 TC | Hardlight Bow | A modern bow that can fabricate hardlight arrows using an internal energy. This one is designed by the Syndicate for silent takedowns of targets. |
+| ![](/hardlight_bow.png) | 100 TC | Hardlight Bow | A modern bow that can fabricate hardlight arrows using an internal energy. This one is designed by the Syndicate for silent takedowns of targets. |
+| ![](/hardlight_bow.png) | 100 TC | Hardlight Bow | A modern bow that can fabricate hardlight arrows using an internal energy. This one is designed by the Syndicate for silent takedowns of targets. |
+| ![](/china_lake.png) | 150 TC | China-Lake Bundle | An old China-Lake grenade launcher bundled with 11 rounds of various destruction capability. |
 
 #### MRP
 | Icon | Cost | Name | Description |
