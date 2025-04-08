@@ -2,7 +2,7 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-04-08T17:00:04.517Z
+date: 2025-04-08T17:01:22.144Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
@@ -64,11 +64,9 @@ Guns and stuff
 | ![](/gloves_of_the_north_star.png) | 40 TC | Gloves of the North Star | A pair of gloves that reduce your punching cooldown drastically, allowing you to beat people to death in a flurry of punches. |
 | ![](/c-20r.png) | 50 TC | C-20r | Old faithful: The classic C-20r Submachine Gun. |
 | ![](/dualetta.png) | 30 TC | Dualetta Kit | Two dualettas for a cheap price. |
-| ![](/dualetta.png) | 50 TC | Dualetta Bundle | Comes with 2 Dualetta pistols, 2 machine pistol magazines, combat gloves, noir suit, detectives trenchcoat, and laceup shoes. |
 | ![](/m-90.png) | 50 TC | M-90 | An M-90 combat rifle. |
 | ![](/bulldog.png) | 60 TC | Bulldog | A magazine fed fullauto shotgun. |
 | ![](/fire_axe.png) | 60 TC | Fire Axe | A classic-style weapon infused with advanced atmos technology to allow it to set targets on fire. Now with rugged rubberized handle! |
 | ![](/hristov.png) | 60 TC | Sniper Bundle | An inconspicuous briefcase that contains a Hristov, 10 spare bullets and a convenient disguise. |
-| ![](/wspr.png) | 60 TC | WSPR Bundle | PPPSSSSHhhhh. |
 | ![](/wspr.png) | 85 TC | WSPR Bundle | A sleek subsonic rifle with integrated suppression, if you can hear it, you're already dead. |
 | ![](/hardlight_bow.png) | 75 TC | Hardlight Bow | A modern bow that can fabricate hardlight arrows using an internal energy. This one is designed by the Syndicate for silent takedowns of targets. |
