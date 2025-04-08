@@ -2,7 +2,7 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-04-08T16:51:05.753Z
+date: 2025-04-08T16:51:58.041Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
@@ -16,8 +16,14 @@ Items you can get from the uplink in your pda (or implant). You start with 100 T
 
 ### Weapons
 
-Guns and stuff TODO: Remove servers column in favor of a selector at the top to toggle between seeing mrp/lrp descriptions, prices, and items in general
+Guns and stuff
+### Tab {.tabset}
 
+#### LRP
+
+LRP table here
+
+#### MRP
 | Icon | Cost | Name | Description | Servers |
 | --- | --- | --- | --- | --- |
 | ![](/kardashev-mosin.png) | 4 TC | Surplus Rifle | A bolt action service rifle that has seen many wars. Not modern by any standard, hand loaded, and terrible recoil, but it is cheap. | LRP & MRP |
