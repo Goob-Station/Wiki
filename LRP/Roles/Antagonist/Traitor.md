@@ -2,7 +2,7 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-04-08T20:09:29.028Z
+date: 2025-04-08T20:09:51.245Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
