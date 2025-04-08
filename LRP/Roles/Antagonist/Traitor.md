@@ -2,7 +2,7 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-04-08T17:02:14.984Z
+date: 2025-04-08T19:47:10.910Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
@@ -42,10 +42,12 @@ Guns and stuff
 | ![](/c-20r.png) | 50 TC | C-20r | Old faithful: The classic C-20r Submachine Gun. |
 | ![](/dualetta.png) | 50 TC | Dualetta Bundle | Comes with 2 Dualetta pistols, 2 machine pistol magazines, combat gloves, noir suit, detectives trenchcoat, and laceup shoes. |
 | ![](/m-90.png) | 50 TC | M-90 | An M-90 combat rifle. |
+| ![](/miniature_energy_crossbow.png) | 50 TC | Miniature Energy Crossbow | The syndicate's energy crossbow, small, silent and deadly. |
 | ![](/bulldog.png) | 60 TC | Bulldog | A magazine fed fullauto shotgun. |
 | ![](/fire_axe.png) | 60 TC | Fire Axe | A classic-style weapon infused with advanced atmos technology to allow it to set targets on fire. Now with rugged rubberized handle! |
 | ![](/hristov.png) | 60 TC | Sniper Bundle | An inconspicuous briefcase that contains a Hristov, 10 spare bullets and a convenient disguise. |
 | ![](/wspr.png) | 60 TC | WSPR Bundle | PPPSSSSHhhhh. |
+| ![](/carp_scroll.png) | 60 TC | Martial Arts Scroll | PPPSSSSHhhhh. |
 | ![](/hardlight_bow.png) | 75 TC | Hardlight Bow | A modern bow that can fabricate hardlight arrows using an internal energy. This one is designed by the Syndicate for silent takedowns of targets. |
 
 #### MRP
