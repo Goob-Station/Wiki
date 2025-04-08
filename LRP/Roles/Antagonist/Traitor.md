@@ -2,7 +2,7 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-04-08T20:01:10.705Z
+date: 2025-04-08T20:09:29.028Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
@@ -69,10 +69,14 @@ Guns and stuff
 | ![](/anaconda.png) | 40 TC | Anaconda | The pride of the Cybersun arms concern, this heavy pistol is designed to feed itself with the built-in fabricator. |
 | ![](/fpa-90.png) | 50 TC | FPA-90 | A cheap integrally suppressed SMG. Ammo comes separately. |
 | ![](/dualetta.png) | 50 TC | Dualetta Bundle | Comes with 2 Dualetta pistols, 2 machine pistol magazines, combat gloves, noir suit, detectives trenchcoat, and laceup shoes. |
-| ![](/c-20r.png) | 50 TC | C-20r | Old faithful: The classic C-20r Submachine Gun. |
 | ![](/m-90.png) | 50 TC | M-90 | An M-90 combat rifle. |
-| ![](/bulldog.png) | 60 TC | Bulldog | A magazine fed fullauto shotgun. |
-| ![](/fire_axe.png) | 60 TC | Fire Axe | A classic-style weapon infused with advanced atmos technology to allow it to set targets on fire. Now with rugged rubberized handle! |
+| ![](/kanabou.png) | 50 TC | Kanabou | A weapon for those who wish to forgo subtlety. Particularly suited to oni. |
+| ![](/c-20r.png) | 55 TC | C-20r Bundle | Old faithful: The classic C-20r Submachine Gun, ammo comes separately. |
 | ![](/hristov.png) | 60 TC | Sniper Bundle | An inconspicuous briefcase that contains a Hristov, 10 spare bullets and a convenient disguise. |
+| ![](/carp_scroll.png) | 60 TC | Martial Arts Scroll | This scroll contains the secrets of an ancient martial arts technique. You will master unarmed combat, deflecting ranged weapon fire. Learning this art means you will also refuse to use dishonorable ranged weaponry. Unable to be understood by vampire and changeling agents. |
+| ![](/homerun_bat.png) | 80 TC | Home Run Bat | Rigged bat pre-coated in blood for Syndicate tee-ball practice. Launch your foes! |
+| ![](/hardlight_bow.png) | 80 TC | Hardlight Bow | A modern bow that can fabricate hardlight arrows using an internal energy. This one is designed by the Syndicate for silent takedowns of targets. Has 5 different firing modes. Can be folded. |
 | ![](/wspr.png) | 85 TC | WSPR Bundle | A sleek subsonic rifle with integrated suppression, if you can hear it, you're already dead. |
-| ![](/hardlight_bow.png) | 75 TC | Hardlight Bow | A modern bow that can fabricate hardlight arrows using an internal energy. This one is designed by the Syndicate for silent takedowns of targets. |
+| ![](/bulldog.png) | 100 TC | Bulldog | Lean and mean: Contains the popular Bulldog Shotgun, a 12g beanbag drum and three 12g buckshot drums. |
+| ![](/china_lake.png) | 125 TC | China-Lake Bundle | An old China-Lake grenade launcher bundled with 11 rounds of various destruction capability. |
+| ![](/l6_saw.png) | 150 TC | L6 Saw Bundle | More dakka: The iconic L6 light machine gun, bundled with 2 box magazines. |
