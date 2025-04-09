@@ -2,7 +2,7 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-04-09T14:51:11.972Z
+date: 2025-04-09T14:59:28.012Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
@@ -29,7 +29,7 @@ Guns and stuff
 | ![](/syndicate/energy_dagger.png) | 10 TC | Energy Dagger | A small energy blade conveniently disguised in the form of a pen. |
 | ![](/viper.png) | 14 TC | Viper | A small, easily concealable, but somewhat underpowered gun. Retrofitted with a fully automatic receiver. Uses pistol magazines (.35 auto). |
 | ![](/cobra.png) | 15 TC | Cobra | A rugged, robust operator handgun with inbuilt silencer. Uses pistol magazines (.25 caseless). |
-| ![](/energy_shield.png) | 15 TC | Energy Shield | Exotic energy shield that reflects all laser beams and offers a little protection from bullets and other physical attacks. It is discharged from received damage and is able to recharge automatically. Warning: EMP pulses are able to discharge energy shield internal battery. |
+| ![](/syndicate/energy_shield.png) | 15 TC | Energy Shield | Exotic energy shield that reflects all laser beams and offers a little protection from bullets and other physical attacks. It is discharged from received damage and is able to recharge automatically. Warning: EMP pulses are able to discharge energy shield internal battery. |
 | ![](/python.png) | 20 TC | Python | A brutally simple, effective, and loud Syndicate revolver. Comes loaded with armor-piercing rounds. Uses .45 magnum. |
 | ![](/throwing_knives_kit.png) | 20 TC | Throwing Knives Kit | A set of 4 syndicate branded throwing knives, perfect for embedding into the body of your victims. |
 | ![](/syndicate_crate.png) | 25 TC | Syndicate Bulk Rifle Crate | 10 WW4-era rifles to arm you, your friends, and your cat. Saves 40% on shipping costs by buying in bulk. |
@@ -48,7 +48,7 @@ Guns and stuff
 | ![](/hristov.png) | 60 TC | Sniper Bundle | An inconspicuous briefcase that contains a Hristov, 10 spare bullets and a convenient disguise. |
 | ![](/wspr.png) | 60 TC | WSPR Bundle | PPPSSSSHhhhh. |
 | ![](/carp_scroll.png) | 60 TC | Martial Arts Scroll | This scroll contains the secrets of an ancient martial arts technique. You will master unarmed combat, deflecting ranged weapon fire. Learning this art means you will also refuse to use dishonorable ranged weaponry. Unable to be understood by vampire and changeling agents. |
-| ![](/hardlight_bow.png) | 75 TC | Hardlight Bow | A modern bow that can fabricate hardlight arrows using an internal energy. This one is designed by the Syndicate for silent takedowns of targets. |
+| ![](/syndicate/hardlight_bow.png) | 75 TC | Hardlight Bow | A modern bow that can fabricate hardlight arrows using an internal energy. This one is designed by the Syndicate for silent takedowns of targets. |
 | ![](/burner.png) | 100 TC | Burner Heavy Rifle | The Burner Heavy Rifle, an excelent breaching and suppression weapon. |
 | ![](/l6_saw.png) | 100 TC | L6 Saw Bundle | The iconic L6 light machine gun. |
 | ![](/china_lake.png) | 150 TC | China-Lake Bundle | An old China-Lake grenade launcher bundled with 11 rounds of various destruction capability. |
