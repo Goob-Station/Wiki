@@ -2,7 +2,7 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-04-09T15:13:31.684Z
+date: 2025-04-09T15:14:37.090Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
@@ -74,7 +74,7 @@ Guns and stuff
 | ![](/syndicate/c-20r.png) | 55 TC | C-20r Bundle | Old faithful: The classic C-20r Submachine Gun, ammo comes separately. |
 | ![](/syndicate/hristov.png) | 60 TC | Sniper Bundle | An inconspicuous briefcase that contains a Hristov, 10 spare bullets and a convenient disguise. |
 | ![](/syndicate/carp_scroll.png) | 60 TC | Martial Arts Scroll | This scroll contains the secrets of an ancient martial arts technique. You will master unarmed combat, deflecting ranged weapon fire. Learning this art means you will also refuse to use dishonorable ranged weaponry. Unable to be understood by vampire and changeling agents. |
-| ![](/syndicate/homerun_bat.png) | 80 TC | Home Run Bat | Rigged bat pre-coated in blood for Syndicate tee-ball practice. Launch your foes! |
+| ![](/syndicate/home_run_bat.png) | 80 TC | Home Run Bat | Rigged bat pre-coated in blood for Syndicate tee-ball practice. Launch your foes! |
 | ![](/syndicate/hardlight_bow.png) | 80 TC | Hardlight Bow | A modern bow that can fabricate hardlight arrows using an internal energy. This one is designed by the Syndicate for silent takedowns of targets. Has 5 different firing modes. Can be folded. |
 | ![](/syndicate/wspr.png) | 85 TC | WSPR Bundle | A sleek subsonic rifle with integrated suppression, if you can hear it, you're already dead. |
 | ![](/syndicate/bulldog.png) | 100 TC | Bulldog | Lean and mean: Contains the popular Bulldog Shotgun, a 12g beanbag drum and three 12g buckshot drums. |
