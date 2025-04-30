@@ -2,11 +2,11 @@
 title: Salvage Specialist
 description: 
 published: true
-date: 2025-04-30T16:01:49.562Z
+date: 2025-04-30T16:11:03.529Z
 tags: cargo
 editor: markdown
 dateCreated: 2025-04-30T16:01:49.562Z
 ---
 
-# Header
-Your content here
+# Salvage Specialist
+"Ach, nae body seen ma Jaunter, have ye?" - Hagrim the Dwarf two seconds before running into a chasm, leaving behind a legacy of alcoholism and broken dreams.![salvage_hardsuit.png](/lrp/roles/cargo/salvage_hardsuit.png){.align-abstopright}
