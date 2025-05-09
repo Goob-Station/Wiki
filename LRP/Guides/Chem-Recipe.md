@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-09T00:55:20.506Z
+date: 2025-05-09T00:59:40.625Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -109,5 +109,16 @@ Lithium [0.9}
 Mix above 335k
 Bicaridine [1]
 Benezene [1]
-- Hydrogen [1]
-- Carbon[1]
+### <p style="color:white;"> Benezene
+Mix above 310k
+Hydrogen [1]
+Carbon[1]
+
+## Puncturase
+Mix above 325k
+Bicaridine [1]
+Hydroxide [1] 
+### <p style="color:white;"> Hydroxide
+Mix above 325k
+Hydrogen [1]
+Oxygen [1]
