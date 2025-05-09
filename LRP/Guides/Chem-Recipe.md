@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-09T00:54:18.406Z
+date: 2025-05-09T00:55:20.506Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -99,15 +99,15 @@ Mix
 Inaprovaline [1]
 Dylovene [1]
 
-Bruizine
+## Bruizine
 Mix
 Bicaridine [1] 
 Sugar [1]
 Lithium [0.9}
 
-Lacerinol
+## Lacerinol
 Mix above 335k
-Benezene [1]
-Hydrogen [1]
-Carbon[1]
 Bicaridine [1]
+Benezene [1]
+- Hydrogen [1]
+- Carbon[1]
