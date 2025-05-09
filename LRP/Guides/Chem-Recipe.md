@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-09T02:06:10.411Z
+date: 2025-05-09T02:06:25.171Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -162,7 +162,8 @@ Leporazine [1]
 Kelotane [1]
 Silicon [1]
   
-Sigy
+Sigynate
+Mix above 370k
 Sodium Carbonate [1] 
 Sodium Hydroxide [1]
 Kelotane [1]
