@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-09T01:36:22.804Z
+date: 2025-05-09T01:36:40.632Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -133,18 +133,18 @@ Mix above 310k
 Iron [1]
 Silicon [1]
   
-Chems that uses Lepo
+### Chems that uses Lepo
 Insuzine
 Oxandrolone
 Pyrazine
   
-Pyrazine
+## Pyrazine
 Mix above 540k
 Leporazine [1]
 Dermaline [1]
 Carbon [1]
   
-Insuzine
+## Insuzine
 Mix above 433k
 Leporazine [1]
 Kelotane [1]
