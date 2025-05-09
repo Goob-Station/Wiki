@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-09T02:06:51.933Z
+date: 2025-05-09T02:23:46.338Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
