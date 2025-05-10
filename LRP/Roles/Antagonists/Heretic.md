@@ -2,7 +2,7 @@
 title: Heretic
 description: Heretics
 published: true
-date: 2025-05-10T08:35:35.709Z
+date: 2025-05-10T08:36:15.128Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-10T08:01:39.062Z
@@ -128,40 +128,7 @@ dateCreated: 2025-05-10T08:01:39.062Z
                     </tbody>
                 </table>
          		</div>
-          
-            <div style="background: #127BB78e; border-radius: .2em; color: #FFF;">
-                <center><b>Command Guides</b></center>
-            </div>
-            <div style="padding: 0 0.3em; line-height:1.8em; font-size: .9em;">
-                <table cellpadding="2">
-
-                    <tbody>
-                        <tr
-                            style="text-align:center; line-height:1.3em; display:flex; flex-wrap: wrap; justify-content: center; background:#00000000">
-                            <td style="font-size: .95em;"><a href="/wiki/index.php?title=Guide_to_Command" title="Guide to Command">Guide to Command</a> •</td>
-                            <td><a href="/wiki/index.php?title=Guide_to_Paperwork" title="Guide to Paperwork">Paperwork</a> •</td>
-                            <td><a href="/wiki/index.php?title=Guide_to_Faxes" title="Guide to Faxes">Faxes</a> •</td>
-                            <td><a href="/wiki/index.php?title=AI_Modules" title="AI Modules">AI Modules</a> •</td>
-                            <td><a href="/wiki/index.php?title=Station_Goals" title="Station Goals">Station Goals</a> •</td>
-                            <td><a href="/wiki/index.php?title=Escape_Shuttles" class="mw-redirect" title="Escape Shuttles">Purchasable Shuttles</a> •</td>
-                            <td><a href="/wiki/index.php?title=High-Risk_Items" title="High-Risk Items">High-Risk Items</a> •</td>
-                            <td><a href="/wiki/index.php?title=Space_Law" title="Space Law">Space Law</a> •</td>
-                            <td><a href="/wiki/index.php?title=Chain_of_Command" title="Chain of Command">Chain of Command</a> •</td>
-                            <td><a href="/wiki/index.php?title=Standard_Operating_Procedure" title="Standard Operating Procedure">Standard SOP</a> •</td>
-                            <td><a href="/wiki/index.php?title=Standard_Operating_Procedure_(Command)" title="Standard Operating Procedure (Command)">Command SOP</a>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-            <div style="background: #127BB78e; border-radius: .2em; color: #FFF;">
-                <center><b><a href="/wiki/index.php?title=Command_Portal" title="Command Portal">Return to Command Portal</a></b></center>
-            </div>
-            <div style="padding: 0 0.3em; line-height:1.8em; font-size: .9em;">
-            </div>
-        </div>
     </div>
-</div>
 </div>
 <h2>Tider</h2> 
 <p>Is.</p>
