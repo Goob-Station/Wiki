@@ -2,7 +2,7 @@
 title: Heretic
 description: Heretics
 published: true
-date: 2025-05-10T08:07:25.469Z
+date: 2025-05-10T08:08:53.122Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-10T08:01:39.062Z
