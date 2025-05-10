@@ -2,7 +2,7 @@
 title: Heretic
 description: Heretics
 published: true
-date: 2025-05-10T08:01:39.062Z
+date: 2025-05-10T08:07:25.469Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-10T08:01:39.062Z
@@ -34,8 +34,8 @@ dateCreated: 2025-05-10T08:01:39.062Z
     <div style="flex-basis: 100%; flex-grow: 1; padding: 0; background: #127BB71e">
         <div style="overflow: auto; align-items: stretch; display: flex;">
             <div style="background: #127BB74e; width: 6em; height:inherit; float:left; margin-right: .5em;">
-                <center><br><a href="/lrp/roles/command/head_of_personnel.png" class="image"><img alt="head_of_personnel.png"
-                            src="/lrp/roles/command/head_of_personnel.png" decoding="async" width="64"
+                <center><br><a href="/lrp/roles/antagonists/heretic.png" class="image"><img alt="heretic.png"
+                            src="/lrp/roles/antagonists/heretic.png" decoding="async" width="64"
                             height="64"></a><br><b>Heretic</b></center>
             </div>
             <div style="float:left; padding: 0 .1em 0">
@@ -100,7 +100,7 @@ dateCreated: 2025-05-10T08:01:39.062Z
                 </center>
             </div>
             <div style="background: #127BB78e; border-radius: .2em; color: #FFF;">
-                <center><b>CHANGE_THESE to roles that you work with (e.g. Science Roles)</b></center>
+                <center><b>Antagonist roles</b></center>
             </div>
             <div style="padding: 0 0.3em; line-height:1.8em; font-size: .9em;">
                 <table cellpadding="1">
@@ -127,25 +127,35 @@ dateCreated: 2025-05-10T08:01:39.062Z
                         </tr>
                     </tbody>
                 </table>
-            </div>
-
+         		</div>
+          
             <div style="background: #127BB78e; border-radius: .2em; color: #FFF;">
-                <center><b>CHANGE_THESE to relevant guides</b></center>
-              	<!-- It's literally a copy paste of the example one no clue why it shows up like this -->
+                <center><b>Command Guides</b></center>
             </div>
             <div style="padding: 0 0.3em; line-height:1.8em; font-size: .9em;">
                 <table cellpadding="2">
+
                     <tbody>
                         <tr
                             style="text-align:center; line-height:1.3em; display:flex; flex-wrap: wrap; justify-content: center; background:#00000000">
-                            <td style="font-size: .95em;"><a href="/wiki/index.php?title=Guide_to_Command"
-                                    title="Guide to Command">Guide to Command</a> •</td>
+                            <td style="font-size: .95em;"><a href="/wiki/index.php?title=Guide_to_Command" title="Guide to Command">Guide to Command</a> •</td>
+                            <td><a href="/wiki/index.php?title=Guide_to_Paperwork" title="Guide to Paperwork">Paperwork</a> •</td>
+                            <td><a href="/wiki/index.php?title=Guide_to_Faxes" title="Guide to Faxes">Faxes</a> •</td>
+                            <td><a href="/wiki/index.php?title=AI_Modules" title="AI Modules">AI Modules</a> •</td>
+                            <td><a href="/wiki/index.php?title=Station_Goals" title="Station Goals">Station Goals</a> •</td>
+                            <td><a href="/wiki/index.php?title=Escape_Shuttles" class="mw-redirect" title="Escape Shuttles">Purchasable Shuttles</a> •</td>
+                            <td><a href="/wiki/index.php?title=High-Risk_Items" title="High-Risk Items">High-Risk Items</a> •</td>
+                            <td><a href="/wiki/index.php?title=Space_Law" title="Space Law">Space Law</a> •</td>
+                            <td><a href="/wiki/index.php?title=Chain_of_Command" title="Chain of Command">Chain of Command</a> •</td>
+                            <td><a href="/wiki/index.php?title=Standard_Operating_Procedure" title="Standard Operating Procedure">Standard SOP</a> •</td>
+                            <td><a href="/wiki/index.php?title=Standard_Operating_Procedure_(Command)" title="Standard Operating Procedure (Command)">Command SOP</a>
+                            </td>
                         </tr>
                     </tbody>
                 </table>
             </div>
             <div style="background: #127BB78e; border-radius: .2em; color: #FFF;">
-                <center><b><a href="CHANGE_THIS" title="CHANGE_THIS">Return to CHANGE_THIS role portal</a></b></center>
+                <center><b><a href="/wiki/index.php?title=Command_Portal" title="Command Portal">Return to Command Portal</a></b></center>
             </div>
             <div style="padding: 0 0.3em; line-height:1.8em; font-size: .9em;">
             </div>
