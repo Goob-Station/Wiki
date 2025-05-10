@@ -2,7 +2,7 @@
 title: Heretic
 description: 
 published: true
-date: 2025-05-09T23:17:07.643Z
+date: 2025-05-10T07:54:57.182Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T23:17:07.643Z
@@ -84,53 +84,42 @@ dateCreated: 2025-05-09T23:17:07.643Z
         style="box-shadow: 0 0 .3em #999; border-radius: .2em; padding: 1px; width: 20em; margin-left: 1.4em; margin-top: 0.5em; margin-bottom: 0.5em; display: inline; float: right;">
         <div
             style="background: #127BB7; border-radius: .2em; color: #FFF; padding: .4em .4em .4em; font-size: 1.2em; line-height:1.2em;">
-            <center><span style="font-weight: bold;">Antagonist</span></center>
+            <center><span style="font-weight: bold;">CommandDepartment</span></center>
         </div>
-        <div style="background: #127BB71e;">
+        <div class="sidepanel" style="background: #127BB71e; ">
             <div style="padding: 0.5em 0 0 0;">
-                <center><a href="CHANGE_THIS" class="image"><img
-                            alt="CHANGE_THIS ROLE HEADER.png" src="CHANGE_THIS" decoding="async"
+                <center><a href="/wiki/index.php?title=File:CommandHeader.png" class="image"><img
+                            alt="CommandHeader.png" src="/wiki/images/4/4d/CommandHeader.png" decoding="async"
                             width="192" height="64"></a></center>
             </div>
             <div style="font-size: .9em; line-height:1.6em;">
                 <center>
                     <p><b>Departmental Head</b><br>
-                        <b><a href="/LRP/Roles/Command/CHANGE_THIS" title="CHANGE_THIS">CHANGE_THIS</a></b>
+                        <b><a>Captain</a></b>
                     </p>
                 </center>
             </div>
             <div style="background: #127BB78e; border-radius: .2em; color: #FFF;">
-                <center><b>CHANGE_THESE to roles that you work with (e.g. Science Roles)</b></center>
+                <center><b>Command Roles</b></center>
             </div>
             <div style="padding: 0 0.3em; line-height:1.8em; font-size: .9em;">
                 <table cellpadding="1">
                     <tbody>
-                        <tr
-                            style="text-align:center; line-height:1.3em; display:flex; flex-wrap: wrap; justify-content: center;">
-                            <td style="font-size: .95em;"><a href="/LRP/Roles/Command/Head_of_Personnel" title="Head of Personnel">Captain</a> •
-                            </td>
-                            <td><a href="/LRP/Roles/Command/Head_of_Personnel" title="Head of Personnel">Head of
-                                    Personnel</a> •</td>
-                            <td><a href="/LRP/Roles/Command/Head_of_Security" title="Head of Security">Head of
-                                    Security</a> •
-                            </td>
-                            <td><a href="/LRP/Roles/Command/Chief_Engineer" title="Chief Engineer">Chief Engineer</a> •
-                            </td>
-                            <td><a href="/LRP/Roles/Command/Research_Director" title="Research Director">Research
-                                    Director</a> •
-                            </td>
-                            <td><a href="/LRP/Roles/Command/Chief_Medical_Officer" title="Chief Medical Officer">Chief
-                                    Medical Officer</a> •
-                            </td>
-                            <td><a href="/LRP/Roles/Command/Quartermaster" title="Quartermaster">Quartermaster</a>
-                            </td>
+                        <tr style="text-align:center; line-height:1.3em; display:flex; flex-wrap: wrap; justify-content: center;">
+                            <td><a href="/LRP/Roles/Command/Captain" title="Captain">Captain</a> •</td>
+                            <td><a href="/LRP/Roles/Command/Head_of_Personnel" title="Head of Personnel">Head of Personnel</a> •</td>
+                            <td><a href="/LRP/Roles/Command/Head_of_Security" title="Head of Security">Head of Security</a> •</td>
+                            <td><a href="/LRP/Roles/Command/Chief_Engineer" title="Chief Engineer">Chief Engineer</a> •</td>
+                            <td><a href="/LRP/Roles/Command/Research_Director" title="Research Director">Research Director</a> •</td>
+                            <td><a href="/LRP/Roles/Command/Chief_Medical_Officer" title="Chief Medical Officer">Chief Medical Officer</a> •</td>
+                            <td><a href="/LRP/Roles/Command/Quartermaster" title="Quartermaster">Quartermaster</a></td>
                         </tr>
                     </tbody>
                 </table>
             </div>
 
             <div style="background: #127BB78e; border-radius: .2em; color: #FFF;">
-                <center><b>CHANGE_THESE to relevant guides</b></center>
+                <center><b>Command Guides</b></center>
             </div>
             <div style="padding: 0 0.3em; line-height:1.8em; font-size: .9em;">
                 <table cellpadding="2">
@@ -138,32 +127,24 @@ dateCreated: 2025-05-09T23:17:07.643Z
                     <tbody>
                         <tr
                             style="text-align:center; line-height:1.3em; display:flex; flex-wrap: wrap; justify-content: center; background:#00000000">
-                            <td style="font-size: .95em;"><a href="/wiki/index.php?title=Guide_to_Command"
-                                    title="Guide to Command">Guide to Command</a> •</td>
-                            <td><a href="/wiki/index.php?title=Guide_to_Paperwork"
-                                    title="Guide to Paperwork">Paperwork</a> •</td>
+                            <td style="font-size: .95em;"><a href="/wiki/index.php?title=Guide_to_Command" title="Guide to Command">Guide to Command</a> •</td>
+                            <td><a href="/wiki/index.php?title=Guide_to_Paperwork" title="Guide to Paperwork">Paperwork</a> •</td>
                             <td><a href="/wiki/index.php?title=Guide_to_Faxes" title="Guide to Faxes">Faxes</a> •</td>
                             <td><a href="/wiki/index.php?title=AI_Modules" title="AI Modules">AI Modules</a> •</td>
-                            <td><a href="/wiki/index.php?title=Station_Goals" title="Station Goals">Station Goals</a> •
-                            </td>
-                            <td><a href="/wiki/index.php?title=Escape_Shuttles" class="mw-redirect"
-                                    title="Escape Shuttles">Purchasable Shuttles</a> •</td>
-                            <td><a href="/wiki/index.php?title=High-Risk_Items" title="High-Risk Items">High-Risk
-                                    Items</a> •</td>
+                            <td><a href="/wiki/index.php?title=Station_Goals" title="Station Goals">Station Goals</a> •</td>
+                            <td><a href="/wiki/index.php?title=Escape_Shuttles" class="mw-redirect" title="Escape Shuttles">Purchasable Shuttles</a> •</td>
+                            <td><a href="/wiki/index.php?title=High-Risk_Items" title="High-Risk Items">High-Risk Items</a> •</td>
                             <td><a href="/wiki/index.php?title=Space_Law" title="Space Law">Space Law</a> •</td>
-                            <td><a href="/wiki/index.php?title=Chain_of_Command" title="Chain of Command">Chain of
-                                    Command</a> •</td>
-                            <td><a href="/wiki/index.php?title=Standard_Operating_Procedure"
-                                    title="Standard Operating Procedure">Standard SOP</a> •</td>
-                            <td><a href="/wiki/index.php?title=Standard_Operating_Procedure_(Command)"
-                                    title="Standard Operating Procedure (Command)">Command SOP</a>
+                            <td><a href="/wiki/index.php?title=Chain_of_Command" title="Chain of Command">Chain of Command</a> •</td>
+                            <td><a href="/wiki/index.php?title=Standard_Operating_Procedure" title="Standard Operating Procedure">Standard SOP</a> •</td>
+                            <td><a href="/wiki/index.php?title=Standard_Operating_Procedure_(Command)" title="Standard Operating Procedure (Command)">Command SOP</a>
                             </td>
                         </tr>
                     </tbody>
                 </table>
             </div>
             <div style="background: #127BB78e; border-radius: .2em; color: #FFF;">
-                <center><b><a href="CHANGE_THIS" title="CHANGE_THIS">Return to CHANGE_THIS role portal</a></b></center>
+                <center><b><a href="/wiki/index.php?title=Command_Portal" title="Command Portal">Return to Command Portal</a></b></center>
             </div>
             <div style="padding: 0 0.3em; line-height:1.8em; font-size: .9em;">
             </div>
