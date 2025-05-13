@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T03:48:37.624Z
+date: 2025-05-13T03:53:57.208Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -334,7 +334,7 @@ Mix above 310k
 Hydrogen [1]
 Carbon [1]
   
-Barozine [1]
+## Barozine [1]
 Mix
 Chlorine [1]
 Plasma [1]
@@ -351,9 +351,46 @@ Mix
 Oxygen [1]
 Carbon [1]
 Sugar [1]
-
   
 ## Calomel [2]
 Mix
 Mercury [1]
 Lithium [1]
+  
+Cognizine [1]
+Mix
+Carpotoxin [1] (Koibean/Raw carp fillet)
+Siderlac [1]
+Acetone [1]
+  
+### <p style="color:white;"> Acetone [2]
+Oil [1]
+Welding fuel [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Oil [3] (Turns into ash at high heat)
+Welding fuel [1]
+Hydrogen [1]
+Carbon [1]
+  
+### <p style="color:white;"> Siderlac [2]
+Mix
+Aloe [1] (From aloe plant)
+Stellibinin [1] (From galaxythistle)
+  
+## Cryoxadone [3]
+Mix
+Dexalin [1]
+Water [1]
+Oxygen [1]
+
+### <p style="color:white;"> Dexalin
+Mix
+Oxygen [2]
+Plasma [1] (Buffer/Does not consume)
+  
+Aloxadone [4]
+Mix
+Aloe [2]
+Sigynate [2]
+Cryoxadone [1]
