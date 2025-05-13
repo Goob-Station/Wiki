@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T03:30:10.641Z
+date: 2025-05-13T03:34:15.157Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -267,4 +267,28 @@ Oxygen [1]
 Welding fuel [1]
 Hydrogen [1]
 Carbon [1]
+
   
+## Ammoniated mercury [2]
+Mix
+Calomel [1]
+Ammonia [1]
+  
+### <p style="color:white;"> Calomel [2]
+Mix
+Mercury [1]
+Lithium [1]
+  
+### <p style="color:white;"> Ammonia [4]
+Hydrogen [3]
+Nitrogen [1]
+  
+Antihol [3]
+Mix
+Charcoal [2]
+Ethanol [1]
+  
+Charcoal [1]
+Mix
+Carbon [1]
+Ash [1] (Can get from burning oil)
