@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:17:43.869Z
+date: 2025-05-13T04:21:34.457Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -488,3 +488,37 @@ Mix
 Radium [1]
 Phosphorus [1]
 Chlorine [1]
+  
+Ebifin [5]
+Mix above 500k
+Aluite [5]
+Gold [2]
+Sigynate [2]
+Silicon [1]
+  
+### <p style="color:white;"> Aluite [3]
+Mix below 200k
+Aluminium [3]
+Phenol [1]
+Sodium polyacrylate [1]
+  
+### <p style="color:white;"> Phenol [2]
+Mix
+Hydroxide [1]
+Benzine [1]
+  
+### <p style="color:white;"> Hydroxide [2]
+Mix above 325k
+Hydrogen [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Benzene [1]
+Mix above 310k
+Hydrogen [1]
+Carbon [1]
+  
+### <p style="color:white;"> Sodium polyacrylate [4]
+Mix
+Oxygen [2]
+Sodium [1]
+Nitrogen [1] 
