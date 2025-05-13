@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:22:04.733Z
+date: 2025-05-13T04:22:55.917Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -492,7 +492,7 @@ Chlorine [1]
 Ebifin [5]
 Mix above 500k
 Aluite [5]
-Gold [2]
+Gold [2] (Grind up gold bars)
 [Sigynate](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#sigynate) [2]
 Silicon [1]
   
