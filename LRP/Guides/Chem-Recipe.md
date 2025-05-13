@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T03:56:10.325Z
+date: 2025-05-13T04:00:06.729Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -389,8 +389,41 @@ Mix
 Oxygen [2]
 Plasma [1] (Buffer/Does not consume)
   
-Aloxadone [4]
+## Aloxadone [4]
 Mix
 Aloe [2]
-[Sigynate](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#sigynate) [2]
+[Sigynate](https://wiki.js.org/about) [2]
 Cryoxadone [1]
+  
+## Cryptobiolin [3]
+Mix
+Potassium [1]
+Oxygeon [1]
+Sugar [1]
+  
+## Diphenhydramine
+Mixx above 377.59k
+Diethylamine [1]
+Oil [1]
+Salt [1]
+Carbon [1]
+Ethanol [1]
+  
+### <p style="color:white;"> Diethylamine [2] 
+Mix
+Ammonia [1]
+Ethanol [1]
+  
+### <p style="color:white;"> Ammonia [4]
+Hydrogen [3]
+Nitrogen [1]
+  
+### <p style="color:white;"> Oil [3] (Turns into ash at high heat)
+Welding fuel [1]
+Hydrogen [1]
+Carbon [1]
+  
+### <p style="color:white;"> Salt
+Mix above 370k
+Chlorine [1]
+Sodium [1]
