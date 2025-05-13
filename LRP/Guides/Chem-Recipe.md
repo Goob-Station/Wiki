@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T03:46:36.438Z
+date: 2025-05-13T03:48:37.624Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -333,3 +333,27 @@ Oxygen [1]
 Mix above 310k
 Hydrogen [1]
 Carbon [1]
+  
+Barozine [1]
+Mix
+Chlorine [1]
+Plasma [1]
+Potassium [1]
+Bicaridine [1]
+  
+### <p style="color:white;"> Bicaridine [2]
+Mix
+Inaprovaline [1]
+Carbon [1]
+
+### <p style="color:white;"> Inaprovaline [3] 
+Mix
+Oxygen [1]
+Carbon [1]
+Sugar [1]
+
+  
+## Calomel [2]
+Mix
+Mercury [1]
+Lithium [1]
