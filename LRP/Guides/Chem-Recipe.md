@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:14:11.879Z
+date: 2025-05-13T04:16:46.306Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -477,3 +477,8 @@ Oxygen [1]
 Mix above 370k
 Chlorine [1]
 Sodium [1]
+  
+Doxarubixadone [2]
+Mix
+[Cryoxadone](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#Cryoxadone) [1]
+Unstable Mutagen [1] 
