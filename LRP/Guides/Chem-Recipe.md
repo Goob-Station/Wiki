@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:39:56.283Z
+date: 2025-05-13T04:41:17.499Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -664,3 +664,14 @@ Ammonia [1]
 ### <p style="color:white;"> Ammonia [4]
 Hydrogen [3]
 Nitrogen [1]
+  
+## Lipozine [3]
+Mix
+Salt [1]
+Ethanol [1]
+Radium [1]
+  
+### <p style="color:white;"> Salt
+Mix above 370k
+Chlorine [1]
+Sodium [1]
