@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T03:46:08.290Z
+date: 2025-05-13T03:46:36.438Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -299,6 +299,16 @@ Acetone [1]
 Diethylamine [1]
 Phenol [1]
 Ethanol [1]
+  
+### <p style="color:white;"> Acetone [2]
+Oil [1]
+Welding fuel [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Oil [3] (Turns into ash at high heat)
+Welding fuel [1]
+Hydrogen [1]
+Carbon [1]
   
 ### <p style="color:white;"> Diethylamine [2] 
 Mix
