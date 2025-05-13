@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-09T02:25:50.317Z
+date: 2025-05-13T03:12:11.363Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -190,3 +190,14 @@ Oxygen [1]
 Mix
 Silicon [1]
 Carbon [1]
+  
+## Tranexamic Acid [3]
+Mix
+Inaprovaline [1]
+Sugar [1] 
+Sulfuric Acid [1]
+
+### <p style="color:white;"> Sulfuric Acid [3]
+Oxygen [2]
+Hydrogen [1]
+Sulfur [1]
