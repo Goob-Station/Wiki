@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T03:12:11.363Z
+date: 2025-05-13T03:30:10.641Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -201,3 +201,70 @@ Sulfuric Acid [1]
 Oxygen [2]
 Hydrogen [1]
 Sulfur [1]
+  
+## Ambuzol [4]
+Mix
+Zombie blood [2] (Draw it out of a dead zombie)
+Dylovene [1]
+Ammonia [1]
+  
+Chems that uses Ambuzol
+Ambuzol Plus
+  
+Ambuzol Plus [10]
+Mix
+Ambuzol [5]
+Omnizine [5] (Only from Omnizine lollipop/Smile extract/Ambrosia deus)
+  
+### <p style="color:white;"> Ammonia [4]
+Hydrogen [3]
+Nitrogen [1]
+  
+## Oculine [4]
+Mix
+Hydroxide [2]
+Salt [2]
+Blood [1]
+  
+### <p style="color:white;"> Hydroxide [2]
+Mix above 325k
+Hydrogen [1]
+Oxygen [1]
+
+### <p style="color:white;"> Salt [2]
+Mix above 370k
+Chlorine [1]
+Sodium [1]
+  
+## Epinephrine [4]
+Mix
+Phenol [1]
+Acetone [1]
+Chlorine [1]
+Hydroxide [1]
+  
+### <p style="color:white;"> Phenol [2]
+Mix
+Hydroxide [1]
+Benzine [1]
+  
+### <p style="color:white;"> Hydroxide [2]
+Mix above 325k
+Hydrogen [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Benzene [1]
+Mix above 310k
+Hydrogen [1]
+Carbon [1]
+  
+### <p style="color:white;"> Acetone [2]
+Oil [1]
+Welding fuel [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Oil [3] (Turns into ash at high heat)
+Welding fuel [1]
+Hydrogen [1]
+Carbon [1]
+  
