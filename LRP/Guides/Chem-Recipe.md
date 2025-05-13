@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:21:34.457Z
+date: 2025-05-13T04:22:04.733Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -493,7 +493,7 @@ Ebifin [5]
 Mix above 500k
 Aluite [5]
 Gold [2]
-Sigynate [2]
+[Sigynate](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#sigynate) [2]
 Silicon [1]
   
 ### <p style="color:white;"> Aluite [3]
