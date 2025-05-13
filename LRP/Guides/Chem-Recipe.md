@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:01:28.891Z
+date: 2025-05-13T04:08:40.369Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -427,3 +427,42 @@ Carbon [1]
 Mix above 370k
 Chlorine [1]
 Sodium [1]
+  
+Diphenylmethylamine [3]
+Mix 
+Ethyloxephedrine [1]
+Sodium Carbonate [1]
+Coffee [1]
+  
+Ethyloxephedrine [2]
+Mix
+Desoxyephedrine [1]
+Stellibinin [1] (From galaxythistle)
+  
+Desoxyephedrine [1]
+Mix above 370k
+Ephedrine [1]
+Carbon [1]
+Iodine [1]
+Phosphorus [1]
+  
+Ephedrine [4]
+Mix
+Oil [1]
+Hydrogen [1]
+Sugar [1]
+Diethylamine [1]
+  
+### <p style="color:white;"> Oil [3] (Turns into ash at high heat)
+Welding fuel [1]
+Hydrogen [1]
+Carbon [1]
+  
+### <p style="color:white;"> Diethylamine [2] 
+Mix
+Ammonia [1]
+Ethanol [1]
+  
+### <p style="color:white;"> Ammonia [4]
+Hydrogen [3]
+Nitrogen [1]
