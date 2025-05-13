@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:00:06.729Z
+date: 2025-05-13T04:01:28.891Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -392,7 +392,7 @@ Plasma [1] (Buffer/Does not consume)
 ## Aloxadone [4]
 Mix
 Aloe [2]
-[Sigynate](https://wiki.js.org/about) [2]
+[Sigynate](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#sigynate) [2]
 Cryoxadone [1]
   
 ## Cryptobiolin [3]
