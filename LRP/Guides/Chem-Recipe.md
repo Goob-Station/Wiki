@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:39:02.000Z
+date: 2025-05-13T04:39:56.283Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -639,7 +639,7 @@ Oxygen [2]
 Hydrogen [1]
 Sulfur [1]
   
-Ibuprofen [3]
+## Ibuprofen [3]
 Mix
 Charcoal [1]
 Benzene [1]
@@ -654,3 +654,13 @@ Ash [1] (Can get from burning oil)
 Mix above 310k
 Hydrogen [1]
 Carbon [1]
+  
+## Ipecac [2]
+Mix
+Potassium [1]
+Nitrogen [1]
+Ammonia [1]
+  
+### <p style="color:white;"> Ammonia [4]
+Hydrogen [3]
+Nitrogen [1]
