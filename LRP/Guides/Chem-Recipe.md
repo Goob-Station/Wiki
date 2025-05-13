@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T03:53:57.208Z
+date: 2025-05-13T03:55:15.405Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -392,5 +392,5 @@ Plasma [1] (Buffer/Does not consume)
 Aloxadone [4]
 Mix
 Aloe [2]
-Sigynate [2]
+[Sigynate](https://wiki.js.org/about) [2]
 Cryoxadone [1]
