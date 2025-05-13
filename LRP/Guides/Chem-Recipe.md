@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:30:43.119Z
+date: 2025-05-13T04:32:04.010Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -595,3 +595,14 @@ Carbon [1]
 Mix
 Potassium [1]
 Iodine [1]
+  
+Hercuri [5]
+Mix below 100k
+Cryostylane [3]
+Sodium hydroxide [1]
+Potassium iodide [1]
+  
+Herignis [5]
+Mix above 600k
+Hercuri [3]
+Phlogiston [2]
