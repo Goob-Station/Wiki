@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:24:18.000Z
+date: 2025-05-13T04:25:08.069Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -555,3 +555,11 @@ Ethanol [1]
 ### <p style="color:white;"> Ammonia [4]
 Hydrogen [3]
 Nitrogen [1]
+  
+## Ethylredoxrazine [3]
+Mix
+Oxygen [1]
+Dylovene [1]
+Carbon [1]
+  
+  
