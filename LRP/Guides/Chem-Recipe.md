@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:22:55.917Z
+date: 2025-05-13T04:24:18.000Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -489,7 +489,7 @@ Radium [1]
 Phosphorus [1]
 Chlorine [1]
   
-Ebifin [5]
+## Ebifin [5]
 Mix above 500k
 Aluite [5]
 Gold [2] (Grind up gold bars)
@@ -522,3 +522,36 @@ Mix
 Oxygen [2]
 Sodium [1]
 Nitrogen [1] 
+  
+## Ethyloxephedrine [2]
+Mix
+Desoxyephedrine [1]
+Stellibinin [1] (From galaxythistle)
+  
+### <p style="color:white;"> Desoxyephedrine [1]
+Mix above 370k
+Ephedrine [1]
+Carbon [1]
+Iodine [1]
+Phosphorus [1]
+  
+### <p style="color:white;"> Ephedrine [4]
+Mix
+Oil [1]
+Hydrogen [1]
+Sugar [1]
+Diethylamine [1]
+  
+### <p style="color:white;"> Oil [3] (Turns into ash at high heat)
+Welding fuel [1]
+Hydrogen [1]
+Carbon [1]
+  
+### <p style="color:white;"> Diethylamine [2] 
+Mix
+Ammonia [1]
+Ethanol [1]
+  
+### <p style="color:white;"> Ammonia [4]
+Hydrogen [3]
+Nitrogen [1]
