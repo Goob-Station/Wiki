@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:36:10.338Z
+date: 2025-05-13T04:39:02.000Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -628,8 +628,29 @@ Mix above 600k
 Hercuri [3]
 Phlogiston [2]
   
-Phlogiston [3]
+### <p style="color:white;"> Phlogiston [3]
 Mix
 Phosphorus [1]
 Sulfuric Acid [1]
 Plasma [1]
+  
+### <p style="color:white;"> Sulfuric Acid [3]
+Oxygen [2]
+Hydrogen [1]
+Sulfur [1]
+  
+Ibuprofen [3]
+Mix
+Charcoal [1]
+Benzene [1]
+Fluorine [1] 
+  
+### <p style="color:white;"> Charcoal [1]
+Mix
+Carbon [1]
+Ash [1] (Can get from burning oil)
+  
+### <p style="color:white;"> Benzene [1]
+Mix above 310k
+Hydrogen [1]
+Carbon [1]
