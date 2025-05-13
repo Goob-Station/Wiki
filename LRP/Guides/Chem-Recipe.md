@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:11:15.785Z
+date: 2025-05-13T04:14:11.879Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -472,10 +472,6 @@ Ammonia [1]
 Salt [1]
 Carbon [1]
 Oxygen [1]
-  
-### <p style="color:white;"> Ammonia
-Hydrogen [3]
-Nitrogen [1]
   
 ### <p style="color:white;"> Salt
 Mix above 370k
