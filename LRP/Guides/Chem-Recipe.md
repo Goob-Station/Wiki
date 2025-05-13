@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T03:34:15.157Z
+date: 2025-05-13T03:46:08.290Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -283,12 +283,43 @@ Lithium [1]
 Hydrogen [3]
 Nitrogen [1]
   
-Antihol [3]
+## Antihol [3]
 Mix
 Charcoal [2]
 Ethanol [1]
   
-Charcoal [1]
+### <p style="color:white;"> Charcoal [1]
 Mix
 Carbon [1]
 Ash [1] (Can get from burning oil)
+  
+## Atropine
+Mix
+Acetone [1]
+Diethylamine [1]
+Phenol [1]
+Ethanol [1]
+  
+### <p style="color:white;"> Diethylamine [2] 
+Mix
+Ammonia [1]
+Ethanol [1]
+  
+### <p style="color:white;"> Ammonia [4]
+Hydrogen [3]
+Nitrogen [1]
+  
+### <p style="color:white;"> Phenol [2]
+Mix
+Hydroxide [1]
+Benzine [1]
+  
+### <p style="color:white;"> Hydroxide [2]
+Mix above 325k
+Hydrogen [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Benzene [1]
+Mix above 310k
+Hydrogen [1]
+Carbon [1]
