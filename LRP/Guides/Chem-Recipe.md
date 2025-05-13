@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:25:08.069Z
+date: 2025-05-13T04:30:43.119Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -559,7 +559,39 @@ Nitrogen [1]
 ## Ethylredoxrazine [3]
 Mix
 Oxygen [1]
-Dylovene [1]
+[Dylovene](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#dylovene) [1]
 Carbon [1]
   
+## Genecide [3]
+Mix
+[Phalanximine](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#phalanximine) [1]
+Chlorine trifluoride [1]
+Benzene [1]
   
+### <p style="color:white;"> Chlorine trifluoride [4]
+Mix above 370k
+Fluorine [3]
+Chlorine [1]
+  
+### <p style="color:white;"> Benzene [1]
+Mix above 310k
+Hydrogen [1]
+Carbon [1]
+  
+## Haloperidol [5]
+Mix
+Aluminium [1]
+Chlorine [1]
+Fluorine [1]
+Oil [1]
+Potassium Iodide [1]
+  
+### <p style="color:white;"> Oil [3] (Turns into ash at high heat)
+Welding fuel [1]
+Hydrogen [1]
+Carbon [1]
+  
+### <p style="color:white;"> Potassium Iodide [2]
+Mix
+Potassium [1]
+Iodine [1]
