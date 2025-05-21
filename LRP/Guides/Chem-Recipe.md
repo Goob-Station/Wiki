@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-13T04:41:17.499Z
+date: 2025-05-21T20:10:44.049Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -675,3 +675,45 @@ Radium [1]
 Mix above 370k
 Chlorine [1]
 Sodium [1]
+  
+## Mannitol [3]
+Mix
+Hydrogen [1]
+Water [1]
+Sugar [1]
+  
+## Monover [4]
+Mix above 330K
+Charcoal [2]
+Chlorine [1]
+Sodium [1]
+  
+## Multiver [2]
+Mix below 320K
+Charcoal [1]
+Salt [1]
+
+### <p style="color:white;"> Salt
+Mix above 370k
+Chlorine [1]
+Sodium [1]
+  
+## Necrosol [2]
+Mix above 370K
+Blood [3]
+[Cryoxadone](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#cryoxadone) [2]
+Omnizine [1] (Only from Omnizine lollipop/Smile extract/Ambrosia deus)
+  
+## Opporozidone [3]
+Mix above 400k
+Plasma [2]
+Cognizine [1]
+Doxarubixadone [1]
+  
+## Oxandrolone [4]
+Mix
+Sodium Carbonate [1]
+Dermaline [1]
+Phenol [1]
+Leporazine [1]
+  
