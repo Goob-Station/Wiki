@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-21T20:10:44.049Z
+date: 2025-05-21T20:12:28.247Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -713,7 +713,34 @@ Doxarubixadone [1]
 ## Oxandrolone [4]
 Mix
 Sodium Carbonate [1]
-Dermaline [1]
+[Dermaline](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#dermaline) [1]
 Phenol [1]
-Leporazine [1]
+[Leporazine](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#leporazine) [1]
   
+### <p style="color:white;"> Sodium carbonate
+Ammonia [1]
+Salt [1]
+Carbon [1]
+Oxygen [1]
+### <p style="color:white;"> Ammonia
+Hydrogen [3]
+Nitrogen [1]
+### <p style="color:white;"> Salt
+Mix above 370k
+Chlorine [1]
+Sodium [1]
+  
+### <p style="color:white;"> Phenol [2]
+Mix
+Hydroxide [1]
+Benzine [1]
+  
+### <p style="color:white;"> Hydroxide [2]
+Mix above 325k
+Hydrogen [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Benzene [1]
+Mix above 310k
+Hydrogen [1]
+Carbon [1]
