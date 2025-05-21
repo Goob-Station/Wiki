@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-21T22:38:44.256Z
+date: 2025-05-21T23:07:06.285Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -811,3 +811,115 @@ Oxygen [1]
 Welding fuel [1]
 Hydrogen [1]
 Carbon [1]
+  
+## Procenyl Lazide Sludge [10] <br> (Centrifugation below 200K to get Procenyl Lazide [5]) <br>
+Mix above 400k
+Aluite [5]
+Uranium [2]
+Sodium Carbonate [2]
+Phenol [1]
+  
+### <p style="color:white;"> Aluite [3]
+Mix below 200k
+Aluminium [3]
+Phenol [1]
+Sodium polyacrylate [1]
+  
+### <p style="color:white;"> Phenol [2]
+Mix
+Hydroxide [1]
+Benzine [1]
+  
+### <p style="color:white;"> Hydroxide [2]
+Mix above 325k
+Hydrogen [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Benzene [1]
+Mix above 310k
+Hydrogen [1]
+Carbon [1]
+  
+### <p style="color:white;"> Sodium polyacrylate [4]
+Mix
+Oxygen [2]
+Sodium [1]
+Nitrogen [1] 
+  
+### <p style="color:white;"> Sodium carbonate
+Ammonia [1]
+Salt [1]
+Carbon [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Salt
+Mix above 370k
+Chlorine [1]
+Sodium [1]
+  
+<!-- ### <p style="color:white;"> Phenol [2]
+Mix
+Hydroxide [1]
+Benzine [1]
+  
+### <p style="color:white;"> Hydroxide [2]
+Mix above 325k
+Hydrogen [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Benzene [1]
+Mix above 310k
+Hydrogen [1]
+Carbon [1] -->
+
+## Psicodine [4]
+Mix
+Mannitol [2]
+Water [2]
+Impedrezene [1]
+  
+### <p style="color:white;"> Mannitol [3]
+Mix
+Hydrogen [1]
+Water [1]
+Sugar [1]
+  
+### <p style="color:white;"> Impedrezene [1]
+Mix above 370K
+Mercury [1]
+Oxygen [1]
+Water [1]
+  
+## Salicylic Acid [4]
+Mix above 370K
+Tranexamic Acid [1]
+Fluorosulfuric Acid [1]
+Sodium Hydroxide [1]
+[Bicaridine](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#bicaridine) [1]
+  
+## Tranexamic Acid [3]
+Mix
+Inaprovaline [1]
+Sugar [1] 
+Sulfuric Acid [1]
+
+### <p style="color:white;"> Sulfuric Acid [3]
+Oxygen [2]
+Hydrogen [1]
+Sulfur [1]
+  
+### <p style="color:white;"> Fluorosulfuric Acid [4]
+Mix
+Fluorine [1]
+Hydrogen [1]
+Potassium [1]
+Sulfuric Acid [1]
+  
+### <p style="color:white;"> Sodium Hydroxide
+Hydroxide [1]
+Sodium [1]
+
+### <p style="color:white;"> Hydroxide
+Mix above 325k
+Hydrogen [1]
+Oxygen [1]
