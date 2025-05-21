@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-21T20:12:28.247Z
+date: 2025-05-21T20:45:01.436Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -744,3 +744,10 @@ Oxygen [1]
 Mix above 310k
 Hydrogen [1]
 Carbon [1]
+  
+## Pententic Acid
+Mix
+Polytrinic acid [1]
+Potassium iodide [1]
+[Haloperidol](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#haloperidol) [1]
+Cyanide [1]
