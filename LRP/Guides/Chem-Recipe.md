@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-21T20:45:01.436Z
+date: 2025-05-21T22:38:44.256Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -102,6 +102,19 @@ Salt [1]
 Mix above 370k
 Chlorine [1]
 Sodium [1]
+  
+## Phalanximine
+Mix
+Hyronalin [1]
+Ethanol [1]
+Unstable Mutagen [1]
+  
+### <p style="color:white;"> Unstable Mutagen [3]
+Mix
+Radium [1]
+Phosphorus [1]
+Chlorine [1]
+  
 
 ## Tricordrazine
 Mix
@@ -751,3 +764,50 @@ Polytrinic acid [1]
 Potassium iodide [1]
 [Haloperidol](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#haloperidol) [1]
 Cyanide [1]
+  
+### <p style="color:white;"> Polytrinic acid  [3]
+Mix
+Sulfuric acid [1]
+Plasma [1]
+Potassium [1]
+  
+### <p style="color:white;"> Sulfuric acid [3]
+Mix 
+Oxygen [2]
+Hydrogen [1]
+Sulfur [1]
+  
+### <p style="color:white;"> Potassium Iodide [2]
+Mix
+Potassium [1]
+Iodine [1]
+  
+### <p style="color:white;"> Cyanide [3]
+Mix above 380K 
+Ammonia [1]
+Oil [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Ammonia [4]
+Hydrogen [3]
+Nitrogen [1]
+
+### <p style="color:white;"> Oil [3] (Turns into ash at high heat)
+Welding fuel [1]
+Hydrogen [1]
+Carbon [1]
+  
+## Probital [4]
+Acetone [2]
+Copper [1]
+Phosphorus [1]
+  
+### <p style="color:white;"> Acetone [2]
+Oil [1]
+Welding fuel [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Oil [3] (Turns into ash at high heat)
+Welding fuel [1]
+Hydrogen [1]
+Carbon [1]
