@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-21T23:14:05.476Z
+date: 2025-05-21T23:14:26.789Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -1004,5 +1004,5 @@ Sulfur [1]
   
 ## Ultravasculine [2]
 Mix
-Histamine [2]
+Histamine [2] (From nettles)
 Plasma [1] (Buffer)
