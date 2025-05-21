@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-21T23:07:06.285Z
+date: 2025-05-21T23:14:05.476Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -923,3 +923,86 @@ Sodium [1]
 Mix above 325k
 Hydrogen [1]
 Oxygen [1]
+  
+## Silver Sulfadiazine [5]
+Mix above 500K
+Silver [1]
+Chlorine [1]
+Ammonia [1]
+Oxygen [1]
+Sulfur [1]
+  
+### <p style="color:white;"> Ammonia [4]
+Hydrogen [3]
+Nitrogen [1]
+  
+## Synaptizine [3]
+Lithium [1]
+Sugar [1]
+Water [1]
+  
+## Syriniver [5]
+Mix below 200K
+Aluite [5]
+Silver [2]
+[Diphenhydramine](https://wiki.goobstation.com/en/LRP/Guides/Chem-Recipe#diphenhydramine) [2]
+Fluorine [1]
+  
+### <p style="color:white;"> Aluite [3]
+Mix below 200k
+Aluminium [3]
+Phenol [1]
+Sodium polyacrylate [1]
+  
+### <p style="color:white;"> Phenol [2]
+Mix
+Hydroxide [1]
+Benzine [1]
+  
+### <p style="color:white;"> Hydroxide [2]
+Mix above 325k
+Hydrogen [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Benzene [1]
+Mix above 310k
+Hydrogen [1]
+Carbon [1]
+  
+### <p style="color:white;"> Sodium polyacrylate [4]
+Mix
+Oxygen [2]
+Sodium [1]
+Nitrogen [1] 
+  
+## Tirimol [4]
+Mix
+Acetone [2]
+Sodium Polyacrylate [1]
+Sulfuric Acid [1]
+  
+### <p style="color:white;"> Acetone [2]
+Oil [1]
+Welding fuel [1]
+Oxygen [1]
+  
+### <p style="color:white;"> Oil [3] (Turns into ash at high heat)
+Welding fuel [1]
+Hydrogen [1]
+Carbon [1]
+  
+### <p style="color:white;"> Sodium polyacrylate [4]
+Mix
+Oxygen [2]
+Sodium [1]
+Nitrogen [1] 
+  
+### <p style="color:white;"> Sulfuric Acid [3]
+Oxygen [2]
+Hydrogen [1]
+Sulfur [1]
+  
+## Ultravasculine [2]
+Mix
+Histamine [2]
+Plasma [1] (Buffer)
