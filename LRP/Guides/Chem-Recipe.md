@@ -2,7 +2,7 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-23T01:16:23.587Z
+date: 2025-05-23T02:12:12.378Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
@@ -582,7 +582,7 @@ Chlorine trifluoride [1]
 Benzene [1]
   
 ### <p style="color:white;"> Chlorine trifluoride [4]
-Mix above 370k (Will explode)
+Mix above 370k (Will explode, best mixed in fire extinguisher, container will be fine but still explodes)
 Fluorine [3]
 Chlorine [1]
   
