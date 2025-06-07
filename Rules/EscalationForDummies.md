@@ -2,7 +2,7 @@
 title: How to escalate
 description: 
 published: true
-date: 2025-06-07T14:45:31.628Z
+date: 2025-06-07T14:49:02.880Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -19,7 +19,7 @@ Roleplay should be as expressive and as free as possible, but not a lot of peopl
 ## Crew escalation
 Escalation examples
 
-> The clown slips you, and you drop your tools. You shove the clown. When he then slips you again, you beat him to crit.
+> The clown slips you, and you drop your tools. You shove the clown. When he then slips you again, what do you do?
 
 <details>
   <summary>You yell at them and threaten to call security</summary>
