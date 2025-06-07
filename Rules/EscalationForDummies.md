@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T16:44:38.741Z
+date: 2025-06-07T16:45:03.282Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -72,7 +72,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 </details>
 
 ## Security Escalation
-<p id="security">sec escalation examples</p>
+<p id="security">Sec escalation examples</p>
 
 > You're called to a possible break-in. When you arrive you see there's been a confrontation between a department member and the invader. What do you do?
 
@@ -95,7 +95,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 ## Antagonist Escalation
 
-<p id="antag">antag escalation examples</p>
+<p id="antag">Antag escalation examples</p>
 
 > You're an agent hired by a syndicate agency. You've been given clear objectives to complete before shift end. While you're completing one of your objectives you notice there's somebody following you. What do you do?
 
