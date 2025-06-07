@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T21:15:16.865Z
+date: 2025-06-07T21:23:24.486Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -101,52 +101,49 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 ## Questions and answers
 <details>
-  <summary>Why can't I just attack the person annoying me?</summary>
-  Because this is an unrealistic escalation, you rarely immediately escalate in a real life situation like this.
+   <summary>Why can't I just attack the person annoying me?</summary>
+   Because this is an unrealistic escalation, you rarely immediately escalate in a real life situation like this.
 </details>
 <details>
-  <summary>Why am I disallowed to continue attacking the person I crit?</summary>
-  Because continuing to attack would result in their death and possible removal from the round in worst case scenario.
+   <summary>Why am I disallowed to continue attacking the person I crit?</summary>
+   Because continuing to attack would result in their death and possible removal from the round in worst case scenario.
 </details>
 <details>
-  <summary>Why did I get arrested?</summary>
-  Security, like you are also just other players. They won't know everything and just like in real life, they will more than likely take you both for questioning. Answering security and being friendly will almost always end in them letting you go. <p style="color: #55beef;">(This does not mean you have to - however you need to accept the consequences of being nasty to security, they have their ways of punishing you too)</p>
+   <summary>Why did I get arrested?</summary>
+   Security, like you are also just other players. They won't know everything and just like in real life, they will more than likely take you both for questioning. Answering security and being friendly will almost always end in them letting you go. 
+   <p style="color: #55beef;">(This does not mean you have to - however you need to accept the consequences of being nasty to security, they have their ways of punishing you too)</p>
 </details>
-
 ## Security Escalation
 <p id="security">Sec escalation scenario</p>
-
 > You're called to a possible break-in. When you arrive you see there's been a confrontation between a department member and the invader. What do you do?
 
- <div class="tabs">
+<div class="tabs">
    <input type="radio" name="tabs" id="tab3" checked>
-<label for="tab3">Security escalation</label>
-
-<input type="radio" name="tabs" id="tab4">
-<label for="tab4">Clown escalation</label>
-
-  <div class="tab-content content3">
-<details>
-  <summary>I attempt to break them up with my stun baton/pistol</summary>
-  This is good escalation and handling of the situation. Calling for backup is also good in this scenario.
-</details>
-<details>
-  <summary>I stand back for now and call for backup</summary>
-    This is also fine, when there's multiple people and only 1 of you. Sometimes it's better to pick your battles more wisely.
-</details>
-<details>
-  <summary>I immediately open fire and kill everyone involved</summary>
-    <audio controls>
-  <source src="/adminhelp.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio>
-</details>
-<details>
-  <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
-	<input type="text" value="default text">
-    </details> </div>
-  
- <div class="tab-content content4">
+   <label for="tab3">Security escalation</label>
+   <input type="radio" name="tabs" id="tab4">
+   <label for="tab4">Clown escalation</label>
+   <div class="tab-content content3">
+      <details>
+         <summary>I attempt to break them up with my stun baton/pistol</summary>
+         This is good escalation and handling of the situation. Calling for backup is also good in this scenario.
+      </details>
+      <details>
+         <summary>I stand back for now and call for backup</summary>
+         This is also fine, when there's multiple people and only 1 of you. Sometimes it's better to pick your battles more wisely.
+      </details>
+      <details>
+         <summary>I immediately open fire and kill everyone involved</summary>
+         <audio controls>
+            <source src="/adminhelp.ogg" type="audio/ogg">
+            Your browser does not support the audio element.
+         </audio>
+      </details>
+      <details>
+         <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
+         <input type="text" value="default text">
+      </details>
+   </div>
+   <div class="tab-content content4">
       <details>
          <summary>I decide this is a good time to throw a pie</summary>
          Uhuh...
@@ -159,7 +156,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
          <summary>I take out my toy sword and continue my evil assault on the crew member</summary>
          <p>Very true</p>
       </details>
-       <details>
+      <details>
          <summary>I decide it is time to welder bomb security</summary>
          <audio controls>
             <source src="/adminhelp.ogg" type="audio/ogg">
@@ -170,8 +167,9 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
          <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
          <input type="text" value="default text">
       </details>
-   </div>  
+   </div>
 </div>
+
  
   
 ## Security Escalation Diagram
