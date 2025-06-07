@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T22:29:32.856Z
+date: 2025-06-07T22:30:56.355Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -263,3 +263,4 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
   <summary>I try to find out how many borgs I can emag and arm up before they're on to me.</summary>
   Sounds about right.
 </details>
+You get the idea - DAGD means escalation doesn't apply to you.
