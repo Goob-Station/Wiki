@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T17:55:50.617Z
+date: 2025-06-07T17:59:33.582Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -31,60 +31,57 @@ We will look at escalation for 3 separate but common roles:
 
 > The clown slips you, and you drop your tools. You shove the clown. When he then slips you again, what do you do?
 
-  <div class="tabs">
-  <input type="radio" name="tabs" id="tab1" checked>
-  <label for="tab1">Normal escalation</label>
+ <div class="tabs">
+   <input type="radio" name="tabs" id="tab1" checked>
+   <label for="tab1">Normal escalation</label>
    <div class="tab-content content1">
-  <details>
-  <summary>I yell at them and threaten to call security</summary>
-  This is good escalation. 
-</details>
+      <details>
+         <summary>I yell at them and threaten to call security</summary>
+         This is good escalation. 
+      </details>
+      <details>
+         <summary>I attack the clown</summary>
+         You didn't need to jump straight to physical violence. There are some scenarios this is fine, but for a non-aggressive situation it should not generally be your go-to.
+      </details>
+      <details>
+         <summary>I shoot the clown</summary>
+         <p>Why the fuck do you have a gun? Bwoink!</p>
+         <audio controls>
+            <source src="/adminhelp.ogg" type="audio/ogg">
+            Your browser does not support the audio element.
+         </audio>
+      </details>
+      <details>
+         <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
+         <input type="text" value="default text">
+      </details>
+   </div>
   
-<details>
-  <summary>I attack the clown</summary>
-    You didn't need to jump straight to physical violence. There are some scenarios this is fine, but for a non-aggressive situation it should not generally be your go-to.
-</details>
-<details>
-  <summary>I shoot the clown</summary>
-  <p>Why the fuck do you have a gun? Bwoink!</p>
-<audio controls>
-  <source src="/adminhelp.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio>
-</details>
-<details>
-  <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
-	<input type="text" value="default text">
-</details> 
-  </div>
-    <input type="radio" name="tabs" id="tab2" checked>
-  <label for="tab1">Normal escalation</label>
+   <input type="radio" name="tabs" id="tab2" checked>
+   <label for="tab1">Clown escalation</label>
    <div class="tab-content content2">
-  <details>
-  <summary>I yell at them and threaten to call security</summary>
-  This is good escalation. 
-</details>
-  
-<details>
-  <summary>I attack the clown</summary>
-    You didn't need to jump straight to physical violence. There are some scenarios this is fine, but for a non-aggressive situation it should not generally be your go-to.
-</details>
-<details>
-  <summary>I shoot the clown</summary>
-  <p>Why the fuck do you have a gun? Bwoink!</p>
-<audio controls>
-  <source src="/adminhelp.ogg" type="audio/ogg">
-  Your browser does not support the audio element.
-</audio>
-</details>
-<details>
-  <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
-	<input type="text" value="default text">
-</details> 
-  </div>
-  
-  
-   </div>  
+      <details>
+         <summary>I yell at them and threaten to call security</summary>
+         This is good escalation. 
+      </details>
+      <details>
+         <summary>I attack the clown</summary>
+         You didn't need to jump straight to physical violence. There are some scenarios this is fine, but for a non-aggressive situation it should not generally be your go-to.
+      </details>
+      <details>
+         <summary>I shoot the clown</summary>
+         <p>Why the fuck do you have a gun? Bwoink!</p>
+         <audio controls>
+            <source src="/adminhelp.ogg" type="audio/ogg">
+            Your browser does not support the audio element.
+         </audio>
+      </details>
+      <details>
+         <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
+         <input type="text" value="default text">
+      </details>
+   </div>
+</div>
    
  
 
