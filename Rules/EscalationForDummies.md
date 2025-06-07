@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T18:07:57.320Z
+date: 2025-06-07T18:08:30.626Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -64,7 +64,7 @@ We will look at escalation for 3 separate but common roles:
    
    <div class="tab-content content2">
       <details>
-         <summary>I yell at them and threaten to call security</summary>
+         <summary>I yell at them and threaten to call</summary>
          This is good escalation. 
       </details>
       <details>
@@ -73,7 +73,7 @@ We will look at escalation for 3 separate but common roles:
       </details>
       <details>
          <summary>I shoot the clown</summary>
-         <p>Why the fuck do you have a gun? Bwoink!</p>
+         <p>Why the fuck do y</p>
          <audio controls>
             <source src="/adminhelp.ogg" type="audio/ogg">
             Your browser does not support the audio element.
