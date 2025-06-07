@@ -2,7 +2,7 @@
 title: How to escalate
 description: 
 published: true
-date: 2025-06-07T16:04:57.468Z
+date: 2025-06-07T16:05:40.570Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -57,7 +57,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 </details>
 <details>
   <summary>Why did I get arrested?</summary>
-  Security, like you are also just other players. They won't know everything and just like in real life, they will more than likely take you both for questioning. Answering security and being friendly will almost always end in them letting you go.
+  Security, like you are also just other players. They won't know everything and just like in real life, they will more than likely take you both for questioning. Answering security and being friendly will almost always end in them letting you go. (This does not mean you have to - however you need to accept the consequences of being nasty to security, they have their ways of punishing you too)
 </details>
 
 
