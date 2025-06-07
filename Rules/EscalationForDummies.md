@@ -2,7 +2,7 @@
 title: How to escalate
 description: 
 published: true
-date: 2025-06-07T14:45:08.848Z
+date: 2025-06-07T14:45:31.628Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -17,6 +17,7 @@ This is not however a "how you roleplay" guide. YOU decide your roleplay style, 
 Roleplay should be as expressive and as free as possible, but not a lot of people know how to handle or respect the idea of their role, especially when it relates to escalation.
 
 ## Crew escalation
+Escalation examples
 
 > The clown slips you, and you drop your tools. You shove the clown. When he then slips you again, you beat him to crit.
 
