@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T21:57:30.004Z
+date: 2025-06-07T22:29:32.856Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -14,17 +14,17 @@ dateCreated: 2025-06-07T13:58:24.833Z
 
 # How to Escalate 
 
-This page exists just to show the general concepts around escalation and what would generally be expected in your role and how roleplay will typically go. 
+This page exists to explain the general concept of escalation, including what is generally expected of you in a role during roleplay. 
 
-This is not, however, a "how you roleplay" guide. YOU decide your role-play style, you make every choice. The one thing we want to see is people sticking to their role and not over-escalating.
+Do note that this is a guideline, *not* an exact step-for-step dictation of what you are supposed to do. *You* decide your style and choices during roleplay. The guideline only exists to help you determine what is and isn't over-escalation.
 
-<strong><p style="color: #55beef;">Roleplay should be as expressive and as free as possible, but not a lot of people know how to handle or respect the idea of their role, especially when it relates to escalation. Like anything, practice makes perfect. This page will help you establish the boundries of roleplay around escalation</p></strong>
+<strong><p style="color: #55beef;">Roleplay should be as expressive and as free as possible. However, not a lot of people know how to handle or respect the idea of their role, especially when it relates to escalation. Like with anything, practice makes perfect. This page will help you establish the boundries of roleplay around escalation.</p></strong>
 
-We will look at escalation for 3 separate but common roles:
+We will look at escalation for three separate but common roles:
 
 <a href="#crew">Crew escalation</a>
 <a href="#security">Security escalation</a>
-<a href="#antag">Antag escalation</a>
+<a href="#antag">Antagonist escalation</a>
 
 ## Crew Escalation
 <p id="crew">Crew escalation scenario</p>
@@ -41,15 +41,15 @@ We will look at escalation for 3 separate but common roles:
    <div class="tab-content content1">
       <details>
          <summary>I yell at them and threaten to call security</summary>
-         This is good escalation. 
+         This is good escalation.
       </details>
       <details>
          <summary>I attack the clown</summary>
-         You didn't need to jump straight to physical violence. There are some scenarios this is fine, but for a non-aggressive situation it should not generally be your go-to.
+         You didn't need to jump straight to physical violence. There are some scenarios in which this is fine, but for a non-aggressive situation it should not generally be your immediate go-to.
       </details>
       <details>
          <summary>I shoot the clown</summary>
-         <p>Why the fuck do you have a gun? Bwoink!</p>
+         <p>Why do you have a gun? Bwoink!</p>
          <audio controls>
             <source src="/adminhelp.ogg" type="audio/ogg">
             Your browser does not support the audio element.
@@ -57,7 +57,7 @@ We will look at escalation for 3 separate but common roles:
       </details>
       <details>
          <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
-         <input type="text" value="default text">
+         <input type="text" value="">
       </details>
    </div>
   
@@ -84,7 +84,7 @@ We will look at escalation for 3 separate but common roles:
       </details>
       <details>
          <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
-         <input type="text" value="default text">
+         <input type="text" value="">
       </details>
    </div>
 </div>
@@ -106,18 +106,18 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 </details>
 <details>
    <summary>Why am I disallowed to continue attacking the person I crit?</summary>
-   Because continuing to attack would result in their death and possible removal from the round in worst case scenario.
+   Because continuing to attack would result in their death and possible removal from the round in worst case scenario. Beating someone into a critical condition while enraged is one thing, murder is another.
 </details>
 <details>
    <summary>Why did I get arrested?</summary>
-   Security, like you are also just other players. They won't know everything and just like in real life, they will more than likely take you both for questioning. Answering security and being friendly will almost always end in them letting you go. 
-   <p style="color: #55beef;">(This does not mean you have to - however you need to accept the consequences of being nasty to security, they have their ways of punishing you too)</p>
+   Security, like you, are also just other players. They won't know everything, and just like in real life, they will more than likely take you both for questioning. Answering security and being friendly will almost always end in them letting you go. 
+   <p style="color: #55beef;">(This does not mean you have to! However, you need to accept the consequences of being nasty to security; they have their ways of punishing you too)</p>
 </details>
 
 ## Security Escalation
 
-<p id="security">Sec escalation scenario</p>
-> You're called to a possible break-in. When you arrive you see there's been a confrontation between a department member and the invader. What do you do?
+<p id="security">Security escalation scenario</p>
+> You're called to a possible break-in. When you arrive you see there's been a confrontation between a department member and what appears to be the invader. What do you do?
 
 <div class="tabs">
    <input type="radio" name="tabs" id="tab3" checked>
@@ -127,11 +127,11 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
    <div class="tab-content content3">
       <details>
          <summary>I attempt to break them up with my stun baton/pistol</summary>
-         This is good escalation and handling of the situation. Calling for backup is also good in this scenario.
+         This is a good example of effective escalation and handling of the situation. Calling for backup is also good in this scenario.
       </details>
       <details>
          <summary>I stand back for now and call for backup</summary>
-         This is also fine, when there's multiple people and only 1 of you. Sometimes it's better to pick your battles more wisely.
+         This is also fine; when there's multiple people and only one of you. Sometimes it's better to pick your battles more wisely.
       </details>
       <details>
          <summary>I immediately open fire and kill everyone involved</summary>
@@ -142,7 +142,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
       </details>
       <details>
          <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
-         <input type="text" value="default text">
+         <input type="text" value="">
       </details>
    </div>
   
@@ -185,35 +185,81 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 ## Antagonist Escalation
 
-<p id="antag">Antag escalation scenario</p>
+<p id="antag">Antagonist escalation scenario</p>
 
-> You're an agent hired by a syndicate agency. You've been given clear objectives to complete before shift end. While you're completing one of your objectives you notice someone is persistently interfeering with your objective. What do you do?
+> You're an agent hired by a syndicate agency. You've been given clear objectives to complete before shift end. While you're completing one of your objectives, you notice someone is persistently interfering with your objective. What do you do?
 
 <details>
   <summary>I ask what they want</summary>
   This is totally fine.
 </details>
 <details>
-  <summary>I tell them to go away or I will make them</summary>
+  <summary>I tell them to go away, or I will make them</summary>
     This is totally fine.
 </details>
 <details>
-  <summary>I walk into a dark part of maints, where they continued to follow and kill them</summary>
+  <summary>I walk into a dark part of maints, should they still follow me, I'll proceed to murder</summary>
     This is totally fine.
 </details>
 <details>
   <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
-	<input type="text" value="default text">
+	<input type="text" value="">
 </details>
 
-Antagonists, unlike most other crew are unique in that they don't need to follow escalation the way anyone else does. But with great power, comes great shittery. So lets explore some more antagonist scenarios. 
+Antagonists, unlike most other crew, are unique in that they don't need to follow escalation in the same way others do. But with great power, comes great shittery. So let's explore some more antagonist scenarios. 
 
+>You have a clear objective to steal the Captain's jetpack and kill Franklin, botanist.
+<details>
+  <summary>I beat up the captain to steal his ID, break in to his office and grab the jetpack</summary>
+  This is totally fine. Grab a gun, they're gonna know you're coming.
+</details>
+<details>
+  <summary>I plasmaflood the hallway, so the captain will hopefully die and I can take his ID</summary>
+  Come on, now.<br>
+		<audio controls>
+      <source src="/adminhelp.ogg" type="audio/ogg">
+      Your browser does not support the audio element.
+  	</audio>
+</details>
+<details>
+  <summary>I slice up the botanist and shoot everyone who sees me do it</summary>
+  This is fine, but... you know stealth is an option, right? Maints is <i>right there.</i>
+</details>
 
+>You're a Thief. You're pacified, and have a set of things you need to steal.
+<details>
+  <summary>I start an elaborate scheme to cause a fight between crew outside, using the distraction to slip inside...</summary>
+  Very nice.
+</details>
+<details>
+  <summary>I find creative ways to get around the pacifism, so I can force my way into offices for my objectives.</summary>
+  Clever, but please don't. You're pacified for a reason.<br>
+  <audio controls>
+      <source src="/adminhelp.ogg" type="audio/ogg">
+      Your browser does not support the audio element.
+  </audio>
+</details>
 
+>You have an objective to steal stuff from Cargo, and kill two Cargotech
+<details>
+  <summary>I steal the Cargo Shuttle and ram the station - with some luck, it'll take out those cargotechs</summary>
+  No.<br>
+  <audio controls>
+    <source src="/adminhelp.ogg" type="audio/ogg">
+    Your browser does not support the audio element.
+  </audio>
+</details>
 
-
-
-
-
-
-
+>Yes! You finally rolled DAGD! What to do...
+<details>
+  <summary>Tesloose/Singuloose!</summary>
+  Go for it. A little boring, but it's your party.
+</details>
+<details>
+  <summary>I'll get an L6 and try shooting my way out - mix things up a little.</summary>
+  Lock and load!
+</details>
+<details>
+  <summary>I try to find out how many borgs I can emag and arm up before they're on to me.</summary>
+  Sounds about right.
+</details>
