@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T20:22:07.283Z
+date: 2025-06-07T20:23:02.145Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
