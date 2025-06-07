@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T16:29:28.371Z
+date: 2025-06-07T16:37:18.362Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -28,7 +28,7 @@ We will look at escalation for 3 separate but common roles:
 > The clown slips you, and you drop your tools. You shove the clown. When he then slips you again, what do you do?
 
 <details>
-  <summary>You yell at them and threaten to call security</summary>
+  <summary>I yell at them and threaten to call security</summary>
   This is good escalation. 
 </details>
 <details>
@@ -70,15 +70,19 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 ## Security Escalation
 <p id="security">sec escalation examples</p>
 
-> The clown slips you, and you drop your tools. You shove the clown. When he then slips you again, what do you do?
+> You're called to a possible break-in. When you arrive you see there's been a confrontation between a department member and the invader. What do you do?
 
 <details>
-  <summary>You yell at them and threaten to call security</summary>
-  This is good escalation. 
+  <summary>I attempt to break them up with my stun baton/pistol</summary>
+  This is good escalation and handling of the situation. Calling for backup is also good in this scenario.
 </details>
 <details>
-  <summary>I attack the clown</summary>
-    You didn't need to jump straight to physical violence. There are some scenarios this is fine, but for a non-aggressive situation it should not generally be your go-to.
+  <summary>I stand back for now and call for backup</summary>
+    This is also fine, when there's multiple people and only 1 of you. Sometimes it's better to pick your battles more wisely.
+</details>
+<details>
+  <summary>I immediately open fire and kill everyone involved</summary>
+    This is a good way to find an admin on your screen.
 </details>
 <details>
   <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
