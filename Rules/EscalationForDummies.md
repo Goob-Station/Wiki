@@ -2,7 +2,7 @@
 title: How to escalate
 description: 
 published: true
-date: 2025-06-07T16:09:40.719Z
+date: 2025-06-07T16:10:29.655Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -30,7 +30,7 @@ Escalation examples
     You didn't need to jump straight to physical violence. There are some scenarios this is fine, but for a non-aggressive situation it should not generally be your go-to.
 </details>
 <details>
-  <summary>Self-excercise(If you want you can ask the admins in discord if your roleplay is acceptable) </summary>
+  <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
 	<input type="text" value="default text">
 </details>
 
