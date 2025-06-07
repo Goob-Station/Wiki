@@ -2,7 +2,7 @@
 title: How to escalate
 description: 
 published: true
-date: 2025-06-07T16:05:40.570Z
+date: 2025-06-07T16:06:00.818Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -53,7 +53,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 </details>
 <details>
   <summary>Why am I disallowed to continue attacking the person I crit?</summary>
-  Because continuing to attack would result in their death and possible removal from the round in some of the worst situations. 
+  Because continuing to attack would result in their death and possible removal from the round in worst case secnario.
 </details>
 <details>
   <summary>Why did I get arrested?</summary>
