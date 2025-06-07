@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T16:49:59.223Z
+date: 2025-06-07T16:51:56.599Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -38,6 +38,10 @@ We will look at escalation for 3 separate but common roles:
 <details>
   <summary>I attack the clown</summary>
     You didn't need to jump straight to physical violence. There are some scenarios this is fine, but for a non-aggressive situation it should not generally be your go-to.
+</details>
+<details>
+  <summary>I shoot the clown</summary>
+    Why the fuck do you have a gun? Bwoink!
 </details>
 <details>
   <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
