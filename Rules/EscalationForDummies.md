@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T20:23:02.145Z
+date: 2025-06-07T20:34:39.682Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -99,17 +99,6 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Questions and answers
 <details>
   <summary>Why can't I just attack the person annoying me?</summary>
@@ -182,10 +171,10 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
          <input type="text" value="default text">
       </details>
    </div>  
-
-  </div>
+</div>
  
   
+## Security Escalation Diagram
 
 
 ## Antagonist Escalation
