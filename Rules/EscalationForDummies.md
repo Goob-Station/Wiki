@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T16:25:10.033Z
+date: 2025-06-07T16:25:50.988Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -16,11 +16,11 @@ This is not, however, a "how you roleplay" guide. YOU decide your role-play styl
 
 <strong><p style="color: #55beef;">Roleplay should be as expressive and as free as possible, but not a lot of people know how to handle or respect the idea of their role, especially when it relates to escalation. Like anything, practice makes perfect. This page will help you establish the boundries of roleplay around escalation</p></strong>
 
-We will look at escalation for 3 separate but common roles
+We will look at escalation for 3 separate but common roles:
 
 <a href="#crew">Crew escalation</a>
-<a href="#security">Security</a>
-<a href="#antags">Antags</a>
+<a href="#security">Security escalation</a>
+<a href="#antags">Antag escalation</a>
 
 ## Crew escalation
 <p id="crew">Escalation examples</p>
