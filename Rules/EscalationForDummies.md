@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T16:51:56.599Z
+date: 2025-06-07T16:53:07.493Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -12,7 +12,7 @@ dateCreated: 2025-06-07T13:58:24.833Z
   🚨 This page is a Work in Progress. Expect updates and changes. 🚨
 </div>
 
-# How to escalate 
+# How to Escalate 
 
 This page exists just to show the general concepts around escalation and what would generally be expected in your role and how roleplay will typically go. 
 
