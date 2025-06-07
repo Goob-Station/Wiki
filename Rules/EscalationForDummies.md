@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T16:58:58.485Z
+date: 2025-06-07T17:01:50.424Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -42,10 +42,10 @@ We will look at escalation for 3 separate but common roles:
 <details>
   <summary>I shoot the clown</summary>
   <p>Why the fuck do you have a gun? Bwoink!</p>
-  <audio controls>
-    <source src="adminhelp.ogg" type="audio/ogg">
-    Your browser does not support the audio element.
-  </audio>
+<audio controls>
+  <source src="/adminhelp.ogg" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio>
 </details>
 <details>
   <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
