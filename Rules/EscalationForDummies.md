@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T16:39:29.853Z
+date: 2025-06-07T16:44:38.741Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -95,24 +95,28 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 ## Antagonist Escalation
 
-<p id="antag">sec escalation examples</p>
+<p id="antag">antag escalation examples</p>
 
-> The clown slips you, and you drop your tools. You shove the clown. When he then slips you again, what do you do?
+> You're an agent hired by a syndicate agency. You've been given clear objectives to complete before shift end. While you're completing one of your objectives you notice there's somebody following you. What do you do?
 
 <details>
-  <summary>You yell at them and threaten to call security</summary>
-  This is good escalation. 
+  <summary>I ask what they want</summary>
+  This is totally fine.
 </details>
 <details>
-  <summary>I attack the clown</summary>
-    You didn't need to jump straight to physical violence. There are some scenarios this is fine, but for a non-aggressive situation it should not generally be your go-to.
+  <summary>I tell them to go away or I will make them</summary>
+    This is totally fine.
+</details>
+<details>
+  <summary>I walk into a dark part of maints, where they continued to follow and kill them</summary>
+    This is totally fine.
 </details>
 <details>
   <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
 	<input type="text" value="default text">
 </details>
 
-
+Antagonists, unlike most other crew are unique in that they don't need to follow escalation the way anyone else does. But with great power, comes great shittery. So lets explore some more antagonist scenarios. 
 
 
 
