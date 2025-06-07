@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T16:11:56.529Z
+date: 2025-06-07T16:15:26.516Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -10,11 +10,11 @@ dateCreated: 2025-06-07T13:58:24.833Z
 
 # How to escalate 
 
-This page exists just to show the general concepts around escalation and what would generally be expected in your role and how roleplay will typically go.
+This page exists just to show the general concepts around escalation and what would generally be expected in your role and how roleplay will typically go. 
 
-This is not however a "how you roleplay" guide. YOU decide your roleplay style, you make every choice. The one thing we want to see is people sticking to their role and not over-escalating. 
+This is not, however, a "how you roleplay" guide. YOU decide your role-play style, you make every choice. The one thing we want to see is people sticking to their role and not over-escalating.
 
-Roleplay should be as expressive and as free as possible, but not a lot of people know how to handle or respect the idea of their role, especially when it relates to escalation.
+<u><strong><p style="color: #55beef;">Roleplay should be as expressive and as free as possible, but not a lot of people know how to handle or respect the idea of their role, especially when it relates to escalation.</p></strong></u>
 
 ## Crew escalation
 Escalation examples
