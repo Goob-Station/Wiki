@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T16:45:30.032Z
+date: 2025-06-07T16:49:59.223Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -60,11 +60,11 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 ## Questions and answers
 <details>
   <summary>Why can't I just attack the person annoying me?</summary>
-  Because this is an unrealistic scenario, you rarely immediately escalate in a real life situation like this.
+  Because this is an unrealistic escalation, you rarely immediately escalate in a real life situation like this.
 </details>
 <details>
   <summary>Why am I disallowed to continue attacking the person I crit?</summary>
-  Because continuing to attack would result in their death and possible removal from the round in worst case secnario.
+  Because continuing to attack would result in their death and possible removal from the round in worst case scenario.
 </details>
 <details>
   <summary>Why did I get arrested?</summary>
