@@ -2,7 +2,7 @@
 title: How to escalate
 description: 
 published: true
-date: 2025-06-07T14:49:02.880Z
+date: 2025-06-07T14:54:37.544Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -23,11 +23,11 @@ Escalation examples
 
 <details>
   <summary>You yell at them and threaten to call security</summary>
-  This is better escalation
+  This is good escalation.
 </details>
 <details>
   <summary>I attack the clown</summary>
-    You didn't need to jump straight to physical violence.
+    You didn't need to jump straight to physical violence. There are some scenarios this is fine, but for a non-aggressive situation it should not generally be your go-to.
 </details>
 <details>
   <summary>Self-excercise(If you want you can ask the admins in discord if your roleplay is acceptable) </summary>
