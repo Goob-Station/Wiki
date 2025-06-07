@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T17:59:33.582Z
+date: 2025-06-07T18:04:20.581Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -34,6 +34,9 @@ We will look at escalation for 3 separate but common roles:
  <div class="tabs">
    <input type="radio" name="tabs" id="tab1" checked>
    <label for="tab1">Normal escalation</label>
+  <input type="radio" name="tabs" id="tab2" checked>
+   <label for="tab2">Clown escalation</label>
+  
    <div class="tab-content content1">
       <details>
          <summary>I yell at them and threaten to call security</summary>
@@ -57,8 +60,7 @@ We will look at escalation for 3 separate but common roles:
       </details>
    </div>
   
-   <input type="radio" name="tabs" id="tab2" checked>
-   <label for="tab1">Clown escalation</label>
+   
    <div class="tab-content content2">
       <details>
          <summary>I yell at them and threaten to call security</summary>
