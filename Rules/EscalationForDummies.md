@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T16:24:50.906Z
+date: 2025-06-07T16:25:10.033Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -19,8 +19,8 @@ This is not, however, a "how you roleplay" guide. YOU decide your role-play styl
 We will look at escalation for 3 separate but common roles
 
 <a href="#crew">Crew escalation</a>
-Security
-Antags
+<a href="#security">Security</a>
+<a href="#antags">Antags</a>
 
 ## Crew escalation
 <p id="crew">Escalation examples</p>
