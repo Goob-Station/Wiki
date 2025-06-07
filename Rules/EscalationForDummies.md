@@ -1,0 +1,31 @@
+---
+title: Untitled Page
+description: 
+published: true
+date: 2025-06-07T13:58:24.833Z
+tags: 
+editor: markdown
+dateCreated: 2025-06-07T13:58:24.833Z
+---
+
+<div class="disclaimer-box">
+  🚨 This page is a Work in Progress. Expect updates and changes. 🚨
+</div>
+
+<h1>Title</h1>
+<table class="wikitable" border="1" cellspacing="0" cellpadding="2">
+   <tbody>
+      <tr>
+         <th scope="col" style="width:20%; background-color:#cc6666;">Policy</th>
+         <th scope="col" style="background-color:#cc6666;" class="">Ruling</th>
+         <th scope="col" style="text-align: center; width:10%; background-color:#cc6666;">Date</th>
+         <th scope="col" style="text-align: center; width:10%; background-color:#cc6666;">Headmin</th>
+      </tr>
+      <tr>
+         <td><b>As BSO, if a command member refuses to get themselves tracked, what am I allowed to do?</b></td>
+         <td><a rel="nofollow" class="external text" href="https://discord.com/channels/1202734573247795300/1375320256003702895/1377746058360127689">Command is allowed to refuse implantation.</a></td>
+         <td>29 May, 2025</td>
+         <td>phoenixpontifex</td>
+      </tr>
+   </tbody>
+</table>
