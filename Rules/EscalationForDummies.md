@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T18:11:13.395Z
+date: 2025-06-07T18:14:48.121Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -33,7 +33,7 @@ We will look at escalation for 3 separate but common roles:
 
  <div class="tabs">
    <input type="radio" name="tabs" id="tab1" checked>
-<label for="tab1">Normal escalation</label>
+<label for="tab1">Crew escalation</label>
 
 <input type="radio" name="tabs" id="tab2">
 <label for="tab2">Clown escalation</label>
@@ -64,16 +64,19 @@ We will look at escalation for 3 separate but common roles:
    
    <div class="tab-content content2">
       <details>
-         <summary>I yell at them and threaten to call</summary>
-         This is good escalation. 
+         <summary>I decide this is a good time to throw a pie</summary>
+         Uhuh...
       </details>
       <details>
-         <summary>I attack the clown</summary>
-         You didn't need to jump straight to physical violence. There are some scenarios this is fine, but for a non-aggressive situation it should not generally be your go-to.
+         <summary>I run away with all of their tools to hide in my CLOWN MANSION</summary>
+         Sounds about right.
       </details>
       <details>
-         <summary>I shoot the clown</summary>
-         <p>Why the fuck do y</p>
+         <summary>I take out my toy sword and continue my evil assault on the crew member</summary>
+         <p>Very true</p>
+      </details>
+       <details>
+         <summary>I decide it is time to welder bomb security</summary>
          <audio controls>
             <source src="/adminhelp.ogg" type="audio/ogg">
             Your browser does not support the audio element.
