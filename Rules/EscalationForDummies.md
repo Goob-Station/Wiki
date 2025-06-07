@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T16:15:26.516Z
+date: 2025-06-07T16:16:16.323Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -14,7 +14,7 @@ This page exists just to show the general concepts around escalation and what wo
 
 This is not, however, a "how you roleplay" guide. YOU decide your role-play style, you make every choice. The one thing we want to see is people sticking to their role and not over-escalating.
 
-<u><strong><p style="color: #55beef;">Roleplay should be as expressive and as free as possible, but not a lot of people know how to handle or respect the idea of their role, especially when it relates to escalation.</p></strong></u>
+<u><strong><p style="color: #55beef;">Roleplay should be as expressive and as free as possible, but not a lot of people know how to handle or respect the idea of their role, especially when it relates to escalation. Like anything, practice makes perfect. So this page will help you establish the boundries</p></strong></u>
 
 ## Crew escalation
 Escalation examples
