@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T18:14:48.121Z
+date: 2025-06-07T20:22:07.283Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -129,6 +129,14 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 > You're called to a possible break-in. When you arrive you see there's been a confrontation between a department member and the invader. What do you do?
 
+ <div class="tabs">
+   <input type="radio" name="tabs" id="tab3" checked>
+<label for="tab3">Security escalation</label>
+
+<input type="radio" name="tabs" id="tab4">
+<label for="tab4">Clown escalation</label>
+
+  <div class="tab-content content3">
 <details>
   <summary>I attempt to break them up with my stun baton/pistol</summary>
   This is good escalation and handling of the situation. Calling for backup is also good in this scenario.
@@ -147,7 +155,38 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 <details>
   <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
 	<input type="text" value="default text">
-</details>
+    </details> </div>
+  
+ <div class="tab-content content4">
+      <details>
+         <summary>I decide this is a good time to throw a pie</summary>
+         Uhuh...
+      </details>
+      <details>
+         <summary>I run away with all of their tools to hide in my CLOWN MANSION</summary>
+         Sounds about right.
+      </details>
+      <details>
+         <summary>I take out my toy sword and continue my evil assault on the crew member</summary>
+         <p>Very true</p>
+      </details>
+       <details>
+         <summary>I decide it is time to welder bomb security</summary>
+         <audio controls>
+            <source src="/adminhelp.ogg" type="audio/ogg">
+            Your browser does not support the audio element.
+         </audio>
+      </details>
+      <details>
+         <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
+         <input type="text" value="default text">
+      </details>
+   </div>  
+
+  </div>
+ 
+  
+
 
 ## Antagonist Escalation
 
