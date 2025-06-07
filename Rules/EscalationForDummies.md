@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-07T17:01:50.424Z
+date: 2025-06-07T17:02:53.555Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -94,7 +94,10 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 </details>
 <details>
   <summary>I immediately open fire and kill everyone involved</summary>
-    This is a good way to find an admin on your screen.
+    <audio controls>
+  <source src="/adminhelp.ogg" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio>
 </details>
 <details>
   <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
