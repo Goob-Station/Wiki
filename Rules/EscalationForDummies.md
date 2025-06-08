@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-08T15:28:48.153Z
+date: 2025-06-08T15:31:11.211Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -225,7 +225,6 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
 </details>
 <details>
   <summary>I plasmaflood the hallway, so the captain will hopefully die and I can take his ID</summary>
-  Come on, now.<br>
 		<audio controls>
       <source src="/adminhelp.ogg" type="audio/ogg">
       Your browser does not support the audio element.
@@ -243,7 +242,7 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
 </details>
 <details>
   <summary>I find creative ways to get around the pacifism, so I can force my way into offices for my objectives.</summary>
-  Clever, but please don't. You're pacified for a reason.<br>
+  Clever, but it's preferable you do not. There's a lot of fun challenge in being pacified on a station of violence.<br>
   <audio controls>
       <source src="/adminhelp.ogg" type="audio/ogg">
       Your browser does not support the audio element.
