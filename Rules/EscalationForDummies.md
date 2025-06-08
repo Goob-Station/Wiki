@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-08T15:27:55.688Z
+date: 2025-06-08T15:28:22.409Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -122,7 +122,7 @@ Security is one of the most, if not the most difficult department to play in Spa
 
 Contrary to popular belief, security is also extremely roleplay heavy. You will find yourself playing like you're in an army simulator, despite being on a wacky Space Station. Communication is key in the success of security. Communicate everything if you must, even if you don't always get a direct answer. I promise you this is only beneficial.
 
-With this in mind and with securities access to the stations armory. This comes at the cost of them having to follow <a href="https://wiki.goobstation.com/en/LRP/Guides/Space_Law">Space Law</a>. You do not need to have <a href="https://wiki.goobstation.com/en/LRP/Guides/Space_Law">Space Law</a> memorised from the beginning, you can learn on the job, so it is recommended to play as cadet for as much time as possible. But understanding Space Law allows you to know exactly what you can or can't do. Also where you can bend the rules if you intend to. 
+With this in mind and with securities access to the stations armory. This comes at the cost of them having to follow <a href="https://wiki.goobstation.com/en/LRP/Guides/Space_Law">Space Law</a>. You do not need to have <a href="https://wiki.goobstation.com/en/LRP/Guides/Space_Law">Space Law</a> memorised from the beginning, you can learn on the job, so it is recommended to play as cadet for as much time as possible. But understanding <a href="https://wiki.goobstation.com/en/LRP/Guides/Space_Law">Space Law</a> allows you to know exactly what you can or can't do. Also where you can bend the rules if you intend to. 
 
 > You're called to a possible break-in. When you arrive you see there's been a confrontation between a department member and what appears to be the invader. What do you do?
 
