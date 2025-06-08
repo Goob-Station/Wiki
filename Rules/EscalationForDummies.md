@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-08T15:31:11.211Z
+date: 2025-06-08T15:32:09.909Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -252,7 +252,7 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
 >You have an objective to steal stuff from Cargo, and kill two Cargotech
 <details>
   <summary>I steal the Cargo Shuttle and ram the station - with some luck, it'll take out those cargotechs</summary>
-  No.<br>
+  No. This would not only destroy the shuttle, but also the department as a whole.<br>
   <audio controls>
     <source src="/adminhelp.ogg" type="audio/ogg">
     Your browser does not support the audio element.
@@ -262,7 +262,7 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
 >Yes! You finally rolled DAGD! What to do...
 <details>
   <summary>Tesloose/Singuloose!</summary>
-  Go for it. A little boring, but it's your party.
+  Boring, but fine.
 </details>
 <details>
   <summary>I'll get an L6 and try shooting my way out - mix things up a little.</summary>
