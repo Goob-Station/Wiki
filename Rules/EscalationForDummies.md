@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-08T15:34:51.437Z
+date: 2025-06-08T15:36:01.295Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -273,3 +273,16 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
   Fun for more than just you!
 </details>
 You get the idea - DAGD means escalation doesn't apply to you.
+
+
+<p>
+  This is some content with a footnote reference<sup><a href="#footnote1" id="ref1">1</a></sup>.
+</p>
+
+<hr>
+
+<ol>
+  <li id="footnote1">
+    This is the footnote content. <a href="#ref1">↩</a>
+  </li>
+</ol>
