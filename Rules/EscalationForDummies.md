@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-08T15:19:37.661Z
+date: 2025-06-08T15:23:59.856Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -117,6 +117,11 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 ## Security Escalation
 
 <p id="security">Security escalation scenario</p>
+
+Security is one of the most, if not the most difficult department to play in Space Station 14. It requires a lot of game knowledge and will come with a lot of trial and error. 
+
+Contrary to popular belief, security is also extremely roleplay heavy. You will find yourself playing like you're in an army simulator, despite being on a wacky Space Station. Communication is key in the success of security. Communicate everything if you must, even if you don't always get a direct answer. I promise you this is only beneficial.
+
 > You're called to a possible break-in. When you arrive you see there's been a confrontation between a department member and what appears to be the invader. What do you do?
 
 <div class="tabs">
