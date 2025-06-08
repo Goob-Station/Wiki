@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-08T15:32:09.909Z
+date: 2025-06-08T15:34:51.437Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -259,7 +259,7 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
   </audio>
 </details>
 
->Yes! You finally rolled DAGD! What to do...
+>Yes! You finally rolled Die A Glorius Death! What to do...
 <details>
   <summary>Tesloose/Singuloose!</summary>
   Boring, but fine.
@@ -270,6 +270,6 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
 </details>
 <details>
   <summary>I try to find out how many borgs I can emag and arm up before they're on to me.</summary>
-  Sounds about right.
+  Fun for more than just you!
 </details>
 You get the idea - DAGD means escalation doesn't apply to you.
