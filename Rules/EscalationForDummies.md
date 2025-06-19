@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-19T15:07:11.074Z
+date: 2025-06-19T15:12:49.321Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -198,6 +198,14 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 ## Antagonist Escalation
 
+ <div class="tabs">
+   <input type="radio" name="tabs" id="tab5" checked>
+<label for="tab5">Crew escalation</label>
+
+<input type="radio" name="tabs" id="tab6">
+<label for="tab6">Clown escalation</label>
+
+   <div class="tab-content content5">
 <p id="antag">Antagonist escalation scenario</p>
 
 > You're an agent hired by a syndicate agency. You've been given clear objectives to complete before shift end. While you're completing one of your objectives, you notice someone is persistently interfering with your objective. What do you do?
@@ -276,3 +284,31 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
   Fun for more than just you!
 </details>
 You get the idea - DAGD means escalation doesn't apply to you.
+<div>
+  
+<div class="tab-content content6">
+      <details>
+         <summary>I decide this is a good time to throw a pie</summary>
+         Uhuh...
+      </details>
+      <details>
+         <summary>I run away with all of their tools to hide in my CLOWN MANSION</summary>
+         Sounds about right.
+      </details>
+      <details>
+         <summary>I take out my toy sword and continue my evil assault on the crew member</summary>
+         <p>Very true</p>
+      </details>
+      <details>
+         <summary>I decide it is time to welder bomb security</summary>
+         <audio controls>
+            <source src="/adminhelp.ogg" type="audio/ogg">
+            Your browser does not support the audio element.
+         </audio>
+      </details>
+      <details>
+         <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
+         <input type="text" value="default text">
+      </details>
+   </div>
+</div>
