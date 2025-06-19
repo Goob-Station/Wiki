@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-19T15:23:02.510Z
+date: 2025-06-19T15:26:06.674Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -159,16 +159,19 @@ With this in mind and with securities access to the stations armory. This comes 
   
    <div class="tab-content content4">
       <details>
-         <summary>I decide this is a good time to throw a pie</summary>
-         Uhuh...
+         <summary>I decide this is a good time to throw a pie but at security!</summary>
+         Clown behaviour
       </details>
       <details>
-         <summary>I run away with all of their tools to hide in my CLOWN MANSION</summary>
-         Sounds about right.
+         <summary>I kill the security officer with this gun i found!</summary>
+         	<audio controls>
+      <source src="/adminhelp.ogg" type="audio/ogg">
+      Your browser does not support the audio element.
+  	</audio>
       </details>
       <details>
-         <summary>I take out my toy sword and continue my evil assault on the crew member</summary>
-         <p>Very true</p>
+         <summary>I take out my toy sword and hit the cadet.</summary>
+         <p>If you get shot, this is your fault</p>
       </details>
       <details>
          <summary>I decide it is time to welder bomb security</summary>
