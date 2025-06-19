@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-19T15:13:19.527Z
+date: 2025-06-19T15:21:59.910Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -198,14 +198,22 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 ## Antagonist Escalation
 
- <div class="tabs">
-   <input type="radio" name="tabs" id="tab5" checked>
-<label for="tab5">Antag escalation</label>
+How exciting! You rolled antagonist, oh joyous day Kaloo kalay!
 
-   <div class="tab-content content5">
-<p id="antag">Antagonist escalation scenario</p>
+Antagonist as you may assume, is one of the most exciting roles in the game. In fact, you practically define a round in many instances. With that in mind, it also means you can ruin rounds all the same.
+
+As an antagonist, you will be a lot more successful in this game if you play to do something cool, not play with the intention of ruining somebody elses round. What does this mean? Where is the line?
+
+It's hard to define a line, somebody will likely always be upset at your actions, if it ends in their death. But you gotta do what you gotta do. However if you again, are playing with the intention to piss people off. You've already made a mistake.
 
 > You're an agent hired by a syndicate agency. You've been given clear objectives to complete before shift end. While you're completing one of your objectives, you notice someone is persistently interfering with your objective. What do you do?
+
+ <div class="tabs">
+   <input type="radio" name="tabs" id="tab5" checked>
+<label for="tab5">Antag escalation bundle</label>
+
+   <div class="tab-content content5">
+<p id="antag">Antagonist escalation scenarios</p>
 
 <details>
   <summary>I ask what they want</summary>
@@ -226,7 +234,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 
 Antagonists, unlike most other crew, are unique in that they don't need to follow escalation in the same way others do. But with great power, comes great shittery. So let's explore some more antagonist scenarios. 
 
->You have a clear objective to steal the Captain's jetpack and kill Franklin, botanist.
+  >You have a clear objective to steal the Captain's jetpack and kill Franklin, botanist.
 <details>
   <summary>I beat up the captain to steal his ID, break in to his office and grab the jetpack</summary>
   This is totally fine. Grab a gun, they're gonna know you're coming.
@@ -282,5 +290,4 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
 </details>
 You get the idea - DAGD means escalation doesn't apply to you.
 <div>
-
 
