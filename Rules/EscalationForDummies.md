@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-19T15:26:06.674Z
+date: 2025-06-19T15:26:46.056Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -163,7 +163,7 @@ With this in mind and with securities access to the stations armory. This comes 
          Clown behaviour
       </details>
       <details>
-         <summary>I kill the security officer with this gun i found!</summary>
+         <summary>I kill the security officer with this gun I found!</summary>
          	<audio controls>
       <source src="/adminhelp.ogg" type="audio/ogg">
       Your browser does not support the audio element.
