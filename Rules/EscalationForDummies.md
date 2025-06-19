@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-19T15:21:59.910Z
+date: 2025-06-19T15:23:02.510Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -213,7 +213,7 @@ It's hard to define a line, somebody will likely always be upset at your actions
 <label for="tab5">Antag escalation bundle</label>
 
    <div class="tab-content content5">
-<p id="antag">Antagonist escalation scenarios</p>
+<p id="antag">Antagonist escalation</p>
 
 <details>
   <summary>I ask what they want</summary>
