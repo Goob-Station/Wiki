@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-19T14:50:43.884Z
+date: 2025-06-19T14:55:56.446Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -21,7 +21,7 @@ This page exists to explain the general concept of escalation, including what is
 
 Do note that this is a guideline, *not* an exact step-for-step dictation of what you are supposed to do. *You* decide your style and choices during roleplay. The guideline only exists to help you determine what is and isn't over-escalation.
 
-## <strong><p style="color: #55beef;">Roleplay should be as expressive and as free as possible. However, not a lot of people know how to handle or respect the idea of their role, especially when it relates to escalation. Like with anything, practice makes perfect. This page will help you establish the boundries of roleplay around escalation.</p></strong>
+<strong><p id="roleplay">Roleplay should be as expressive and as free as possible. However, not a lot of people know how to handle or respect the idea of their role, especially when it relates to escalation. Like with anything, practice makes perfect. This page will help you establish the boundries of roleplay around escalation.</p></strong>
 
 We will look at escalation for three separate but common roles:
 
