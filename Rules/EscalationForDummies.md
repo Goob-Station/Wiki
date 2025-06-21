@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-21T12:47:26.888Z
+date: 2025-06-21T12:49:35.924Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -312,7 +312,7 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
   <summary>I try to find out how many borgs I can emag and arm up before they're on to me.</summary>
   Fun for more than just you!
 </details>
-You get the idea - DAGD means escalation doesn't apply to you.
+You get the idea - DAGD means escalation doesn't apply to you. Get creative.
 <div>
 
 ## Antagonist Diagram
@@ -322,13 +322,13 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 ## Questions and answers
 <details>
    <summary>Do I really have to care about my objectives?</summary>
-   Not exactly, but it's a good starting point in your antag journey. Objectives help give you ideas. If you have to steal something, you may not need a bunch of offensive items. If you have a kill objective, but it's only for a botanists. You don't need to c4 into botany to do this.
+   Not exactly, but it's a good starting point in your antag journey. Objectives help give you ideas. If you have to steal something, you may not need a bunch of offensive items. If you have a kill objective, but it's only for a botanists, you won't need to use explosives to get in to do the deed. Pick the right tools for the job.
 </details>
 <details>
    <summary>What if somebody or a department pisses me off, can I punish them?</summary>
-   Yes, creating a custom objective for yourself e.g being pissed off at cargo for not accepting your order can be a valid excuse to mess with cargo. But you need to remember, not everyone may have been involved in that conversation, so it's going to look like you're just an asshole if you decide to kill everyone.
+   Yes, creating a custom objective for yourself, e.g being pissed off at cargo for not accepting your order, can be a valid excuse to mess with cargo. But you need to remember, not everyone may have been involved in that conversation, so it's going to look like you're just an asshole if you decide to kill everyone.
 </details>
 <details>
    <summary>What if I completed all of my objectives?</summary>
-   It is preferable you complete your objectives before you decide to go and do whatever you plan to. It feels more natrual to the progression of the round, opposed to you immediately deciding to blow up security.
+   It is preferable that you complete your objectives before you decide to go and do whatever you plan to. It feels more natural to the progression of the round, as opposed to you immediately deciding to blow up security.
 </details>
