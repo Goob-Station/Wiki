@@ -2,7 +2,7 @@
 title: New Life rule
 description: 
 published: true
-date: 2025-06-21T11:27:58.657Z
+date: 2025-06-21T11:28:35.536Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-21T11:01:39.842Z
@@ -17,7 +17,7 @@ What is new life rule?
 
 ## Death
 
-When you die, you may not rememeber who killed you. You can remember who you are, you can remember where you were. But you forget the details that matters.
+When you die, you may not rememeber who killed you. You can remember who you are, you can remember where you were. You may even remember what weapon was used to kill you. But you do not know who or what exactly killed you.
 
 ## Why?
 
