@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-21T12:44:28.351Z
+date: 2025-06-21T12:47:26.888Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -282,7 +282,7 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
 </details>
 <details>
   <summary>I find creative ways to get around the pacifism, so I can force my way into offices for my objectives.</summary>
-  Clever, but it's preferable you do not. There's a lot of fun challenge in being pacified on a station of violence.<br>
+  Clever, but it's preferable you do not. There's a lot of fun challenge in being pacified on a station full of chaos and violence.<br>
   <audio controls>
       <source src="/adminhelp.ogg" type="audio/ogg">
       Your browser does not support the audio element.
@@ -299,14 +299,14 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
   </audio>
 </details>
 
->Yes! You finally rolled Die A Glorius Death! What to do...
+>Yes! You finally rolled Die A Glorious Death! What to do...
 <details>
   <summary>Tesloose/Singuloose!</summary>
-  Boring, but fine. Just make sure it's after 30 minutes.
+  Boring, but fine. Just make sure it's not within 30 minutes of the start of the shift. Give peopel some time to play before you end them.
 </details>
 <details>
   <summary>I'll get an L6 and try shooting my way out - mix things up a little.</summary>
-  Lock and load!
+  Just keep your head down...
 </details>
 <details>
   <summary>I try to find out how many borgs I can emag and arm up before they're on to me.</summary>
