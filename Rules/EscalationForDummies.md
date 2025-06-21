@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-21T12:14:58.255Z
+date: 2025-06-21T12:19:24.146Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -225,6 +225,9 @@ Antagonist as you may assume, is one of the most exciting roles in the game. In 
 As an antagonist, you will be a lot more successful in this game if you play to do something cool, not play with the intention of ruining somebody elses round. What does this mean? Where is the line?
 
 It's hard to define a line, somebody will likely always be upset at your actions, if it ends in their death. But you gotta do what you gotta do. However if you again, are playing with the intention to piss people off. You've already made a mistake.
+
+
+For the sake of simplicity, we will specifically be looking at traitors. These are the most common antagonist you would see on the station. They are also one of the most versitile, they have no clear path or goals most of the time. With that in mind, lets look at some scenarios.
 
 > You're an agent hired by a syndicate agency. You've been given clear objectives to complete before shift end. While you're completing one of your objectives, you notice someone is persistently interfering with your objective. What do you do?
 
