@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-21T12:44:13.138Z
+date: 2025-06-21T12:44:28.351Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -264,7 +264,7 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
 </details>
 <details>
   <summary>I plasmaflood the hallway, so the captain will hopefully die and I can take his ID</summary>
-		Come on, now.
+		Come on, now.<br/>
 		<audio controls>
       <source src="/adminhelp.ogg" type="audio/ogg">
       Your browser does not support the audio element.
