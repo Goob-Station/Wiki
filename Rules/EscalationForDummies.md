@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-21T10:29:43.280Z
+date: 2025-06-21T10:51:38.645Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -196,8 +196,21 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
 ```
 
 
+## Questions and answers
 
-
+<details>
+   <summary>What if the Head of Security has told us to attack on sight?</summary>
+   This is fine, as a security officer you listen to the HOS. If there was any mishandling it would then fall onto the HOS.
+</details>
+<details>
+   <summary>Do I always have to bring them to the brigmed?</summary>
+   Yes, you don't get to round remove a person because you believe they are dangerous. You have to follow the appropriate IC-procedure to 'do not revive' a person.
+</details>
+<details>
+   <summary>What are the best things I can keep in mind?</summary>
+   The head of security and warden are your best friends during security gameplay. They are the most knowledgable and able to explain spacelaw. They should give you direction from the start of the round. If they don't then common sense is pretty important.
+   <p style="color: #55beef;">You can look at Space Law in the guidebook or at <a href="https://wiki.goobstation.com/en/LRP/Guides/Space_Law">Space Law</a></p>
+</details>
 
 ## Antagonist Escalation
 
