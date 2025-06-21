@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-21T10:51:38.645Z
+date: 2025-06-21T10:54:31.663Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -27,7 +27,7 @@ We will look at escalation for three separate but common roles:
 
 <a href="#crew">Crew escalation</a>
 <a href="#security">Security escalation</a>
-<a href="#antag">Antagonist escalation</a>
+<a href="#antag">Antagonist Escalation</a>
 
 ## Crew Escalation
 <p id="crew">Crew escalation scenario</p>
