@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-21T19:56:15.344Z
+date: 2025-06-21T19:58:42.716Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -239,19 +239,19 @@ You can look at other types of antagonists here: <a href="https://wiki.goobstati
 <p id="antag">Antagonist escalation</p>
 
 <details>
-  <summary>I ask what they want</summary>
+  <summary>I ask what they want.</summary>
   This is totally fine.
 </details>
 <details>
-  <summary>I tell them to go away, or I will make them</summary>
+  <summary>I tell them to go away, or I will make them.</summary>
     This is totally fine.
 </details>
 <details>
-  <summary>I walk into a dark part of maints. Should they still follow me, I'll proceed to murder</summary>
+  <summary>I walk into a dark part of maints. Should they still follow me, I'll proceed to murder them.</summary>
     This is totally fine.
 </details>
 <details>
-  <summary>Self-excercise(Screenshot for the discord if you wanna share your funny answers) </summary>
+  <summary>Self-exercise (Screenshot for the discord if you wanna share your funny answers!) </summary>
 	<input type="text" value="">
 </details>
 
