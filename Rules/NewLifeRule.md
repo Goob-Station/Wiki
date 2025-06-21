@@ -2,11 +2,16 @@
 title: New Life rule
 description: 
 published: true
-date: 2025-06-21T11:01:39.842Z
+date: 2025-06-21T11:12:49.206Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-21T11:01:39.842Z
 ---
 
-# Header
-Your content here
+# New Life Rule
+
+What is new life rule?
+
+
+<p id = "TheRule"> When you die, you don't remember who killed you. </p> 
+
