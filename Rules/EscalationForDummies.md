@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-21T12:20:57.234Z
+date: 2025-06-21T12:26:55.177Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -229,7 +229,7 @@ It's hard to define a line, somebody will likely always be upset at your actions
 
 For the sake of simplicity, we will specifically be looking at traitors. These are the most common antagonist you would see on the station. They are also one of the most versitile, they have no clear path or goals most of the time. With that in mind, lets look at some scenarios.
 
-You can look at other types of antagonists here: <a href="https://wiki.goobstation.com/en/LRP/Roles/Antagonists">Antagonists</a></p>
+You can look at other types of antagonists here: <a href="https://wiki.goobstation.com/en/LRP/roles">Antagonists</a></p>
 
 > You're an agent hired by a syndicate agency. You've been given clear objectives to complete before shift end. While you're completing one of your objectives, you notice someone is persistently interfering with your objective. What do you do?
 
