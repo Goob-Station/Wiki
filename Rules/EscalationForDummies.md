@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-21T13:03:38.656Z
+date: 2025-06-21T19:56:15.344Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -205,8 +205,8 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJiYWNrZ3JvdW5kOiB0
    This is fine, as a security officer, you listen to the HOS. If there was any mishandling, the responsibility for this mistake would then fall onto the HOS.
 </details>
 <details>
-   <summary>Do I always have to bring inured captives to the brigmed?</summary>
-   Yes, you don't get to round remove a person because you believe they are dangerous. You have to follow the appropriate IC-procedure to 'do not revive' a person.
+   <summary>Do I always have to bring injured captives to the brigmed?</summary>
+   Yes, you don't get to round remove a person because you believe they are dangerous. You have to follow the appropriate IC-procedure to 'do not revive' (DNR) a person.
 </details>
 <details>
    <summary>What are the best things I can keep in mind?</summary>
