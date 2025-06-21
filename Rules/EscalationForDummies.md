@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-19T15:26:46.056Z
+date: 2025-06-21T10:29:02.859Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -294,3 +294,4 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
 You get the idea - DAGD means escalation doesn't apply to you.
 <div>
 
+## Antagonist Diagram
