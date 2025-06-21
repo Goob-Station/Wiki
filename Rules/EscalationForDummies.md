@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-21T10:55:06.059Z
+date: 2025-06-21T11:09:39.461Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -30,9 +30,8 @@ We will look at escalation for three separate but common roles:
 <a href="#antag">Antagonist Escalation</a>
 
 Important links to also keep in mind: 
-New Life Rule
-Space Law
-
+<a href="https://wiki.goobstation.com/en/Rules/NewLifeRule">New Life rule</a>
+<a href="https://wiki.goobstation.com/en/LRP/Guides/Space_Law">Space Law</a>
 
 ## Crew Escalation
 <p id="crew">Crew escalation scenario</p>
