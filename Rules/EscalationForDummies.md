@@ -2,7 +2,7 @@
 title: Escalation 101
 description: 
 published: true
-date: 2025-06-21T19:58:42.716Z
+date: 2025-06-21T21:57:49.770Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-07T13:58:24.833Z
@@ -302,7 +302,7 @@ Antagonists, unlike most other crew, are unique in that they don't need to follo
 >Yes! You finally rolled Die A Glorious Death! What to do...
 <details>
   <summary>Tesloose/Singuloose!</summary>
-  Boring, but fine. Just make sure it's not within 30 minutes of the start of the shift. Give peopel some time to play before you end them.
+  Boring, but fine. Just make sure it's not within 30 minutes of the start of the shift. Give people some time to play before you end them.
 </details>
 <details>
   <summary>I'll get an L6 and try shooting my way out - mix things up a little.</summary>
