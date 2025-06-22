@@ -2,8 +2,8 @@
 title: Chem Recipe
 description: 
 published: true
-date: 2025-05-23T02:12:47.494Z
-tags: 
+date: 2025-06-22T15:22:12.525Z
+tags: chemistry, guide, chemistry guide, department, job
 editor: markdown
 dateCreated: 2025-05-09T00:27:48.119Z
 ---
