@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: 
 published: true
-date: 2025-06-22T15:51:13.114Z
+date: 2025-06-22T23:59:57.758Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-19T23:55:14.616Z
@@ -71,3 +71,16 @@ So what is an example of this? well, here is a pretty typical chemist round star
 - Put your duffle of chems in the locker, and a box of syringes.
 - FOR THE LOVE OF GOD LOCK IT BEHIND YOU WHEN YOU GO!
 - Go make more fun chemicals, and put them in the chemlocker when you are done. 
+
+## Babies First Duffle
+So you understand that; Great! here is a basic example duffle of chems with labels for a budding chemist. Note these are Basic chems, and that as you get better, you should ABSOLUTELY learn more fun and powerful chems. Note some of these labels are a little different, and include details, or dont list an overdose if there is none. 
+- 1.) Bicardine - Brute - 15uOD
+- 2.) Dylovene - Toxin - 20uOD
+- 3.) Dermaline - Burn - 10uOD
+- 4.) Arithrazine - Rads - use 1/6 of the DMG
+- 5.) Tranexaic Acid - Stops Bleeding
+- 6.) Saline - Refills Blood - Safe
+- 7.) Dexalin+ - Airloss - 25uOD
+- 8.) Phalanximine - Converts Cellular to Rad
+
+For steps on how to make these chems, there is a helpful button on the top right of the chemical dispenser that contains all the recipes in the game! 
