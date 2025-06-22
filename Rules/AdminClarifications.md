@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-22T14:10:58.930Z
+date: 2025-06-22T14:12:07.919Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -39,8 +39,9 @@ dateCreated: 2025-06-22T14:10:58.930Z
       <!-- Add more rows below by copying this format:
       <tr>
         <td>New Name</td>
-        <td>New Role</td>
-        <td>new@example.com</td>
+        <td>Role</td>
+        <td>Clarification(Keep it short)</td>
+				<td>Link it for proof</td>
       </tr>
       -->
     </tbody>
