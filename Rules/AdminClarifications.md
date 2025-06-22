@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-22T14:17:05.148Z
+date: 2025-06-22T14:17:33.314Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -47,7 +47,6 @@ dateCreated: 2025-06-22T14:10:58.930Z
         <td>clarification</td>
         <td>link</td>
       </tr>
-   		
     </tbody>
   </table>
 
