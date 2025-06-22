@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-22T14:14:23.202Z
+date: 2025-06-22T14:17:05.148Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -12,11 +12,11 @@ dateCreated: 2025-06-22T14:10:58.930Z
 {.is-info}
 
 <body>
-
   <table>
     <caption>Team Members</caption>
     <thead>
       <tr>
+        <th>Date</th> <!-- date-->
         <th>Name</th> <!-- Column for admins's name -->
         <th>Role</th> <!-- Column for their role -->
         <th>Clarification</th> <!-- Column for email -->
@@ -26,6 +26,7 @@ dateCreated: 2025-06-22T14:10:58.930Z
     <tbody>
          <!-- Add more rows below by copying this format:
       <tr>
+				<td>date</td>
         <td>New Name</td>
         <td>Role</td>
         <td>Clarification(Keep it short)</td>
@@ -33,18 +34,20 @@ dateCreated: 2025-06-22T14:10:58.930Z
       </tr>
       -->
       <tr>
+        <td>00/00/00</td>
         <td>Rouge</td>
         <td>Admin</td>
         <td>clarification</td>
         <td>link</td>
       </tr>
       <tr>
+        <td>00/00/00</td>
         <td>Rouge</td>
         <td>Admin</td>
         <td>clarification</td>
         <td>link</td>
       </tr>
-   
+   		
     </tbody>
   </table>
 
