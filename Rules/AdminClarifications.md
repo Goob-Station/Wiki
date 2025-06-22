@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-22T14:18:04.198Z
+date: 2025-06-22T14:21:26.135Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -33,6 +33,13 @@ dateCreated: 2025-06-22T14:10:58.930Z
 				<td>Link it for proof</td>
       </tr>
       -->
+        <tr>
+				<td>00/00/00</td>
+        <td>Rouge</td>
+        <td>Role</td>
+        <td>Clarification(Keep it short)</td>
+				<td>Link it for proof</td>
+      </tr>
       <tr>
         <td>00/00/00</td>
         <td>Rouge</td>
