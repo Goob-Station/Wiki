@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-22T14:12:07.919Z
+date: 2025-06-22T14:14:23.202Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -24,19 +24,7 @@ dateCreated: 2025-06-22T14:10:58.930Z
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>Rouge</td>
-        <td>Admin</td>
-        <td>clarification</td>
-        <td>link</td>
-      </tr>
-      <tr>
-        <td>Rouge</td>
-        <td>Admin</td>
-        <td>clarification</td>
-        <td>link</td>
-      </tr>
-      <!-- Add more rows below by copying this format:
+         <!-- Add more rows below by copying this format:
       <tr>
         <td>New Name</td>
         <td>Role</td>
@@ -44,6 +32,19 @@ dateCreated: 2025-06-22T14:10:58.930Z
 				<td>Link it for proof</td>
       </tr>
       -->
+      <tr>
+        <td>Rouge</td>
+        <td>Admin</td>
+        <td>clarification</td>
+        <td>link</td>
+      </tr>
+      <tr>
+        <td>Rouge</td>
+        <td>Admin</td>
+        <td>clarification</td>
+        <td>link</td>
+      </tr>
+   
     </tbody>
   </table>
 
