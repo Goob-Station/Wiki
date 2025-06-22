@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: 
 published: true
-date: 2025-06-22T15:50:58.984Z
+date: 2025-06-22T15:51:13.114Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-19T23:55:14.616Z
