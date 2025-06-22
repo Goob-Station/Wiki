@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-22T15:05:53.397Z
+date: 2025-06-22T15:10:34.213Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -60,7 +60,7 @@ dateCreated: 2025-06-22T14:10:58.930Z
         <td id="important">01/06/2025</td>
         <td id="important">Nigel</td>
         <td id="important">Head Game admin</td>
-        <td id="important">AI can have their turrets on round-start set to disable. <p>AI can build borgs for themselves, but should not build mechs unless ordered to or their laws say so</p></td>
+        <td id="important">IMPORTANT: AI can have their turrets on round-start set to disable. <p>AI can build borgs for themselves, but should not build mechs unless ordered to or their laws say so</p></td>
         <td id="important"><a href="https://discord.com/channels/1202734573247795300/1357988474501857331/1378653122788065331">Clarification</a></td>
       </tr>
     </tbody>
