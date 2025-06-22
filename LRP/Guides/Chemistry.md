@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: 
 published: true
-date: 2025-06-22T15:50:14.563Z
+date: 2025-06-22T15:50:58.984Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-19T23:55:14.616Z
@@ -63,7 +63,7 @@ The SECOND best thing to do in chemistry is to lock up your chems. goob has a cu
 So what is an example of this? well, here is a pretty typical chemist round start:
 
 - Spawn in, grab a beaker, a duffel, a labeler, and some jugs.
-- Make a spread of basic chems, label them.
+- Make a spread of basic chems, load them into jugs, and label them.
 - A good labeling habit is the following: Name - Damage type - Dosage. (Ex: Bicardine - Brute - 15u)
 - Load your chems into that dufflebag. 
 - Steal a medical locker and a wrench from somewhere, and put the locker in the main treatment area of med.
