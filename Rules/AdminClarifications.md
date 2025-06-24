@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-24T09:25:53.176Z
+date: 2025-06-24T09:29:17.065Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -164,7 +164,7 @@ dateCreated: 2025-06-22T14:10:58.930Z
    </table>
 </body>
 <body>
-   <table>
+   <table id ="Clarifications">
    <caption>MRP Rules Clarifications</caption>
    <thead>
       <tr>
@@ -199,3 +199,10 @@ dateCreated: 2025-06-22T14:10:58.930Z
          <td>Link it for proof</td>
          </tr>
          -->
+         <tr>
+            <td id="important">18/06/2025</td>
+            <td id="important">Fen</td>
+            <td id="important">Game Admin</td>
+            <td id="important">IMPORTANT: Revolution manifesto is not contraband. Manifesto doesn't mean Revs is the gamemode. 
+            <td id="important">None
+         </tr>
