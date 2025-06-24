@@ -2,7 +2,7 @@
 title: NanoTrason
 description: 
 published: true
-date: 2025-06-24T10:42:14.445Z
+date: 2025-06-24T10:42:29.627Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T10:30:21.161Z
@@ -28,7 +28,7 @@ dateCreated: 2025-06-24T10:30:21.161Z
 
 ## Trivia
 
-- NanoTrasens CEO: John NanoTrasen, Corporate Personhood
+- NanoTrasen's CEO: John NanoTrasen, Corporate Personhood
 
 - NanoTrasen's HeadQuarters is based in NewYork
 
