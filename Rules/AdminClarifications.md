@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-24T09:47:23.547Z
+date: 2025-06-24T17:37:39.798Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -46,6 +46,13 @@ dateCreated: 2025-06-22T14:10:58.930Z
             <td>Link it for proof</td>
             </tr>
             -->
+         <tr>
+            <td>23/06/2025</td>
+            <td>Phoenix</td>
+            <td>Community Manager</td>
+            <td>Security can and should confiscate items used to commit a crime, even if it isn't contraband on its own.</td>
+            <td><a href="https://canary.discord.com/channels/1202734573247795300/1386743300190638120/1386743473075388500">Clarification</a></td>
+         </tr>
          <tr>
             <td>22/06/2025</td>
             <td>Lehmin</td>
@@ -117,6 +124,34 @@ dateCreated: 2025-06-22T14:10:58.930Z
             <td><a href="https://discord.com/channels/1202734573247795300/1382922064788328510">Clarification</a></td>
          </tr>
          <tr>
+            <td>10/06/2025</td>
+              <td>Phoenix</td>
+              <td>Community Manager</td>
+              <td>Diona's are subject to Death Amnesia, and diona nymphs do not remember anything from the first 30 seconds of their existence.</td>
+            <td><a href="https://canary.discord.com/channels/1202734573247795300/1373795411785154722/1382165079721771137">Clarification</a</td>
+            </tr>
+         <tr>
+            <td>10/06/2025</td>
+              <td>Phoenix</td>
+              <td>Community Manager</td>
+              <td>Thieves are kleptomaniacs, and there is no limit to what you are allowed to steal, up to and including the nuke.</td>
+            <td><a href="https://canary.discord.com/channels/1202734573247795300/1372658525351837716/1382158918968414228">Clarification</a</td>
+            </tr>
+            <tr>
+            <td id="important">10/06/2025</td>
+              <td id="important">Phoenix</td>
+              <td id="important">Community Manager</td>
+              <td id="important">You should not be calling the emergency shuttle during an ACTIVE CRISIS unless the station is doomed and the best course is to cut your losses. Note that you may call evac when the crisis is over, if the station is heavily damaged or many are dead.</td>
+            <td id="important"><a href="https://canary.discord.com/channels/1202734573247795300/1379725498527125527/1382162354527015032">Clarification</a</td>
+            </tr>
+            <tr>
+            <td>10/06/2025</td>
+              <td>Phoenix</td>
+              <td>Community Manager</td>
+              <td>You are allowed and encouraged to kill cluwnes when they exist, but are not required to.</td>
+            <td><a href="https://canary.discord.com/channels/1202734573247795300/1377978199593586770/1382162598375456854">Clarification</a</td>
+            </tr>
+         <tr>
             <td id="important">01/06/2025</td>
             <td id="important">Nigel</td>
             <td id="important">Head Game Admin</td>
@@ -125,6 +160,13 @@ dateCreated: 2025-06-22T14:10:58.930Z
                <p>AI can build borgs for themselves, but should not build mechs unless ordered to or their laws say so</p>
             </td>
             <td id="important"><a href="https://discord.com/channels/1202734573247795300/1357988474501857331/1378653122788065331">Clarification</a></td>
+         </tr>
+         <tr>
+            <td>29/05/2025</td>
+            <td>Phoenix</td>
+            <td>Community Manager</td>
+            <td>As the Blueshield Officer, you cannot force command to accept implantation. There can be valid IC reasons for them to refuse.</td>
+            <td><a href="https://canary.discord.com/channels/1202734573247795300/1375320256003702895/1377746058360127689">Clarification</a></td>
          </tr>
          <tr>
             <td id="important">15/05/2025</td>
