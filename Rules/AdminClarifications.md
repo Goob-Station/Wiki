@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-24T09:32:14.256Z
+date: 2025-06-24T09:33:15.725Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -162,6 +162,8 @@ dateCreated: 2025-06-22T14:10:58.930Z
          </tr>
       </tbody>
    </table>
+  </body>
+<body>
    <table id ="Clarifications">
    <caption>MRP Rules Clarifications</caption>
    <thead>
@@ -205,3 +207,4 @@ dateCreated: 2025-06-22T14:10:58.930Z
             <td id="important">None
          </tr>
      </tbody>
+   
