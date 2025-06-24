@@ -1,8 +1,8 @@
 ---
 title: Goob Incorporated
 description: 
-published: true
-date: 2025-06-24T11:50:49.148Z
+published: false
+date: 2025-06-24T11:53:24.267Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T11:50:49.148Z
