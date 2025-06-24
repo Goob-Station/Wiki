@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-24T17:39:26.221Z
+date: 2025-06-24T22:38:57.094Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -46,6 +46,13 @@ dateCreated: 2025-06-22T14:10:58.930Z
             <td>Link it for proof</td>
             </tr>
             -->
+         <tr>
+            <td>23/06/2025</td>
+            <td>Lehmin</td>
+            <td>Community Manager</td>
+            <td>Mice and similar animal roles should act like animals. They should not harass others for no reason. They should seek food and do minor mouselike shenanigans like a single bite or a few chewed wires.</td>
+            <td><a href="https://canary.discord.com/channels/1202734573247795300/1387177689512673310/1387198265107157032">Clarification</a></td>
+         </tr>
          <tr>
             <td>23/06/2025</td>
             <td>Phoenix</td>
@@ -167,6 +174,13 @@ dateCreated: 2025-06-22T14:10:58.930Z
             <td>Community Manager</td>
             <td>As the Blueshield Officer, you cannot force command to accept implantation. There can be valid IC reasons for them to refuse.</td>
             <td><a href="https://canary.discord.com/channels/1202734573247795300/1375320256003702895/1377746058360127689">Clarification</a></td>
+         </tr>
+         <tr>
+            <td>17/05/2025</td>
+            <td>Phoenix</td>
+            <td>Community Manager</td>
+            <td>Revolutionaries should never do mass-station sabotage, and must aim to capture the station with as little damage as possible. Revolutionaries may not attack the evac shuttle, should it arrive.</td>
+            <td><a href="https://canary.discord.com/channels/1323488536501944350/1362403810785628373/1373494108945125437">Clarification</a></td>
          </tr>
          <tr>
             <td id="important">15/05/2025</td>
