@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-24T09:46:52.895Z
+date: 2025-06-24T09:47:23.547Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -205,11 +205,14 @@ dateCreated: 2025-06-22T14:10:58.930Z
             <td id="important">IMPORTANT: Revolution manifesto is not contraband. Manifesto doesn't mean Revs is the gamemode. 
             <td id="important">None
          </tr>
-             <tr>
+         <tr>
             <td>15/06/2025</td>
             <td>Phoenix</td>
             <td>Community Manager</td>
             <td>If revs are confirmed, a crowd of people are healing a non-mindshielded armed person, you can use verbal threats, some situations you can fire into a crowd, but not usually. Do not lethal people running with no lethals. If at open war with revs, you can open fire freely. Still prioritize apprehension though. </td>
+            <td><a href="https://discord.com/channels/1202734573247795300/1383918420822720513/1383919392919650475">Clarification</a></td>
+         </tr>
+        
    </table>
   </body>
 
