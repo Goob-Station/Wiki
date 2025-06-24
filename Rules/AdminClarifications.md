@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-24T17:37:39.798Z
+date: 2025-06-24T17:39:11.633Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -127,7 +127,7 @@ dateCreated: 2025-06-22T14:10:58.930Z
             <td>10/06/2025</td>
               <td>Phoenix</td>
               <td>Community Manager</td>
-              <td>Diona's are subject to Death Amnesia, and diona nymphs do not remember anything from the first 30 seconds of their existence.</td>
+              <td>Dionas are subject to Death Amnesia, and diona nymphs do not remember anything from the first 30 seconds of their existence.</td>
             <td><a href="https://canary.discord.com/channels/1202734573247795300/1373795411785154722/1382165079721771137">Clarification</a</td>
             </tr>
          <tr>
