@@ -2,7 +2,7 @@
 title: Goob Incorporated
 description: 
 published: false
-date: 2025-06-24T11:53:24.267Z
+date: 2025-06-24T11:54:41.573Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T11:50:49.148Z
@@ -32,7 +32,7 @@ Full Name: Dr. Kira Bostitch
 Position: Chief Executive Officer of Goob Incorporated (Galactic Operations & Orbital Biosystems)
 Titles: "Doctor" (self-awarded), “Chief Facilitator of Progress”
 
-**Background**
+#### Background
 Dr. Bostitch is a former nutritional data analyst turned biotech evangelist who rose to prominence during the early days of Goob Inc.’s formation. He was originally part of the Bureau of Nutritional Edibles — specifically, their Lunar Paste Texture Compliance Division — and somehow became an executive during the paperwork chaos of the merger and a spectacular budgeting error.
 
 Possessing no formal degrees but a printed PhD from a now-defunct Martian diploma mill (“Oxford of the Stars”), Dr. Bostitch is widely considered a walking HR violation. His leadership style is described as a mixture of corporate optimism, scientific misunderstanding, and complete disregard for cause-and-effect.
