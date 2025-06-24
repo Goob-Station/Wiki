@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-24T22:38:57.094Z
+date: 2025-06-24T22:42:19.820Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -254,19 +254,11 @@ dateCreated: 2025-06-22T14:10:58.930Z
             <td>Link it for proof</td>
             </tr>
             -->
-         <tr>
-            <td id="important">18/06/2025</td>
-            <td id="important">Fen</td>
-            <td id="important">Game Admin</td>
-            <td id="important">IMPORTANT: Revolution manifesto is not contraband. Manifesto doesn't mean Revs is the gamemode. 
-            <td id="important">None
-         </tr>
-         <tr>
-            <td>15/06/2025</td>
+            <td>09/06/2025</td>
             <td>Phoenix</td>
             <td>Community Manager</td>
-            <td>If revs are confirmed, a crowd of people are healing a non-mindshielded armed person, you can use verbal threats, some situations you can fire into a crowd, but not usually. Do not lethal people running with no lethals. If at open war with revs, you can open fire freely. Still prioritize apprehension though. </td>
-            <td><a href="https://discord.com/channels/1202734573247795300/1383918420822720513/1383919392919650475">Clarification</a></td>
+            <td>You aren't allowed to kill or gib mimes who break their vow, but they can be fired or socially ostracized. As a mime, do not break your vow for no reason.</td>
+            <td><a href="https://canary.discord.com/channels/1323488536501944350/1362403810785628373/1381809301210927234">Clarification</a></td>
          </tr>
         
    </table>
