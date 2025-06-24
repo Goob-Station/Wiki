@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-22T22:23:37.895Z
+date: 2025-06-24T05:41:03.845Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -104,12 +104,68 @@ dateCreated: 2025-06-22T14:10:58.930Z
         <td id="important">IMPORTANT: Abductors cannot take one of a kind items like the captains ID.
         <td id="important"><a href="https://discord.com/channels/1202734573247795300/1358331351316824206">Clarification</a></td>
       </tr>
+<tr>
+        <td>22/06/2025</td>
+        <td>Lehmin</td>
+        <td>Community Manager</td>
+        <td>The RD's gemini is not affected by Death Amnesia / NLR.</td>       
+        <td><a href="https://discord.com/channels/1202734573247795300/1386474761252507758/1386500690272063620">Clarification</a></td>
+      </tr>
+<tr>
+        <td>20/06/2025</td>
+        <td>Lehmin</td>
+        <td>Community Manager</td>
+        <td>Abductor can defend themselves, retrieve their gear if stolen, but should not be provoking the crew or round removing people.</td>       
+        <td><a href="https://discord.com/channels/1202734573247795300/1385474650472972429/1385476434532896908">Clarification</a></td>
+      </tr>
+<tr>
+        <td>19/06/2025</td>
+        <td>Wachtel</td>
+        <td>Game Admin</td>
+        <td>Warden can check everyone's PDA in processing for uplinks, even on green/roundstart.</td>       
+        <td><a href="https://discord.com/channels/1202734573247795300/1384962995800637490/1385233517830602803">Clarification</a></td>
+      </tr>
+<tr>
+        <td>19/06/2025</td>
+        <td>Phoenix</td>
+        <td>Community Manager</td>
+        <td>You can play with a VPN. You will just have to apply for a whitelist in ban-and-note-appeals in the discord.</td>       
+        <td><a href="https://discord.com/channels/1202734573247795300/1385178767705767936">Clarification</a></td>
+      </tr>
+<tr>
+        <td>16/06/2025</td>
+        <td>Nigel</td>
+        <td>Head Game Admin</td>
+        <td>Thieves can cause indirect harm if they find a way around the implant, but they should not be killing or going out of their way to kill.</td>       
+        <td><a href="https://discord.com/channels/1202734573247795300/1384140786546769940">Clarification</a></td>
+      </tr>
+<tr>
+        <td>16/06/2025</td>
+        <td>Phoenix</td>
+        <td>Community Manager</td>
+        <td>Thieves can reveal themselves to the crew during nukies or other apocalypse situations, do whatever you can to survive.</td>       
+        <td><a href="https://discord.com/channels/1202734573247795300/1384208012255690872/1384208446068363305">Clarification</a></td>
+      </tr>
+<tr>
+        <td>15/06/2025</td>
+        <td>Phoenix</td>
+        <td>Community Manager</td>
+        <td>If revs are confirmed, a crowd of people are healing a non-mindshielded armed person, you can use verbal threats, some situations you can fire into a crowd, but not usually. Do not lethal people running with no lethals. If at open war with revs, you can open fire freely. Still prioritize apprehension though. </td>       
+        <td><a href="https://discord.com/channels/1202734573247795300/1383918420822720513/1383919392919650475">Clarification</a></td>
+      </tr>
    <tr>
-        <td>15/06/00</td>
+        <td>15/06/2025</td>
         <td>Wachtel</td>
         <td>Game Admin</td>
         <td>Maintenance Drones should go away if something is ongoing, and come back later to repair the mess.</td>       
         <td><a href="https://discord.com/channels/1202734573247795300/1383114440655896636/1383779936497701005">Clarification</a></td>
+      </tr>
+<tr>
+        <td>13/06/2025</td>
+        <td>Phoenix</td>
+        <td>Community Manager</td>
+        <td>Visitors / Syndicate visitors are protected by space law. You can freely arrest them and arrest those who break laws directed at them.</td>       
+        <td><a href="https://discord.com/channels/1202734573247795300/1382922064788328510">Clarification</a></td>
       </tr>
     </tbody>
   </table>
