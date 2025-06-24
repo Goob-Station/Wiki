@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-24T09:35:13.600Z
+date: 2025-06-24T09:36:20.370Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -166,9 +166,9 @@ dateCreated: 2025-06-22T14:10:58.930Z
   
   <body>
    <table id ="Clarifications">
-      <caption>LRP Rules Clarficiations</caption>
+      <caption>MRP Rules Clarficiations</caption>
       <thead>
-         <tr>
+         <tr style="width: 100%">
             <th>Date(dd/mm/yy)</th>
             <!-- date-->
             <th>Name</th>
