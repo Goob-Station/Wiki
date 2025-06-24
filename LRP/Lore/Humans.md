@@ -1,8 +1,8 @@
 ---
 title: Humanity
 description: 
-published: true
-date: 2025-06-24T11:48:00.252Z
+published: false
+date: 2025-06-24T11:53:42.438Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T10:35:10.185Z
