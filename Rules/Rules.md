@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-06-28T16:38:08.536Z
+date: 2025-06-28T16:38:35.817Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T22:31:02.210Z
