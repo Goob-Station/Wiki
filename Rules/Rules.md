@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-06-28T16:35:05.619Z
+date: 2025-06-28T16:38:08.536Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T22:31:02.210Z
@@ -10,8 +10,6 @@ dateCreated: 2025-05-26T22:31:02.210Z
 
  <div class="disclaimer-box"> 🚨 This page is a Work in Progress. Expect updates and changes. 🚨 </div>
 
- Core Rules  Roleplay Rules  Silicon Policy  Security Policy
- 
 <div class="tabs">
   <input type="radio" name="tabs" id="tab1" checked>
   <label for="tab1">Core Rules</label>
