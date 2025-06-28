@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-06-28T16:32:25.874Z
+date: 2025-06-28T16:33:05.601Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T22:31:02.210Z
@@ -27,6 +27,7 @@ dateCreated: 2025-05-26T22:31:02.210Z
 
   
   <div class="tab-content content1">
+    
 # Main Rules - read these if nothing else
 
 ## 0. Enforcement of these rules is at the discretion of admins.
