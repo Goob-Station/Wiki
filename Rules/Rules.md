@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-06-28T16:25:55.491Z
+date: 2025-06-28T16:29:26.109Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T22:31:02.210Z
@@ -11,7 +11,22 @@ dateCreated: 2025-05-26T22:31:02.210Z
 🚨 This page is a Work in Progress. Expect updates and changes. 🚨
 
  Core Rules  Roleplay Rules  Silicon Policy  Security Policy
+ 
+<div class="tabs">
+  <input type="radio" name="tabs" id="tab1" checked>
+  <label for="tab1">Core Rules</label>
 
+  <input type="radio" name="tabs" id="tab2">
+  <label for="tab2">Roleplay Rules</label>
+
+  <input type="radio" name="tabs" id="tab3">
+  <label for="tab3">Silicon Policy</label>
+
+  <input type="radio" name="tabs" id="tab4">
+  <label for="tab4">Security Policy</label>
+
+  
+  <div class="tab-content content1">
 # Main Rules - read these if nothing else
 
 ## 0. Enforcement of these rules is at the discretion of admins.
@@ -48,16 +63,18 @@ As a Head of Staff, you should be a reliable worker for your department, and are
 
 Incidences of admin abuse, negligence or disputed rulings can be taken to the Discord server. If an admin says something was 'looked into, handled, resolved' etc, regarding an issue, it is unlikely an admin will provide any further information. Admins are under no obligation to reveal IC information. Deliberately lying or misrepresenting facts in adminhelps will be dealt with harshly.6 Rule 6 Precedents. (A)7. If you regularly come close to breaking the rules without actually breaking them, it will be treated as the rules being broken. Repeated instances of the same rules being broken may be met with harsher consequences. Baiting people into situations where you can report them to admins will be dealt with harshly. (A)8. Erotic/creepy stuff is not allowed. No form of erotic roleplay is allowed on the servers, including things that could be construed as sexual by unwilling participants. Rule 8 Precedents. 9. Players need to be the age of 16 or above. This rule is for the benefit of and is meant to protect people who shouldn't be playing here due to the nature of the SS14 community. Your age won't be hunted down, but if you admit it to us in admin PMs, or other places within our community, you will be removed. (A)10. Losing is part of the game. Your character will frequently die, sometimes without even a possibility of avoiding it. Events will often be out of your control. No matter how good or prepared you are, sometimes you just lose. (A)11. Bigotry is not allowed. Intentionally seeking to demean others due to their actual or perceived race, sex, gender, disability, orientation or the like is not tolerated. Rule 11 Precedents.
 
-Rule 1 Precedents.
-
-# Roleplay Rules
-
-This is where your roleplay rules content goes.
-
-# Silicon Policy
-
-This is where your silicon policy content goes.
-
-# Security Policy
-
-This is where your security policy content goes.
+  </div>
+    
+ <div class="tab-content content2">
+    <h1>Roleplay Rules</h1>
+    <p>This is where your roleplay rules content goes.</p>
+  </div>
+  <div class="tab-content content3">
+    <h1>Silicon Policy</h1>
+    <p>This is where your silicon policy content goes.</p>
+  </div>
+  <div class="tab-content content4">
+    <h1>Security Policy</h1>
+    <p>This is where your security policy content goes.</p>
+  </div>
+</div>
