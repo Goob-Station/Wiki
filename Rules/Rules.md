@@ -2,13 +2,13 @@
 title: Rules
 description: 
 published: true
-date: 2025-06-28T16:33:05.601Z
+date: 2025-06-28T16:35:05.619Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T22:31:02.210Z
 ---
 
-🚨 This page is a Work in Progress. Expect updates and changes. 🚨
+ <div class="disclaimer-box"> 🚨 This page is a Work in Progress. Expect updates and changes. 🚨 </div>
 
  Core Rules  Roleplay Rules  Silicon Policy  Security Policy
  
