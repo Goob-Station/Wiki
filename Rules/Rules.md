@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-06-28T16:29:26.109Z
+date: 2025-06-28T16:32:25.874Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T22:31:02.210Z
@@ -61,9 +61,35 @@ As a Head of Staff, you should be a reliable worker for your department, and are
 
 ## 6. In-game administration rulings are final
 
-Incidences of admin abuse, negligence or disputed rulings can be taken to the Discord server. If an admin says something was 'looked into, handled, resolved' etc, regarding an issue, it is unlikely an admin will provide any further information. Admins are under no obligation to reveal IC information. Deliberately lying or misrepresenting facts in adminhelps will be dealt with harshly.6 Rule 6 Precedents. (A)7. If you regularly come close to breaking the rules without actually breaking them, it will be treated as the rules being broken. Repeated instances of the same rules being broken may be met with harsher consequences. Baiting people into situations where you can report them to admins will be dealt with harshly. (A)8. Erotic/creepy stuff is not allowed. No form of erotic roleplay is allowed on the servers, including things that could be construed as sexual by unwilling participants. Rule 8 Precedents. 9. Players need to be the age of 16 or above. This rule is for the benefit of and is meant to protect people who shouldn't be playing here due to the nature of the SS14 community. Your age won't be hunted down, but if you admit it to us in admin PMs, or other places within our community, you will be removed. (A)10. Losing is part of the game. Your character will frequently die, sometimes without even a possibility of avoiding it. Events will often be out of your control. No matter how good or prepared you are, sometimes you just lose. (A)11. Bigotry is not allowed. Intentionally seeking to demean others due to their actual or perceived race, sex, gender, disability, orientation or the like is not tolerated. Rule 11 Precedents.
+Incidences of admin abuse, negligence or disputed rulings can be taken to the Discord server. If an admin says something was 'looked into, handled, resolved' etc, regarding an issue, it is unlikely an admin will provide any further information. Admins are under no obligation to reveal IC information. Deliberately lying or misrepresenting facts in adminhelps will be dealt with harshly. 
+    
+Rule 6 Precedents. 
+    
+## 7. If you regularly come close to breaking the rules without actually breaking them, it will be treated as the rules being broken. 
+    
+Repeated instances of the same rules being broken may be met with harsher consequences. Baiting people into situations where you can report them to admins will be dealt with harshly. 
+    
+    
+## (A)8. Erotic/creepy stuff is not allowed. 
+    
+No form of erotic roleplay is allowed on the servers, including things that could be construed as sexual by unwilling participants. 
+    
+Rule 8 Precedents. 
+    
+## 9. Players need to be the age of 16 or above. 
+    
+This rule is for the benefit of and is meant to protect people who shouldn't be playing here due to the nature of the SS14 community. Your age won't be hunted down, but if you admit it to us in admin PMs, or other places within our community, you will be removed. 
 
-  </div>
+## 10. Losing is part of the game.
+    
+Your character will frequently die, sometimes without even a possibility of avoiding it. Events will often be out of your control. No matter how good or prepared you are, sometimes you just lose. 
+    
+## 11. Bigotry is not allowed. 
+    
+Intentionally seeking to demean others due to their actual or perceived race, sex, gender, disability, orientation or the like is not tolerated. 
+    
+Rule 11 Precedents.
+ </div>
     
  <div class="tab-content content2">
     <h1>Roleplay Rules</h1>
