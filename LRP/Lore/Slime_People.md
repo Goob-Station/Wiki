@@ -1,8 +1,8 @@
 ---
-title: Slime_People
+title: Slime People
 description: uhhhhhh dunno man, don't make fun of me I'm just trying stuff
 published: false
-date: 2025-07-03T07:34:17.731Z
+date: 2025-07-03T07:35:08.360Z
 tags: species
 editor: markdown
 dateCreated: 2025-07-03T07:34:17.731Z
@@ -14,3 +14,4 @@ Slime people, as they've called it, are a gooey and slimy species from the plane
 They're still composed of basic organs like most other species and breathe in nitrogen (N2), expelling nitrous oxide (N2O) in the process. Their blood has a denser nutrient content than most, (though not recommended) and can be consumed as an alternative source of food.
 
 # beep boop
+wawawewo
