@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-07-07T17:06:46.215Z
+date: 2025-07-07T17:11:53.914Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -51,7 +51,7 @@ dateCreated: 2025-06-22T14:10:58.930Z
               <td id="important">Rouge2t7</td>
               <td id="important">Head Of Staff</td>
               <td id="important">Syndicate disaster victims can not crash their shuttle into the station on purpose or loose. Free agent rules similar to skeletons.</td>
-            <td id="important">None</td>
+            <td id="important"><a href="https://discord.com/channels/1202734573247795300/1357988474501857331/1391828521898348697">Clarification</a></td>
             </tr>
          <tr>
             <td>23/06/2025</td>
