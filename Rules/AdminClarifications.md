@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-07-07T17:11:53.914Z
+date: 2025-07-07T17:17:16.752Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -267,6 +267,13 @@ dateCreated: 2025-06-22T14:10:58.930Z
             <td>You aren't allowed to kill or gib mimes who break their vow, but they can be fired or socially ostracized. As a mime, do not break your vow for no reason.</td>
             <td><a href="https://canary.discord.com/channels/1323488536501944350/1362403810785628373/1381809301210927234">Clarification</a></td>
          </tr>
+               <tr>
+            <td>date(dd/mm/yyyy</td>
+              <td>New Name</td>
+              <td>Role</td>
+              <td>-------------------------------------------------------------------------------------------------------------------------------------------------------------</td>
+            <td>Link it for proof</td>
+            </tr>
         
    </table>
   </body>
