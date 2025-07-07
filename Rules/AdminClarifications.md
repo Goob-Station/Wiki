@@ -2,7 +2,7 @@
 title: Admin Clarifications
 description: 
 published: true
-date: 2025-06-24T22:42:19.820Z
+date: 2025-07-07T17:06:46.215Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-22T14:10:58.930Z
@@ -46,6 +46,13 @@ dateCreated: 2025-06-22T14:10:58.930Z
             <td>Link it for proof</td>
             </tr>
             -->
+         <tr>
+            <td id="important">07/07/2025</td>
+              <td id="important">Rouge2t7</td>
+              <td id="important">Head Of Staff</td>
+              <td id="important">Syndicate disaster victims can not crash their shuttle into the station on purpose or loose. Free agent rules similar to skeletons.</td>
+            <td id="important">None</td>
+            </tr>
          <tr>
             <td>23/06/2025</td>
             <td>Lehmin</td>
