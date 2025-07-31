@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-06-28T16:40:28.976Z
+date: 2025-07-31T18:48:05.597Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T22:31:02.210Z
@@ -32,7 +32,22 @@ dateCreated: 2025-05-26T22:31:02.210Z
 
 Roleplay is king, and admins can disregard other rules to this end should it prove beneficial for the experience of the shift. Admins are also allowed to intervene in rounds when it is in the best interest of the playerbase.
 
-Rule 0 Precedents.
+## Precedents
+     Rule 0 should only be invoked by admins when it is in the best interests of the server.
+
+  Admins have intervened before and will do so again in situations where a player, regardless of antag status:
+  - Has repeatedly delayed round-end by recalling the shuttle when most other players are dead or want to leave.
+  - Has habitually used the same strategies to cause mass death or destruction (i.e. bombs, hyper-optimized viruses, etc.) to the detriment of the rest of the server's experience.
+
+  Admins may mirror bans from other servers at their discretion.
+
+  Admins may ban accounts linked to the use of proxies, CID randomizers, DLL use, or other similar things, at their discretion.
+
+  Admins may ask players in possession of multiple alt accounts to choose one to play on and ban the other accounts.
+
+  If you regularly come close to breaking the rules without actually breaking them, it will be treated as the rules being broken.
+
+  - Repeated instances of the same rules being broken may be met with harsher consequences. Baiting people into situations where you can report them to admins will be dealt with harshly.
 
 ## 1. Don't be a dick.
 
