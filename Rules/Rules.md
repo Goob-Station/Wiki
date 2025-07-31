@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-07-31T18:48:05.597Z
+date: 2025-07-31T18:58:00.047Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T22:31:02.210Z
@@ -33,7 +33,8 @@ dateCreated: 2025-05-26T22:31:02.210Z
 Roleplay is king, and admins can disregard other rules to this end should it prove beneficial for the experience of the shift. Admins are also allowed to intervene in rounds when it is in the best interest of the playerbase.
 
 ## Precedents
-     Rule 0 should only be invoked by admins when it is in the best interests of the server.
+
+ Rule 0 should only be invoked by admins when it is in the best interests of the server.
 
   Admins have intervened before and will do so again in situations where a player, regardless of antag status:
   - Has repeatedly delayed round-end by recalling the shuttle when most other players are dead or want to leave.
@@ -52,6 +53,14 @@ Roleplay is king, and admins can disregard other rules to this end should it pro
 ## 1. Don't be a dick.
 
 Be excellent to each other. If you enjoy trying to ruin someone else’s good time, you won’t have a place here. Being a jerk in-character is fine to a point, but being a jerk out of character is not welcome.
+    
+  - Do not facilitate player deaths for poor IC reasoning. Distributing bombs or other similarly destructive items can leave you responsible for how they are used if not cleared with an admin first. Each unjustified kill is normally met with a 24-hour ban.
+  - Breaking into staffed departments to take resources, or hoarding station supplies with little IC reasoning can be harmful to the experience of other players. Communicate first if you desire something that you do not have access to. Players may defend their workplaces from trespassers who damage or steal property with relaxed escalation.
+  - Unjustified grief/tiding, minor or otherwise, or unprovoked grief targeted towards players who wronged you in previous rounds ('metagrudging') can be followed up with notes, or bans.
+  - If you do something that has no benefit to you other than making others upset and adminhelp the in-game consequences, you may be banned instead.
+  - Spamming any channel is not allowed unless granted explicit permission from an admin as part of a gimmick.
+  - Joining and exiting the round in an attempt to maximize antagonist rolls is not allowed.
+  - Rules apply until the emergency escape shuttle is docked and the round-end antagonist report has appeared.
 
 ## 2. Do not use information gained outside of in-character means. I.e. metagaming.
 
