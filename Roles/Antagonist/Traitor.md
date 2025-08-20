@@ -2,7 +2,7 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-08-20T19:45:44.195Z
+date: 2025-08-20T20:26:35.145Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
@@ -42,19 +42,23 @@ Weaponary
 | ![](/syndicate/contractor_baton.png) | 35 TC | Contractor Baton | Deals 35 Ion/Stun, and 5 Shock. Will knock down someone for a moment when initially hit. |
 | ![](/syndicate/capoeira.png) | 35 TC | Capoeira Manual| A single use Manual that teaches the user Capoeira, a Brazilian fighting style based on swift strikes, flowing combos, and gets faster with each move, missed or not. Don't let anybody ruin your groove.|
 | ![](/syndicate/energy_sword.png) | 37 TC | Energy Sword | Deals 15 Slash, 15 Heat, and 20 Structural. Has a slight change to deflect projectiles. Very loud. |
-| ![](/syndicate/anaconda.png) | 40 TC | Anaconda | Deals 25 Pierce, and generates ammo automatically. Fires quickly, and armor is 30% more resistant to its bullets. |
+| ![](/syndicate/anaconda.png) | 38 TC | Anaconda | Deals 25 Pierce, and generates ammo automatically. Fires quickly, and armor is 30% more resistant to its bullets. |
 | ![](/syndicate/c-20r.png) | 50 TC | C-20r | Deals 16 Pierce per shot, and shoots rapidly. Will play a alarm and eject its magazine upon emptying the magazine. |
 | ![](/syndicate/dualetta.png) | 50 TC | Dualetta Bundle | Cotains 2 Dualettas, which must be duel welded. They will fire at the same time. Deals 15 pierce per bullet, but because they both go down the same path, deals 30 pierce. Contains a Noir suit, Detective Trenchcoat, Laceup shoes, two .35 Auto magazines, and Combat Gloves. |
 | ![](/syndicate/m-90.png) | 50 TC | M-90 | Deals 17 Pierce, and shoots rapidly. |
 | ![](/syndicate/miniature_energy_crossbow.png) | 50 TC | Miniature Energy Crossbow | Deals 10 shock, and stuns the target. Recharges after a second, and is quiet. |
+| ![](/syndicate/combat_shotgun.png) | 50 TC | "Bojevic" Combat Shotgun | A beefy pump action shotgun that takes 5 rounds of 8 gauge.|
+| ![](/syndicate/estoc.png) | 55 TC | Estoc | A designated .20 assault rifle, with an optic to increase the view range by a few tiles. Fires in bursts or semi-auto.|
 | ![](/syndicate/bulldog.png) | 60 TC | Bulldog | Fires rapidly, deals 10 Pierce per bullet, and shoots 6 at a time. |
-| ![](/syndicate/fire_axe.png) | 60 TC | Fire Axe | Sets whoever it hits on fire, and deals 15 Heat, 20 SLash, and 100 Structural. Also subsitutes as a crowbar! |
-| ![](/syndicate/hristov.png) | 60 TC | Sniper Bundle | Contains a Hristov sniper, which will give you a 8 tile view increase on wielding. Bullets will deal 75 Piercing, and penetrate 50% of armor. Contains a .60 Anti-Material Magazine, and Ammunition Box. Contains a Black Lawyer Suit, Red Tie, Latex Gloves, and Barber Scissors. |
-| ![](/syndicate/wspr.png) | 60 TC | WSPR Bundle | Fires rapidly, bullets wont leave behind a case, fires 3 bullets per burst for 25 pierce per each, and armor is 30% more resistant. |
-| ![](/syndicate/carp_scroll.png) | 60 TC | Martial Arts Scroll | You can no longer fire weapons, bullets deflect off of you, space carp are friendly to you. Changelings can't understand this, if you decide to hand them this for some reason. |
+| ![](/syndicate/fire_axe.png) | 60 TC | Fire Axe | Sets whoever it hits on fire, and deals 15 Heat, 20 Slash, and 100 Structural. Also subsitutes as a crowbar! |
+| ![](/syndicate/ventilator.png) | 60 TC |  M7S "Ventilator"| A very rapidly firing, but stealthy sub-machine gun, it fires 5x23mm at a large spread which gets smaller the longer you supress your foes. |
+| ![](/syndicate/wspr.png) | 65 TC | WSPR | Fires fast enough, bullets wont leave behind a case, fires 3 9.5mm hp bullets per burst for 25 pierce per each, and armor is 30% more resistant. Silent compared to other guns. *Shh.* |
+| ![](/syndicate/carp_scroll.png) | 70 TC | Martial Arts Scroll | You can no longer fire weapons, bullets deflect off of you, space carp are friendly to you. Changelings can't understand this, if you decide to hand them this for some reason. **Takes Three Uses before you learn, with a short interval in between uses.**|
+| ![](/syndicate/hristov.png) | 70 TC | Sniper Bundle | Contains a Hristov sniper, which will give you a 8 tile view increase on wielding. Bullets will deal 75 Piercing, and penetrate 50% of armor. Contains a .60 Anti-Material Magazine, and Ammunition Box. Contains a Black Lawyer Suit, Red Tie, Latex Gloves, and Barber Scissors. |
 | ![](/syndicate/hardlight_bow.png) | 75 TC | Hardlight Bow | Can be folded and unfolded, and has 8 modes. Wielding gives a 4 tile view increase. Modes are: - Regular, which will deal 45 Heat damage. - Disabler, which will stun in 3 hits. Does not deal Ion Damage. - Fire, which will set its target on fire and deal 15 units of Heat. - Freezing, which will freeze the target and deal 10 cold damage. - Explosive, which will cause a explosion about the size of a Explosive Grenade, and deals 7 Blunt, 8 Piercing, and 7 Heat in the center. Best used for breaching a wall. - X-Ray, which will deal 30 heat, and will go through objects (and people). - Bees, which will summon angry bees on whoever it hits... NOT THE BEES!!!|
-| ![](/syndicate/burner.png) | 100 TC | Burner Heavy Rifle | Deals 35 Piercing, shoots rapidly, penetrates 50% of armor, and deals a good bit of structural damage. |
+| ![](/syndicate/burner.png) | 100 TC | Burner Heavy Rifle | Deals 35 Piercing, shoots rapidly, penetrates 50% of armor, and deals a good bit of structural damage. Big, loud, and well endowed.|
 | ![](/syndicate/l6_saw.png) | 100 TC | L6 Saw Bundle | Deals 19 Piercing, shoots VERY rapidly, and penetrates 40% of Armor. |
+| ![](/syndicate/heavensgate.png) | 130 TC | HE1S-G8 Bundle | A High Energy One shot Rifle bundle. The HE1 can increase your view, and fire bottled lightning, comes with 10 demolishing, and 9 hypercharged Gauss-8 cartidges.|
 | ![](/syndicate/china_lake.png) | 150 TC | China-Lake Bundle | Contains a China Lake,  Contains 4 Blast Grenades, which will deals 50 Piercing and 50 Heat in the center of the explosion, along with some hull damage, and 4 Frag Grenades, which will deals 30 Piercing and 30 Heat in the center of the explosion, with a much larger explosion in general, along with some extra hull damage. |
 
 #### MRP
