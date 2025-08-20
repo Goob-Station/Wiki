@@ -2,7 +2,7 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-08-20T19:27:53.237Z
+date: 2025-08-20T19:28:35.405Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
@@ -33,7 +33,7 @@ Weaponary
 | ![](/syndicate/python.png) | 20 TC | Python | Will be fired rapidly, does not use magazines, will cycle through bullets, and requires a Speedloader to re-load. Will deal 28 Piercing per shot, and ingores 75% of armor. |
 | ![](/syndicate/throwing_knives_kit.png) | 20 TC | Throwing Knives Kit | Comes in a pair of four, deals 10 Slash and 15 Piercing when thrown, 5 Slash when used in melee. |
 | ![](/syndicate/syndicate_disabler.png) | 20 TC | Syndicate Disabler | A singular powerful disabler, doing 25 stamina per shot, self recharges. |
-| ![](/syndicate/syndicate_knuckle_duster.png.png) | 20 TC | Syndicate Knuckle Duster | A platinum knuckle duster that let's you punch hard enough to break the captain's jaws into pieaces.|
+| ![](/syndicate/syndicate_knuckle_duster.png) | 20 TC | Syndicate Knuckle Duster | A platinum knuckle duster that let's you punch hard enough to break the captain's jaws into pieaces.|
 | ![](/syndicate/syndicate_crate.png) | 25 TC | Syndicate Bulk Rifle Crate | Contains 4 Mosins, 5 Ushankas, and 3 Vodkas. Россия (Rossiya)! |
 | ![](/electrical_toolbox.png) | 30 TC | Disposable Ballistic Turret | Looks and acts like a electrical toolbox, but when hit with a melee weapon, turns into a turret that will shoot everyone aside from you. Contains 50 shots, and dealing 16 damage each. Can be repaired with a wrench, and turned back into a toolbox with a screwdriver. Tip: Disassembling and Reassembling will reload the turret. "Hey look buddy, I'm a engineer, which means I solve problems." |
 | ![](/syndicate/betrayal_knife.png) | 30 TC | Betrayal Knife | The Betryal knife allows you to teleport a short distance, knocking down people ina  short radius of your teleport. Deals 8 slash normally, but will be 16 slash to knocked down targets in a backstab. |
