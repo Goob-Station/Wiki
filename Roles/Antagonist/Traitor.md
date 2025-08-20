@@ -2,7 +2,7 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-08-20T19:39:12.913Z
+date: 2025-08-20T19:39:46.525Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
@@ -37,8 +37,8 @@ Weaponary
 | ![](/syndicate/syndicate_crate.png) | 25 TC | Syndicate Bulk Rifle Crate | Contains 4 Mosins, 5 Ushankas, and 3 Vodkas. Россия (Rossiya)! |
 | ![](/electrical_toolbox.png) | 30 TC | Disposable Ballistic Turret | Looks and acts like a electrical toolbox, but when hit with a melee weapon, turns into a turret that will shoot everyone aside from you. Contains 50 shots, and dealing 16 damage each. Can be repaired with a wrench, and turned back into a toolbox with a screwdriver. Tip: Disassembling and Reassembling will reload the turret. "Hey look buddy, I'm a engineer, which means I solve problems." |
 | ![](/syndicate/gloves_of_the_north_star.png) | 30 TC | Gloves of the North Star | Worn on the Gloves, and greatly increases your punching speed. Deals 8 Blunt per hit, and lets you do a battle cry for the extra swag. Cannot be combined with other melee weapons. |
-| ![](/syndicate/energy_pickaxe.png) | 30 TC | Betrayal Knife | The Betryal knife allows you to teleport a short distance, knocking down people ina  short radius of your teleport. Deals 8 slash normally, but will be 16 slash to knocked down targets in a backstab. *"Suprise"*|
-| ![](/syndicate/betrayal_knife.png) | 32 TC | Energy Pickaxe |A Halographic mining tool with blades comprimised of hard light, nearly as deadly for humans and rocks. 50% chance to reflect, 18 heat, 6 blunt, 6 slash, 6 piercing, and 40 structural. **ROCK AND STONE.**|
+| ![](/syndicate/betrayal_knife.png) | 30 TC | Betrayal Knife | The Betryal knife allows you to teleport a short distance, knocking down people ina  short radius of your teleport. Deals 8 slash normally, but will be 16 slash to knocked down targets in a backstab. *"Suprise"*|
+| ![](/syndicate/energy_pickaxe.png) | 32 TC | Energy Pickaxe |A Halographic mining tool with blades comprimised of hard light, nearly as deadly for humans and rocks. 50% chance to reflect, 18 heat, 6 blunt, 6 slash, 6 piercing, and 40 structural. **ROCK AND STONE.**|
 | ![](/syndicate/contractor_baton.png) | 35 TC | Contractor Baton | Deals 35 Ion/Stun, and 5 Shock. Will knock down someone for a moment when initially hit. |
 | ![](/syndicate/energy_sword.png) | 37 TC | Energy Sword | Deals 15 Slash, 15 Heat, and 20 Structural. Has a slight change to deflect projectiles. Very loud. |
 | ![](/syndicate/anaconda.png) | 40 TC | Anaconda | Deals 25 Pierce, and generates ammo automatically. Fires quickly, and armor is 30% more resistant to its bullets. |
