@@ -2,14 +2,16 @@
 title: Humanity
 description: 
 published: false
-date: 2025-06-24T11:53:42.438Z
+date: 2025-08-21T11:08:15.724Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T10:35:10.185Z
 ---
 
 # Humans
-Your content here
+The bulk of Nanotrasen's workforce, the humans are arguably the most influencal race due to many leaders, influences on people being Human beings. Of course despite being a fairly disintresting race compared to other with more gimmicks, being humans have better stamina, and dexterity compared to most species.
+
+Of course this leads to some "superiority" complexes, but what's not more human than thinking you're better than everybody.
 
 # Draft (Tim's scribbles WIP edit if dumb)
 This, so far, is stuff I came up with on my own and has not been verified or approved by anyone. Feel free to edit it or remove it entirely if it's not up to the standard we need.
@@ -45,7 +47,7 @@ With power came scrutiny, and with scrutiny came sabotage, espionage, and whispe
 ## The Age of Stations
 Now, as Space Station 14 and its siblings orbit far-off worlds, each one a self-contained experiment in science, survival, and sociology, humanity exists in a delicate balance. NanoTrasen’s research continues at the frontier, driven by ambition, profit, and necessity. Its stations are laboratories and workplaces — and sometimes *battlegrounds*.
 
-In the eyes of many, NanoTrasen is humanity’s future. Others say it is the engine of its undoing.
+In the eyes of many, NanoTrasen is humanity’s future. Others say it is the engine of it's undoing.
 
 Either way, the stars no longer belong to Earth.
 
