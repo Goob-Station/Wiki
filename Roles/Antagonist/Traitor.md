@@ -2,7 +2,7 @@
 title: Traitor
 description: An undercover operative with special objectives.
 published: false
-date: 2025-08-20T20:26:35.145Z
+date: 2025-08-21T12:04:25.519Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
@@ -60,6 +60,7 @@ Weaponary
 | ![](/syndicate/l6_saw.png) | 100 TC | L6 Saw Bundle | Deals 19 Piercing, shoots VERY rapidly, and penetrates 40% of Armor. |
 | ![](/syndicate/heavensgate.png) | 130 TC | HE1S-G8 Bundle | A High Energy One shot Rifle bundle. The HE1 can increase your view, and fire bottled lightning, comes with 10 demolishing, and 9 hypercharged Gauss-8 cartidges.|
 | ![](/syndicate/china_lake.png) | 150 TC | China-Lake Bundle | Contains a China Lake,  Contains 4 Blast Grenades, which will deals 50 Piercing and 50 Heat in the center of the explosion, along with some hull damage, and 4 Frag Grenades, which will deals 30 Piercing and 30 Heat in the center of the explosion, with a much larger explosion in general, along with some extra hull damage. |
+| ![](/syndicate/magshot.png) | 200 TC | NZ CSG-242 Heavy Shotgun| A Merciless heavy explosive weapon. The recoil when firing is so extreme it can knock you down. Comes with 2 gauge pellet clip, and fires in extremely explosive bursts. |
 
 #### MRP
 | Icon | Cost | Name | Description |
