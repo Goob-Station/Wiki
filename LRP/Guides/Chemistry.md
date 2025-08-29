@@ -2,7 +2,7 @@
 title: Guide to Chemistry
 description: 
 published: true
-date: 2025-08-29T06:45:33.061Z
+date: 2025-08-29T06:49:00.719Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-19T23:55:14.616Z
@@ -39,12 +39,13 @@ Chemists use the following equipment:
 
 Chemistry is fairly straightforward once you know what to expect. Starting out, you'll be expected to make medicinal chems - the easiest is probably Bicaridine, a medicine that treats brute damage, so let's teach you how to make it!
 You're going to need:
+
 - a jug
 - a beaker
 - the Chem Dispenser
 - a hand labeler
 
-This is your bare minimum shiftstart kit!
+This is your bare minimum shiftstart kit for making a chemical of any kind!
 
 1. Go to your ChemDispenser and insert your beaker by clicking the dispenser while holding the beaker in your active hand.
 2. Click on the dispenser to open its menu. On the amount selection, choose 30.
@@ -57,6 +58,22 @@ This is your bare minimum shiftstart kit!
 9. Take the beaker out and empty it into the jug again. It should become a near full jug with an orange liquid - that's bicaridine!
 
 You can also mix chemicals inside the ChemMaster the same way you do with the dispenser, but you'll need to add chemicals to the buffer to do so. Many chemists prefer to add all their reagents to the ChemMaster to mix chemicals in there instead - give it a go yourself if you want to experiment.
+
+## What about Solid Medicines?
+
+Chemistry is fairly straightforward once you know what to expect. SO what about preparing chemicals for other kinds of situations, or for general use? Well, pills can typically work that angle well.
+ <ul>
+   <li>Grab a beaker, Pill Canister, and if desired, some Bottles.</li>  
+ <li>Place the beaker in the Chemical Dispenser, and Pill Canister (or bottle) in the Chem Master.</li>
+ <li>Open the Chemical Dispenser UI, and make your mix. Recipes are in other sections of the guidebook.</li>
+ <li>Alt-click the dispenser to remove your beaker, and place it in the Chem Master.</li>
+ <li>Open the Chem Master UI. On the Input tab, move your mix into the buffer.</li>
+ <li>Move to the Output tab, customise your pill, and press the Create button.</li>
+ <li>Alt-click the Chem Master to get the pill bottle out. You may have to remove the beaker first.</li>
+ <li>Click on a table, crate, or another surface to empty the pill bottle if desired. Alternatively, store or empty it into another storage container.</li>
+   </ul>
+ 
+That's it, you've made your first set of pills! Consider checking with Medical Doctors and other crew to see what else may be requested, refilling the medical kits in medbay storage, or just experimenting! ~~Or you can just give the Clown potassium pills.~~
 
 ## Applied Goobmistry
 
