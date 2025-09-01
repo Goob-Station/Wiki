@@ -1,14 +1,14 @@
 ---
-title: Traitor
-description: An undercover operative with special objectives.
+title: Traitor Items
+description: 
 published: false
-date: 2025-08-21T12:04:25.519Z
+date: 2025-09-01T03:29:12.297Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
 ---
 
-# Traitor
+# Traitor Items
 
 > Work in progress
 {.is-warning}
