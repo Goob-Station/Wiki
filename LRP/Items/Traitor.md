@@ -2,7 +2,7 @@
 title: Traitor Items
 description: 
 published: false
-date: 2025-09-01T03:29:12.297Z
+date: 2025-09-01T03:31:14.837Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-08T12:59:09.329Z
@@ -18,7 +18,7 @@ dateCreated: 2025-04-08T12:59:09.329Z
 This is a list of items you can get from the uplink in your PDA (or uplink implant). Normally you start with 100 TC as a traitor, unless you're a corperate spy, in which case you only have 25 TC. Normally no more are obtainable, so use what you have wisely.
 ### Syndicate Uplink Items
 
-Weaponary
+Weaponry
 ### Tab {.tabset}
 
 #### LRP
@@ -53,7 +53,7 @@ Weaponary
 | ![](/syndicate/fire_axe.png) | 60 TC | Fire Axe | Sets whoever it hits on fire, and deals 15 Heat, 20 Slash, and 100 Structural. Also subsitutes as a crowbar! |
 | ![](/syndicate/ventilator.png) | 60 TC |  M7S "Ventilator"| A very rapidly firing, but stealthy sub-machine gun, it fires 5x23mm at a large spread which gets smaller the longer you supress your foes. |
 | ![](/syndicate/wspr.png) | 65 TC | WSPR | Fires fast enough, bullets wont leave behind a case, fires 3 9.5mm hp bullets per burst for 25 pierce per each, and armor is 30% more resistant. Silent compared to other guns. *Shh.* |
-| ![](/syndicate/carp_scroll.png) | 70 TC | Martial Arts Scroll | You can no longer fire weapons, bullets deflect off of you, space carp are friendly to you. Changelings can't understand this, if you decide to hand them this for some reason. **Takes Three Uses before you learn, with a short interval in between uses.**|
+| ![](/syndicate/carp_scroll.png) | 70 TC | Carp Scroll | You can no longer fire weapons, bullets deflect off of you, space carp are friendly to you. Changelings can't understand this, if you decide to hand them this for some reason. **Takes Three Uses before you learn, with a short interval in between uses.**|
 | ![](/syndicate/hristov.png) | 70 TC | Sniper Bundle | Contains a Hristov sniper, which will give you a 8 tile view increase on wielding. Bullets will deal 75 Piercing, and penetrate 50% of armor. Contains a .60 Anti-Material Magazine, and Ammunition Box. Contains a Black Lawyer Suit, Red Tie, Latex Gloves, and Barber Scissors. |
 | ![](/syndicate/hardlight_bow.png) | 75 TC | Hardlight Bow | Can be folded and unfolded, and has 8 modes. Wielding gives a 4 tile view increase. Modes are: - Regular, which will deal 45 Heat damage. - Disabler, which will stun in 3 hits. Does not deal Ion Damage. - Fire, which will set its target on fire and deal 15 units of Heat. - Freezing, which will freeze the target and deal 10 cold damage. - Explosive, which will cause a explosion about the size of a Explosive Grenade, and deals 7 Blunt, 8 Piercing, and 7 Heat in the center. Best used for breaching a wall. - X-Ray, which will deal 30 heat, and will go through objects (and people). - Bees, which will summon angry bees on whoever it hits... NOT THE BEES!!!|
 | ![](/syndicate/burner.png) | 100 TC | Burner Heavy Rifle | Deals 35 Piercing, shoots rapidly, penetrates 50% of armor, and deals a good bit of structural damage. Big, loud, and well endowed.|
