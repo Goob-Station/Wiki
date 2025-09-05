@@ -1,0 +1,211 @@
+<!--
+title: Engineering
+description: Engineering Guide
+published: false
+date: 2025-09-05T17:56:25.488Z
+tags: engineering, engineer, power
+editor: ckeditor
+dateCreated: 2025-09-05T17:56:25.488Z
+-->
+
+<h1>Guide to Engineering</h1>
+<p>This is a guide representing the fundamentals for a station engineer and technical assistant, and… well, the necessary steps not to get verbally abused by the entire station for incompetence. This does not delve into atmospherics.</p>
+<p>&nbsp;</p>
+<p>(INSERT TABLE TO DIFFERENT HEADINGS)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Engineering Equipment</h2>
+<p>&nbsp;</p>
+<h3>Knowing your tools</h3>
+<p>Tool text:</p>
+<p>&nbsp;</p>
+<figure class="table">
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Icon</th>
+        <th>Functionality</th>
+        <th>Tool Quality*</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Crowbar</td>
+        <td>
+          <figure class="image"><img src="/crowbar.png"></figure>
+        </td>
+        <td>Used to pry open unpowered doors and closed fire locks, rip up tiles, and the deconstruction of some structures.</td>
+        <td>Prying</td>
+      </tr>
+      <tr>
+        <td>Gas Analyzer</td>
+        <td>
+          <figure class="image"><img src="/tools/gas_analyzer.png"></figure>
+        </td>
+        <td>Used to measure the properties (e.g., temperature, pressure, amount) of the surrounding gas, or gas contained within an object (e.g., pipes)</td>
+        <td>N/A</td>
+      </tr>
+      <tr>
+        <td>Geiger Counter</td>
+        <td>
+          <figure class="image"><img src="/geiger.png"></figure>
+        </td>
+        <td>Used to measure the amount of radiation present at a point in space.</td>
+        <td>N/A</td>
+      </tr>
+      <tr>
+        <td>Hammer</td>
+        <td>
+          <figure class="image"><img src="/tools/hammer.png"></figure>
+        </td>
+        <td>I don't really know what this does <mark class="marker-yellow">(To-do)</mark></td>
+        <td>Hammering</td>
+      </tr>
+      <tr>
+        <td>Network Configurator</td>
+        <td>
+          <figure class="image"><img src="/network_configurator.png"></figure>
+        </td>
+        <td>Used to link remote connections between machines. (There's more to it but I don't really know what else it does)</td>
+        <td>Pulsing</td>
+      </tr>
+      <tr>
+        <td>Multitool</td>
+        <td>
+          <figure class="image"><img src="/multitool.png"></figure>
+        </td>
+        <td>Used to read power statistics coming from a machine or wire. Can also be used to link remote connections between machines.&nbsp; (There's probably more to it but I don't really know what else it does)</td>
+        <td>Pulsing</td>
+      </tr>
+      <tr>
+        <td>Remote Signaler</td>
+        <td>
+          <figure class="image"><img src="/tools/remote_signaller.png"></figure>
+        </td>
+        <td>Activates a designated connected machine, such as a door opening or conveyor moving.</td>
+        <td>N/A</td>
+      </tr>
+      <tr>
+        <td>Screwdriver</td>
+        <td>
+          <figure class="image"><img src="/tools/screwdriver.png"></figure>
+        </td>
+        <td>Used to unlock machine panels. Also Used in construction and deconstruction of some structures.</td>
+        <td>Screwing</td>
+      </tr>
+      <tr>
+        <td>Spray painter</td>
+        <td>
+          <figure class="image"><img src="/tools/spray_painter.png"></figure>
+        </td>
+        <td>Used to paint doors and piping.</td>
+        <td>Painting</td>
+      </tr>
+      <tr>
+        <td>T-ray scanner</td>
+        <td>
+          <figure class="image"><img src="/t-ray.png"></figure>
+        </td>
+        <td>Allows the visual of components hidden beneath floor tiles, including wiring, beacons and whatever else people hid under there.</td>
+        <td>N/A</td>
+      </tr>
+      <tr>
+        <td>Welder</td>
+        <td>
+          <figure class="image"><img src="/welder.png"></figure>
+        </td>
+        <td>Used to weld doors shut, as well as repair some structures and robots. Used in the deconstruction of some structures.</td>
+        <td>Welding</td>
+      </tr>
+      <tr>
+        <td>Wire cutters</td>
+        <td>
+          <figure class="image"><img src="/tools/wirecutters.png"></figure>
+        </td>
+        <td>Used to cut wiring, hack into doors . Used in the deconstruction of some structures.</td>
+        <td>Cutting</td>
+      </tr>
+      <tr>
+        <td>Wrench</td>
+        <td>
+          <figure class="image"><img src="/wrench.png"></figure>
+        </td>
+        <td>Used to fasten (anchor) machines to the ground. Used in the deconstruction of some structures.</td>
+        <td>Anchoring</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<ul>
+  <li>* Tool qualities represent <mark class="marker-yellow">(INSERT INFORMATION)</mark>.</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Rapid Construction Device (RCD)</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Basics to Power Transportation and Storage</h2>
+<p>This section discusses the types of power as well as transforming and storing it.</p>
+<p>&nbsp;</p>
+<h3>Voltage Groups and Transformation</h3>
+<p>There represent 3 voltage groups of electricity: Low (LV), medium (MV), and high (HV).&nbsp;</p>
+<figure class="image"><img src="/lv_coil_bundle.png"></figure>
+<figure class="image"><img src="/mv_coil_bundle.png"></figure>
+<figure class="image"><img src="/hv_coil_bundle.png"></figure>
+<p>(Combine the above into a single figure, bruh.)</p>
+<p>It is to note, these wires are not directly interchangeable and need to be transformed. Doing so requires one of two machines:</p>
+<ul>
+  <li>Substation (HV ↔ MV)</li>
+  <li>APC (MV ↔ LV)</li>
+</ul>
+<p>&nbsp;</p>
+<p>In essence, most machinery found on the station run on LV, whilst most of power production produces HV. Hence, the produced power needs to be transformed down for station use.</p>
+<p>&nbsp;</p>
+<h3>Power Storage</h3>
+<p>Substations and APCs buffer buffer a small amount of power. However, for storage of bulk power requires the use of a superconducting magnetic energy storage (SMES).</p>
+<p>&nbsp;</p>
+<h2>Power Generation Methods</h2>
+<p>As of writing this guide, there are X main methods of generating power as engineering:</p>
+<ul>
+  <li>Solar panels</li>
+  <li>Anti-matter engine (AME)</li>
+  <li>Singularity</li>
+  <li>Tesla</li>
+  <li>Thermo-electric generator (TEG)</li>
+  <li>Super-matter crystal</li>
+  <li>Portable generators</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Solar Panels</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Portable Generators</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Singularity</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Tesla</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Thermo-electric generator (TEG)</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Super-Matter Crystals</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Recommended Procedure</h2>
+<p>With all your found information, you find yourself pondering what to do next (or you're just confused). Here's a basic list of things to do to make sure power stays operational.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>Power Transmission Laser</h2>
+<p>Device turns power (HV) into spesos by shooting lasers pulses into space. WARNING, DO NOT GO IN FRONT OF THE LASER AS IT FIRES. Currently, the generation of money can be represented below:</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
