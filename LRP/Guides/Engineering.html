@@ -2,7 +2,7 @@
 title: Guide to Engineering
 description: Engineering Guide
 published: false
-date: 2025-09-05T17:57:07.664Z
+date: 2025-09-10T18:15:41.125Z
 tags: engineering, engineer, power
 editor: ckeditor
 dateCreated: 2025-09-05T17:56:25.488Z
@@ -43,7 +43,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
         <td>
           <figure class="image"><img src="/tools/gas_analyzer.png"></figure>
         </td>
-        <td>Used to measure the properties (e.g., temperature, pressure, amount) of the surrounding gas, or gas contained within an object (e.g., pipes)</td>
+        <td>Used to measure the properties (e.g., temperature, pressure, amount) of the surrounding gas, or gas contained within an object (e.g., pipes).</td>
         <td>N/A</td>
       </tr>
       <tr>
@@ -51,7 +51,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
         <td>
           <figure class="image"><img src="/geiger.png"></figure>
         </td>
-        <td>Used to measure the amount of radiation present at a point in space.</td>
+        <td>Used to measure the amount of radiation present at a point in space. Must be activated by pressing z.</td>
         <td>N/A</td>
       </tr>
       <tr>
@@ -67,7 +67,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
         <td>
           <figure class="image"><img src="/network_configurator.png"></figure>
         </td>
-        <td>Used to link remote connections between machines. (There's more to it but I don't really know what else it does)</td>
+        <td>Used to link remote connections between machines. For a guide on networking see (LINK). (There's more to it but I don't really know what else it does)</td>
         <td>Pulsing</td>
       </tr>
       <tr>
@@ -75,7 +75,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
         <td>
           <figure class="image"><img src="/multitool.png"></figure>
         </td>
-        <td>Used to read power statistics coming from a machine or wire. Can also be used to link remote connections between machines.&nbsp; (There's probably more to it but I don't really know what else it does)</td>
+        <td>Used to read power statistics coming from a machine or wire. Can also be used to link remote connections between machines, and pulse wiring on certain machines.&nbsp; For a guide on networking see (LINK). (There's probably more to it but I don't really know what else it does)&nbsp;</td>
         <td>Pulsing</td>
       </tr>
       <tr>
@@ -91,7 +91,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
         <td>
           <figure class="image"><img src="/tools/screwdriver.png"></figure>
         </td>
-        <td>Used to unlock machine panels. Also Used in construction and deconstruction of some structures.</td>
+        <td>Used to unlock machine panels. Also used in construction and deconstruction of some structures.</td>
         <td>Screwing</td>
       </tr>
       <tr>
@@ -107,7 +107,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
         <td>
           <figure class="image"><img src="/t-ray.png"></figure>
         </td>
-        <td>Allows the visual of components hidden beneath floor tiles, including wiring, beacons and whatever else people hid under there.</td>
+        <td>Allows the visual of components hidden beneath floor tiles, including wiring, beacons and whatever else people hid under there. To activate it, press z while having it in your current hand.</td>
         <td>N/A</td>
       </tr>
       <tr>
@@ -115,7 +115,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
         <td>
           <figure class="image"><img src="/welder.png"></figure>
         </td>
-        <td>Used to weld doors shut, as well as repair some structures and robots. Used in the deconstruction of some structures.</td>
+        <td>Used to weld doors shut, as well as repair some structures and robots. Used in the deconstruction of some structures. Prior to use, welder must be fueled and turned on, typically pressing z.</td>
         <td>Welding</td>
       </tr>
       <tr>
@@ -123,7 +123,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
         <td>
           <figure class="image"><img src="/tools/wirecutters.png"></figure>
         </td>
-        <td>Used to cut wiring, hack into doors . Used in the deconstruction of some structures.</td>
+        <td>Used to cut placed wiring and hack into doors. Used in the deconstruction of some structures.</td>
         <td>Cutting</td>
       </tr>
       <tr>
@@ -179,8 +179,58 @@ dateCreated: 2025-09-05T17:56:25.488Z
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h3>Solar Panels</h3>
+<p>Solar panels are source of passive energy on the station requiring minimal maintenance. Typically, they are used to supplement power generations for higher producing methods such as the tesla or singularity.</p>
+<p>(ICON OF SOLAR PANELS)</p>
 <p>&nbsp;</p>
+<p>Solar panels produce HV power, scaling based on their relative angle to the sun.&nbsp;The orientation of the sun changes over time and can be thought of as “orbiting the station”. Panels can be automatically adjusted to face the sun using a Solar Tracker and Solar Control Computer:</p>
 <p>&nbsp;</p>
+<p>In most situations, solar trackers are already present on the station. However, they require HV connection to the power network to function. Once set up, interacting with a Solar Control Computer allows you to see the sun's orientation. Additionally, it allows you to input both the solar angle and velocity. The speed of the sun's rotation is randomized each shift, hence, you will be required to iterate to match the solar rotational velocity to that of the sun's. First, set the velocity to 5.5 as an initial guess as well as matching the solar angle to that of the sun. If you see the solar angle lag behind, increase their velocity. If you see them exceed the sun's angle, decrease their velocity.</p>
+<p>&nbsp;</p>
+<p>Solar panels are able to be upgraded using 2 plasma or uranium glass.&nbsp;At max each solar panel produces roughly:</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td>Panel material</td>
+        <td>Panel Icon</td>
+        <td>Machine icon</td>
+        <td>Power generation (Watt)</td>
+      </tr>
+      <tr>
+        <td>Glass</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>750</td>
+      </tr>
+      <tr>
+        <td>Plasma glass</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>1000</td>
+      </tr>
+      <tr>
+        <td>Uranium glass</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>1500</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<p>Solar panels are able to be upgraded using plasma or uranium glass. To do so:</p>
+<ol>
+  <li>Use a crowbar on the solar panel.</li>
+  <li>Place the 2 of the desired panel material onto the machine.</li>
+</ol>
+<p>&nbsp;</p>
+<p>Each station has solar panels present in an one or more arrays. They are typically named “Solars” on the station map or their location can be viewed on a Power Monitoring Console. However, they are not automatically set up, requiring HV wiring to the station power network, and alignment to the sun. This wiring also includes the solar tracker, typically found on nearby each array. &nbsp;Some solar panels may be broken, requiring the removal and repair of the broken glass in the machine. This is accomplished via the following steps:</p>
+<ol>
+  <li>Use a crowbar on the machine. This will eject 1-2 broken glass shards.</li>
+  <li>Place two glass sheets into the solar panel. You can also weld the broken glass shards.&nbsp;</li>
+</ol>
+<p>&nbsp;</p>
+<p>They can be ordered from cargo for $1250, containing 10 solar assembly flatpacks and 20 glass sheets. Once you place the assembly flatpack in an appropriate spot, use a multitool on it to unpack it. It is automatically anchored on the ground and requires 2 glass (or other panel material) to be placed inside it to be functional.</p>
 <p>&nbsp;</p>
 <h3>Portable Generators</h3>
 <p>&nbsp;</p>
