@@ -2,7 +2,7 @@
 title: Guide to Engineering
 description: Engineering Guide
 published: false
-date: 2025-09-10T18:15:41.125Z
+date: 2025-09-10T18:30:50.080Z
 tags: engineering, engineer, power
 editor: ckeditor
 dateCreated: 2025-09-05T17:56:25.488Z
@@ -184,7 +184,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
 <p>&nbsp;</p>
 <p>Solar panels produce HV power, scaling based on their relative angle to the sun.&nbsp;The orientation of the sun changes over time and can be thought of as “orbiting the station”. Panels can be automatically adjusted to face the sun using a Solar Tracker and Solar Control Computer:</p>
 <p>&nbsp;</p>
-<p>In most situations, solar trackers are already present on the station. However, they require HV connection to the power network to function. Once set up, interacting with a Solar Control Computer allows you to see the sun's orientation. Additionally, it allows you to input both the solar angle and velocity. The speed of the sun's rotation is randomized each shift, hence, you will be required to iterate to match the solar rotational velocity to that of the sun's. First, set the velocity to 5.5 as an initial guess as well as matching the solar angle to that of the sun. If you see the solar angle lag behind, increase their velocity. If you see them exceed the sun's angle, decrease their velocity.</p>
+<p>In most situations, Solar Trackers are already present on the station. However, they require HV connection to the power network to function. Once set up, interacting with a Solar Control Computer allows you to see the sun's orientation. Additionally, it allows you to input both the solar angle and velocity. The speed of the sun's rotation is randomized each shift, hence, you will be required to iterate to match the solar rotational velocity to that of the sun's. First, set the velocity to 5.5 as an initial guess as well as matching the solar angle to that of the sun. If you see the solar angle lag behind, increase their velocity. If you see them exceed the sun's angle, decrease their velocity.</p>
 <p>&nbsp;</p>
 <p>Solar panels are able to be upgraded using 2 plasma or uranium glass.&nbsp;At max each solar panel produces roughly:</p>
 <figure class="table">
@@ -198,20 +198,32 @@ dateCreated: 2025-09-05T17:56:25.488Z
       </tr>
       <tr>
         <td>Glass</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td>
+          <figure class="image"><img src="/materials/glass/glass_single.png"></figure>
+        </td>
+        <td>
+          <figure class="image"><img src="/structures/power_generation/solar_panels/solar_panel_glass.png"></figure>
+        </td>
         <td>750</td>
       </tr>
       <tr>
         <td>Plasma glass</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td>
+          <figure class="image"><img src="/materials/glass/glass_plasma_single.png"></figure>
+        </td>
+        <td>
+          <figure class="image"><img src="/structures/power_generation/solar_panels/solar_panel_plasma.png"></figure>
+        </td>
         <td>1000</td>
       </tr>
       <tr>
         <td>Uranium glass</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td>
+          <figure class="image"><img src="/materials/glass/glass_uranium_single.png"></figure>
+        </td>
+        <td>
+          <figure class="image"><img src="/structures/power_generation/solar_panels/solar_panel_uranium.png"></figure>
+        </td>
         <td>1500</td>
       </tr>
     </tbody>
