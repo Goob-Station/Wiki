@@ -2,7 +2,7 @@
 title: NanoTrasen
 description: 
 published: true
-date: 2025-10-05T18:07:29.638Z
+date: 2025-10-05T18:07:48.322Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T17:43:10.205Z
@@ -37,6 +37,8 @@ As large and powerful as they are, Nanotrasen's future standing is still shaky a
 
 ## Current Year NanoTrasen 
 
+  Goobstation is here
+  
 ## Fields Of Research
 
 ### Divisions of NanoTrasen
