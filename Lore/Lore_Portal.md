@@ -2,7 +2,7 @@
 title: Lore Portal
 description: 
 published: true
-date: 2025-10-05T18:15:08.727Z
+date: 2025-10-06T09:37:02.651Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T17:39:39.210Z
@@ -164,9 +164,9 @@ dateCreated: 2025-10-05T17:39:39.210Z
                         <center>
                            <center>
                               <figure class="mw-halign-left" typeof="mw:File">
-                                 <a href="/File:TGMC_logo.png" class="mw-file-description"><img src="/images/thumb/9/96/TGMC_logo.png/24px-TGMC_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/9/96/TGMC_logo.png/36px-TGMC_logo.png 1.5x, /images/thumb/9/96/TGMC_logo.png/48px-TGMC_logo.png 2x" /></a>
+                                 <a href="/File:TGMC_logo.png" class="mw-file-description"><img src="/images/thumb/9/96/TGMC_logo.png/24px-TGMC_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/9/96/TGMC_logo.png/36px-TGMC_logo.png 1.5x, /images/thumb/9/96/TGMC_logo.png/48px-TGMC_logo.png 2x" /></a>                               
                                  <figcaption></figcaption>
-                              </figure>
+                              </figure>                            
                               <big><b>TerraGov</b></big>
                               <figure class="mw-halign-right" typeof="mw:File">
                                  <a href="/File:TGMC_logo.png" class="mw-file-description"><img src="/images/thumb/9/96/TGMC_logo.png/24px-TGMC_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/9/96/TGMC_logo.png/36px-TGMC_logo.png 1.5x, /images/thumb/9/96/TGMC_logo.png/48px-TGMC_logo.png 2x" /></a>
