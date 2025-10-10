@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-10-08T03:19:21.597Z
+date: 2025-10-10T03:27:34.813Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T22:31:02.210Z
@@ -31,6 +31,7 @@ dateCreated: 2025-05-26T22:31:02.210Z
 ## 0. Enforcement of these rules is at the discretion of admins.
 
 Roleplay is king, and admins can disregard other rules to this end should it prove beneficial for the experience of the shift. Admins are also allowed to intervene in rounds when it is in the best interest of the playerbase.
+
 ### Precedents
  Rule 0 should only be invoked by admins when it is in the best interests of the server.
 
@@ -106,7 +107,8 @@ Be excellent to each other. If you enjoy trying to ruin someone else’s good ti
   Notify admins if you must leave near round start for Command or AI roles.
 
   A reasonable effort should always be made to put yourself in cryosleep to open up your job slot.
-# Core Rule 6 - In-game administration rulings are final
+    
+## Core Rule 6 - In-game administration rulings are final
 
   Incidences of admin abuse, negligence or disputed rulings can be taken to the Discord server. If an admin says something was 'looked into, handled, resolved' etc, regarding an issue, it is unlikely an admin will provide any further information. Admins are under no obligation to reveal IC information. Deliberately lying or misrepresenting facts in adminhelps will be dealt with harshly.
 
@@ -123,31 +125,40 @@ Be excellent to each other. If you enjoy trying to ruin someone else’s good ti
   ### Precedents
   - Incidents of admin abuse or negligence should be reported along with a date and time, along with details to pinpoint the incident in the logs, to any full admin via forum PM or posted on the admin complaints sub-forum located at https://discord.gg/goobstation. Incidents of poorly conducted admin events may also be taken to https://discord.gg/goobstation in their respective feedback threads, for less serious complaints.
   - Lying in adminhelps, misrepresenting facts deliberately, or logging off when an admin has asked a question may result in permabans. Admins will not automatically place bans for players logging off however, and will generally wait a while in case real life situations caused a player to disconnect or go AFK.
-    
-## 7. If you regularly come close to breaking the rules without actually breaking them, it will be treated as the rules being broken. 
-    
-Repeated instances of the same rules being broken may be met with harsher consequences. Baiting people into situations where you can report them to admins will be dealt with harshly. 
-    
-    
-## (A)8. Erotic/creepy stuff is not allowed. 
-    
-No form of erotic roleplay is allowed on the servers, including things that could be construed as sexual by unwilling participants. 
-    
-Rule 8 Precedents. 
-    
-## 9. Players need to be the age of 16 or above. 
-    
-This rule is for the benefit of and is meant to protect people who shouldn't be playing here due to the nature of the SS14 community. Your age won't be hunted down, but if you admit it to us in admin PMs, or other places within our community, you will be removed. 
 
-## 10. Losing is part of the game.
+ ## Core Rule 7 - Only use English
+  Only English is permitted, both in-character and out-of-character. You must be fluent in English enough to be able to not cause game issues, and to be able to communicate with game admins when necessary. If a game admin does not feel that you are fluent enough in English, they may ban you.
+
+  ### Why
+  We do not have enough staff fluent in other languages to moderate them. Translation tools can be unreliable and are not integrated well into the game.
+
+  ### Non-English Options
+  There are many servers that allow or focus on other languages. You are highly encouraged to play only on servers that allow languages you are fluent in.
+
+  ## Core Rule 8 - Erotic/creepy stuff is not allowed
+
+  No form of erotic roleplay is allowed on the servers, including things that could be construed as sexual by unwilling participants.
+
+## Core Rule 9 - Players need to be the age of 16 or above
+
+  This rule is for the benefit of and is meant to protect people who shouldn't be playing here due to the nature of the SS14 community. Your age won't be hunted down, but if you admit it to us in admin PMs, or other places within our community, you will be removed.
     
-Your character will frequently die, sometimes without even a possibility of avoiding it. Events will often be out of your control. No matter how good or prepared you are, sometimes you just lose. 
     
-## 11. Bigotry is not allowed. 
+## Core Rule 10 - Losing is part of the game
+
+  Your character will frequently die, sometimes without even a possibility of avoiding it. Events will often be out of your control. No matter how good or prepared you are, sometimes you just lose.
     
-Intentionally seeking to demean others due to their actual or perceived race, sex, gender, disability, orientation or the like is not tolerated. 
-    
-Rule 11 Precedents.
+## Core Rule 11 - Bigotry is not allowed.
+
+  Intentionally seeking to demean others due to their actual or perceived race, sex, gender, disability, orientation or the like is not tolerated.
+
+  ### Precedents
+- This rule applies to ALL OOC bigotry, even when expressed in IC. There is no racism in 2565, just species-ism: there is no homophobia, just xenophiliaphobia, etc.
+ - Admins are encouraged to use rule 1 to deal with instances where """IC""" bigotry is excessive or designed as a mask for OOC bigotry.
+  - Context is important, but somebody being an out and proud bigot, nazi, or white supremacist also counts as context. Somebody who makes it known they are bigoted towards PoCs playing a PoC character that starts checking stereotype boxes isn't going to fool us.
+  - Obvious or common real life replacements of offensive words or slurs used in IC are not allowed. For example, you may not insult a lizard by calling them the L- and ending with er as an N-word derivative will result in your permanent removal. Be creative.
+
+
  </div>
     
  <div class="tab-content content2">
