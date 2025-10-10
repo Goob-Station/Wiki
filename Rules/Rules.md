@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-10-10T03:33:26.262Z
+date: 2025-10-10T03:43:40.905Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T22:31:02.210Z
@@ -288,7 +288,206 @@ Be excellent to each other. If you enjoy trying to ruin someone else’s good ti
     
  <div class="tab-content content2">
     <h1>Roleplay Rules</h1>
-    <p>This is where your roleplay rules content goes.</p>
+    <p>
+ # Roleplay Rule 1 - LRP and MRP have different levels of intended roleplay
+
+  The purpose of roleplay servers are to provide a higher quality environment for roleplay. The roleplay rules are intended to promote more interactions between players so more roleplay moments can happen. They are not exhaustive, and admins have a very broad discretion to intervene where behaviours or actions could, if left ignored, contribute to a lower roleplay environment.
+
+  What differentiates LRP and MRP on Goob is generally community driven and not strictly defined. However, please note the following:
+
+  - LRP is intended to be a more casual roleplay environment, where players are not expected to follow the same level of immersion or character consistency as in MRP.
+  - MRP is intended to be a more immersive roleplay environment, where players are expected to follow a higher level of immersion and character consistency.
+  - The average round time on LRP is generally shorter than on MRP, and players are expected to be more flexible with their characters and roleplay.
+  - A character on LRP is not expected to be as fleshed out or consistent as a character on MRP, and players are encouraged to have fun and experiment with their characters.
+  - antagonists on LRP are not expected to follow the same level of immersion or character consistency as on MRP, and players are encouraged to have fun and experiment with their antagonists.
+  - On MRP antagonists are expected to follow a higher level of immersion and character consistency, and players are encouraged to have fun and experiment with their antagonists within the boundaries of the roleplay rules.
+      
+   # Roleplay Rule 2 - Escalation and roleplay.
+  Modified standard escalation applies to instances of player conflict. Players may escalate as per standard escalation policy on LRP/MRP where they have legitimate in character reason to do so.
+
+  Players acting without legitimate IC reasoning (for example: randomly or unnecessarily attempting to steal items from departments or other people) void the right to escalate to lethal self-defence if it is employed reasonably by the wronged party.
+
+  - Higher effort in roleplay allows you to escalate more.
+  - If you are attacked, you may defend yourself with lethal force if you have a legitimate IC reason to do so.
+  - MRP players are expected to follow a higher level of immersion and character consistency, and players are encouraged to have fun and experiment with their antagonists within the boundaries of the roleplay rules.
+   
+     # Roleplay Rule 3 - Chain of command and security are important.
+
+  If you're in the Chain of Command or in Security, you're expected to put in the effort and do your job as a departmental leader.
+
+  If you're not in the Chain of Command, your department head is your boss and they can fire you. Security officers can arrest you for stealing or breaking into places. Demotions and short brig sentences for actions that would get you fired or arrested in real life are roleplay opportunities.
+
+  ## precedents
+
+  - The internal chain of command for security is Head of Security > Warden > Officers & Detective.
+  - Security are expected by default to follow the orders of their superiors, especially when determining the punishment of those you apprehend. When determining severe punishments such as permanent incarceration or execution, make an effort to contact a superior if the situation permits it.
+  - You are allowed to disobey a superior's order with appropriate in-character roleplay reasoning. Complete disregard for the chain of command as a member of security is not tolerated.
+      
+        # Roleplay Rule 4 - Do not metagame, obey the Metashield
+  Something that is "shielded" cannot be known by your character during a round until the "revealing condition" happens. This also means that your character cannot do things based on "shielded" information. Knowing or acting on something that is shielded before the revealing condition is met is referred to as metagaming.
+
+  Revealing conditions reveal the shielded information for the round, not for a specific instance. This means that once a revealing condition is met in a round, the shield no longer applies in any case for the remainder of the round.
+
+  ## Never Revealed IC
+  Some shields are never revealed IC. This means that your character can never act as if they know about that shielded thing.
+
+  The following are shielded:
+  - Current game mode and possible antags during the current game mode.
+  - Events from previous rounds.
+  - Events you experienced as a different character.
+  - All information related to the player of a character rather than the character itself. (See "Metafriending and Metagrudging" below.)
+  - All information gained while dead or a ghost.
+  - All information gained while in critical condition or unconscious.
+  - The fact that a round will end.
+
+  This does not prevent knowing that a shift will end, but does prohibit things like preparing to kill people at central command when roleplay rules stop being enforced on LRP.
+
+  ## Nuclear Operatives
+
+  - Nuclear Operatives are rumoured but not proven. Have fun with this rumour.
+
+  ## Changelings
+
+  - In the eyes of the public, changelings are an exterminated predatory lifeform, they could always come back, but they'd not be on our station, right?
+
+  ## Heretics
+
+  - The chaplain is aware of the existence of heretics, but the chaplain is always spewing nonsense. What do they even mean?
+
+  ## Cosmic Cult
+
+  - The chaplain is saying words again! Why do they hire such weird people?
+
+  ## Devils
+
+  - The chaplain is now...talking about DEVILS? What is this nonsense? Devils are just a myth, right? They can't be real!
+
+  Knowledge about the abilities and consequences of a Devil deal are not shielded.
+
+  ## Zombies
+
+  Zombies are known galaxy-wide, but not as real-life, instead, as fiction.
+  Nuclear Operatives and Syndicate Agents are aware of Romerol and what it can do, but there's no benefit to revealing it to the crew. People likely won't believe you anyway.
+
+  ## Infections(Once the zombie virus is proven)
+
+  Such infections have been known to be extinct. But luckily advanced medicine has been able to cure the infection. The cure is not known to the public, but it is known to Chemists and Chief Medical Officers. The cure is not known to be a cure for the zombie virus, but it is known to be a cure for an infection that causes people to become zombies.
+
+  ## Deathsquad
+
+  Deathsquad is a sci-fi trope that is well known in the galaxy, but not as a real thing. It is a myth, a legend, and a story that people tell each other. The Deathsquad is not real, but some will argue that it is.
+
+  ## Implanted implants
+
+  Implants are not shielded by default, but the fact that they are not Nanotrasen (NT) implants is shielded.
+
+  ## Chameleon Items
+
+  Chameleon items are shielded.
+  Being suspicious of an item being fake or stolen is not shielded, but testing items or calling them chameleon is covered by this shield.
+
+  ## Stealth Items
+
+  The fact that an item can be something other than what its visual appearance and examine description indicate is shielded.
+  Security may be aware of tampered items, but they are not aware of the specific item that is tamped. This means that security may not act on the fact that an item is tamped, but they may act on the fact that an item is suspicious.  (Example: Non-NT weapons on a persons is suspicious, how did they get it on station?)
+  This shield protects stealth items, including protecting them from being tested.
+
+
+  ## Metafriending and Metagrudging
+  This section provides additional information on a concept that is prohibited by multiple metashield items that are never revealed IC. Giving a person or character preferential treatment based on something that your character should not know is considered metafriending. Treating a person or character negatively based on something that your character should not know is considered metagrudging.
+
+  ## Metafriending Examples
+  These are all examples of things that are prohibited by at least one metashield item that is never revealed IC.
+  - Giving a character additional access or a job because you are friends with the player who is playing that character.
+  - Trusting a character because you are friends with the player who is playing that character.
+  - Not fighting a character because you are friends with the player who is playing that character.
+  - Ignoring your objective to kill a character because your character and theirs became friends in a previous round.
+
+  ## Metagrudging Examples
+  These are all examples of things that are prohibited by at least one metashield item that is never revealed IC.
+  - Not giving a character additional access or a job because you are mad at or don't like the player who is playing that character.
+  - Not trusting a character because you are mad at or don't like the player who is playing that character.
+  - Starting a fight with a character because of something that they did last round.
+  - Starting a fight with a character because they killed you while you were playing a different character.
+  - Targeting or harassing a character based on anything which that character did outside the current round.
+  - Targeting or harassing a character based on anything which the character's player did while not playing the character.
+
+  ## Explicitly Not Shielded
+  The following is a list of things that are explicitly not shielded. If something is not on this list, it doesn't mean that it is shielded, but if something is on it then it definitely is not shielded.
+  - The fact that the nuke disk must be protected and could be used by a bad actor to try to destroy the station.
+  - Items that are of high value or are desired by the Syndicate, and therefore are likely targets of theft.
+  - The idea that any Syndicate agent or other bad actor has goals or objectives that they are attempting to accomplish.
+  - The number of goals or objectives that a Syndicate agent or other bad actor has.
+  - The fact that the Syndicate are enemies of Nanotrasen, and that they regularly attempt to send covert agents to spy on, sabotage, or attack Nanotrasen.
+  - A character's typical appearance. Though you should keep in mind that multiple characters can share the same name.
+  - The fact that the Syndicate have covert items capable of getting items to them, and that these items are known as uplinks.
+  - Wizards are not metashielded as the wizards federation is well rumoured about.
+
+  For revealing conditions check out [textlink="Antag revealing conditions" link="Conditions"]
+      
+       # Roleplay Rule 5 - Non-security may only actively hunt global or round-ending threats.
+  You should not act like a vigilante if a security force is present unless you have a good in-character roleplay reason to believe a global or round-ending threat exists. Restricted antags that are not automatically global or round ending threats may still become so through their actions in the shift, the stronger your reasoning the more action you can take against them.
+
+  You can always defend yourself and others from violent antagonists.
+
+  Players that choose to act as security will be held to the same standards as security.
+
+  ## Precedents
+
+  - Actively hunting a threat involves seeking out or pursuing that threat outside the bounds of your normal reasonable play area. Players are not expected to ignore antagonists during the normal course of play and may engage with antagonists who are active within their sphere. (Examples: A medical doctor knowing the identity of an active traitor could attack that traitor if that traitor came armed into medbay, likewise an engineer could attack a traitor they spotted breaking into the engine room). Players choosing this route should not attempt to chase down or finish antagonists who retreat from these engagements (unless they have reason to believe that the antagonist constitutes a global or round-ending threat or have a personal reason to do so under other precedents)
+  - The dead dog litmus test: Players may hunt specific threats or antagonists who have identifiably done something to wrong that particular player, the Ur-example being that players may seek revenge against those who harm their departmental pets. Players who choose this path are empowered to act as security in regard to that specific threat, but as per the main rule must also follow related restrictions on security play. This can also be applied to an assault of a character you've had significant interactions with, in the current round, and it does not apply to cross-round or OOC friendships.
+  - Security are freely empowered to deputise players as they will or to declare states of emergency if they believe themselves unable to handle ongoing issues within the round. These calls should be backed up by the chain of command where possible, and non-security players are free to enquire with security to see if they require assistance if concerned. As per the main rule, deputized players are acting as security and held to security’s standards. (Players consistently asking to be deputized or doing so with little in-character reasoning may be asked to knock it off and just play security)
+
+       # Roleplay Rule 6 - Antagonism and roleplaying as an antagonist..
+
+  The goal of antagonists is to create stories and make rounds interesting, for both antagonist players and crew-sided players alike. Antagonists are expected to put in at least some effort towards playing their designated role, though may break with it given sufficient in character reason. Some antagonists are restricted in the ways and quantities they may lend themselves to visiting death and destruction upon the crew.
+
+  ## Precedents
+  - Objectives are suggestions, and antagonists are free to ignore them if they have a preferred or more interesting idea for their course of action.
+  - Actions as an antagonist do not have to be nefarious or evil, but should make an effort to influence the story and meaningfully impact the shift. Explicitly friendly antagonistic play or siding outright with the crew is restricted – players must have good in-character reasoning behind the decision or an antagonistic goal in mind by doing it.
+  - Roleplay rule 11 applies to the actions of antagonists – extremely repetitive antagonistic actions repeated over the long term may draw an administrative request to tone it down or try something new, if most of the people on the server can immediately guess what you’re going to do when made an antagonist, it might be time to come up with a new plan.
+
+  ## important information regarding antag labels.
+  - Traitors and Changelings may team despite being solo antagonists, but risk being a target themselves or double crossed for their biomass or TC.
+  - Heretics do not team, they are explicitly solo antagonists, heretics have conflicting ideologies. This puts them at odds with each other. The stronger god wins.
+  - Bingles are only interested in feeding the hole. You must feed the hole.
+  - While the abductor may steal anything, it is generally only interested in research. Some trinkets are cool to collect but what use are these normal items?
+  
+  # Restricted Antag Death and Destruction
+
+  ## With Objectives
+  Antagonist objectives are the core of what antagonists are allowed to directly do with no or limited roleplay reasoning. Actions taken to directly accomplish an objective do not have to be proportionate.
+
+  Causing death and destruction to help with indirectly accomplishing objectives must have an in-character roleplay reason. If questioned about a chain of events involving indirect actions, the antagonist should be able to clearly explain what events in the current shift led them to their course of action without resorting to hypotheticals.
+
+  If a player or department directly interferes with the completion of an objective, this is no longer a hypothetical as the antagonist can now point to specific events in the shift to justify their actions.
+
+  ## Without Objectives
+
+  When wanting to cause death and destruction not related to objectives, restricted antagonists may instead rely on extremely relaxed escalation.
+
+  They may escalate lethally sooner and with less justification, may use more lethal methods to escalate and may rely on antagonistic reasons for escalating. Such reasons may include escalating against people who are excessively polite or helpful as well as being mean or rude, escalating against groups of people who exclude them or escalating against people who ignore or avoid attempts to communicate entirely.
+
+  They have no obligation to treat their victims but escalating over minor issues should not result in the antagonist taking steps to permanently round-remove the other player unless escalation policy would otherwise permit it.
+
+  ## Mass Sabotage Exception
+
+  There exist some antagonistic actions which are so indiscriminate that they can never form justification for directly accomplishing an objective, but are also so disproportionate that no IC reason can allow for using them to indirectly accomplish an objective. This has the potential to make dangerous areas of the station safer than intended, because the crew know common antagonists can't take full advantage of those spaces in dangerous or deadly ways.
+
+  To avoid this, mass station sabotage that is likely to kill people is allowed so long as the antagonist does not take any direct and specific personal actions to maximise the bodycount beyond what the sabotage itself causes.
+
+  The test for mass station sabotage is to consider only strategies that a restricted antagonist could never justify using to complete a standard kill objective. Examples include plasma flooding, causing a supermatter delamination and spacing the station, although this list is not exhaustive. An example of a strategy which does not fall under mass station sabotage would be uses of bombs or other explosives, which can form justification for completing a standard kill objective and follow those rules instead.
+  
+ Please check in game for the table of which
+      
+      
+      
+      
+      
+      
+      
+   
+   </p>
   </div>
   <div class="tab-content content3">
     <h1>Silicon Policy</h1>
