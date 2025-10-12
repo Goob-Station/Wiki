@@ -2,7 +2,7 @@
 title: NanoTrasen
 description: 
 published: true
-date: 2025-10-12T16:03:19.911Z
+date: 2025-10-12T16:08:13.243Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T17:43:10.205Z
@@ -69,7 +69,7 @@ Notes:
 
 - The humble Beach Ball is one of Nanotrasen's most profitable products!
   
-### Divisions of NanoTrasen
+## Divisions of NanoTrasen
   
   <strong><font size="5">Central Command</font></strong>
   
