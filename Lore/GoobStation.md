@@ -2,7 +2,7 @@
 title: GoobStation
 description: 
 published: true
-date: 2025-10-06T09:24:22.026Z
+date: 2025-10-12T15:34:33.762Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T18:08:40.052Z
@@ -14,3 +14,14 @@ dateCreated: 2025-10-05T18:08:40.052Z
 {.is-info}
 
 We are fools.
+
+## What is GoobStation?
+
+## When is Goobstation?
+
+## Who mans the GoobStation?
+
+## Where is the GoobStation?
+
+## Why is the GoobStation?
+
