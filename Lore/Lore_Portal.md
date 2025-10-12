@@ -2,7 +2,7 @@
 title: Lore Portal
 description: 
 published: true
-date: 2025-10-06T09:37:02.651Z
+date: 2025-10-12T16:23:15.305Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T17:39:39.210Z
@@ -26,12 +26,12 @@ dateCreated: 2025-10-05T17:39:39.210Z
                      <div style="background: #0E1724; border-radius: .2em; color: #FFFFFF; padding: .4em .8em .5em; border-radius: 8px;">
                         <center>
                            <figure class="mw-halign-left" typeof="mw:File">
-                              <a href="/File:Galcom.png" class="mw-file-description"><img src="/images/b/b1/Galcom.png" decoding="async" width="24" height="24" class="mw-file-element" /></a>
+                              <a href="/branding/galcom.png" class="mw-file-description"><img src="/branding/galcom.png" decoding="async" width="24" height="24" class="mw-file-element" /></a>
                               <figcaption></figcaption>
                            </figure>
                            <big><b>Species Information</b></big>
                            <figure class="mw-halign-right" typeof="mw:File">
-                              <a href="/File:Galcom.png" class="mw-file-description"><img src="/images/b/b1/Galcom.png" decoding="async" width="24" height="24" class="mw-file-element" /></a>
+                              <a href="/branding/galcom.png" class="mw-file-description"><img src="/branding/galcom.png" decoding="async" width="24" height="24" class="mw-file-element" /></a>
                               <figcaption></figcaption>
                            </figure>
                         </center>
@@ -71,12 +71,12 @@ dateCreated: 2025-10-05T17:39:39.210Z
                      <div style="background: #0E1724; border-radius: .2em; color: #FFF; padding: .4em .8em .5em; border-radius: 8px;">
                         <center>
                            <figure class="mw-halign-left" typeof="mw:File">
-                              <a href="/File:NTlogo.png" class="mw-file-description"><img src="/images/thumb/e/ee/NTlogo.png/24px-NTlogo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/e/ee/NTlogo.png/36px-NTlogo.png 1.5x, /images/thumb/e/ee/NTlogo.png/48px-NTlogo.png 2x" /></a>
+                              <a href="/branding/24px-ntlogo.png" class="mw-file-description"><img src="/branding/24px-ntlogo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/e/ee/NTlogo.png/36px-NTlogo.png 1.5x, /images/thumb/e/ee/NTlogo.png/48px-NTlogo.png 2x" /></a>
                               <figcaption></figcaption>
                            </figure>
                            <big><b>Nanotrasen</b></big>
                            <figure class="mw-halign-right" typeof="mw:File">
-                              <a href="/File:NTlogo.png" class="mw-file-description"><img src="/images/thumb/e/ee/NTlogo.png/24px-NTlogo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/e/ee/NTlogo.png/36px-NTlogo.png 1.5x, /images/thumb/e/ee/NTlogo.png/48px-NTlogo.png 2x" /></a>
+                              <a href="/branding/24px-ntlogo.png" class="mw-file-description"><img src="/branding/24px-ntlogo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/e/ee/ntlogo.png/36px-NTlogo.png 1.5x, /images/thumb/e/ee/NTlogo.png/48px-NTlogo.png 2x" /></a>
                               <figcaption></figcaption>
                            </figure>
                         </center>
@@ -103,12 +103,12 @@ dateCreated: 2025-10-05T17:39:39.210Z
                      <div style="background: #0E1724; border-radius: .2em; color: #FFF; padding: .4em .8em .5em; border-radius: 8px;">
                         <center>
                            <figure class="mw-halign-left" typeof="mw:File">
-                              <a href="/File:Cybersun_logo.png" class="mw-file-description"><img src="/images/thumb/1/16/Cybersun_logo.png/24px-Cybersun_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/1/16/Cybersun_logo.png/36px-Cybersun_logo.png 1.5x, /images/thumb/1/16/Cybersun_logo.png/48px-Cybersun_logo.png 2x" /></a>
+                              <a href="/branding/24px-cybersun_logo.png" class="mw-file-description"><img src="/branding/24px-cybersun_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/1/16/Cybersun_logo.png/36px-Cybersun_logo.png 1.5x, /images/thumb/1/16/Cybersun_logo.png/48px-Cybersun_logo.png 2x" /></a>
                               <figcaption></figcaption>
                            </figure>
                            <big><b>Other Organizations</b></big>
                            <figure class="mw-halign-right" typeof="mw:File">
-                              <a href="/File:Cybersun_logo.png" class="mw-file-description"><img src="/images/thumb/1/16/Cybersun_logo.png/24px-Cybersun_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/1/16/Cybersun_logo.png/36px-Cybersun_logo.png 1.5x, /images/thumb/1/16/Cybersun_logo.png/48px-Cybersun_logo.png 2x" /></a>
+                              <a href="/branding/24px-cybersun_logo.png" class="mw-file-description"><img src="/branding/24px-cybersun_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/1/16/Cybersun_logo.png/36px-Cybersun_logo.png 1.5x, /images/thumb/1/16/Cybersun_logo.png/48px-Cybersun_logo.png 2x" /></a>
                               <figcaption></figcaption>
                            </figure>
                         </center>
@@ -164,12 +164,12 @@ dateCreated: 2025-10-05T17:39:39.210Z
                         <center>
                            <center>
                               <figure class="mw-halign-left" typeof="mw:File">
-                                 <a href="/File:TGMC_logo.png" class="mw-file-description"><img src="/images/thumb/9/96/TGMC_logo.png/24px-TGMC_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/9/96/TGMC_logo.png/36px-TGMC_logo.png 1.5x, /images/thumb/9/96/TGMC_logo.png/48px-TGMC_logo.png 2x" /></a>                               
+                                 <a href="/branding/24px-tgmc_logo.png" class="mw-file-description"><img src="/branding/24px-tgmc_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/9/96/TGMC_logo.png/36px-TGMC_logo.png 1.5x, /images/thumb/9/96/TGMC_logo.png/48px-TGMC_logo.png 2x" /></a>                               
                                  <figcaption></figcaption>
                               </figure>                            
                               <big><b>TerraGov</b></big>
                               <figure class="mw-halign-right" typeof="mw:File">
-                                 <a href="/File:TGMC_logo.png" class="mw-file-description"><img src="/images/thumb/9/96/TGMC_logo.png/24px-TGMC_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/9/96/TGMC_logo.png/36px-TGMC_logo.png 1.5x, /images/thumb/9/96/TGMC_logo.png/48px-TGMC_logo.png 2x" /></a>
+                                 <a href="/branding/24px-tgmc_logo.png" class="mw-file-description"><img src="/branding/24px-tgmc_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/9/96/TGMC_logo.png/36px-TGMC_logo.png 1.5x, /images/thumb/9/96/TGMC_logo.png/48px-TGMC_logo.png 2x" /></a>
                                  <figcaption></figcaption>
                               </figure>
                            </center>
@@ -202,12 +202,12 @@ dateCreated: 2025-10-05T17:39:39.210Z
                      <div style="background: #0E1724; border-radius: .2em; color: #FFF; padding: .4em .8em .5em; border-radius: 8px;">
                         <center>
                            <figure class="mw-halign-left" typeof="mw:File">
-                              <a href="/File:TGMC_logo.png" class="mw-file-description"><img src="/images/thumb/9/96/TGMC_logo.png/24px-TGMC_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/9/96/TGMC_logo.png/36px-TGMC_logo.png 1.5x, /images/thumb/9/96/TGMC_logo.png/48px-TGMC_logo.png 2x" /></a>
+                              <a href="/branding/24px-tgmc_logo.png" class="mw-file-description"><img src="/branding/24px-tgmc_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/9/96/TGMC_logo.png/36px-TGMC_logo.png 1.5x, /images/thumb/9/96/TGMC_logo.png/48px-TGMC_logo.png 2x" /></a>
                               <figcaption></figcaption>
                            </figure>
                            <big><b>The Spinward Sector</b></big>
                            <figure class="mw-halign-right" typeof="mw:File">
-                              <a href="/File:TGMC_logo.png" class="mw-file-description"><img src="/images/thumb/9/96/TGMC_logo.png/24px-TGMC_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/9/96/TGMC_logo.png/36px-TGMC_logo.png 1.5x, /images/thumb/9/96/TGMC_logo.png/48px-TGMC_logo.png 2x" /></a>
+                              <a href="/branding/24px-tgmc_logo.png" class="mw-file-description"><img src="/branding/24px-tgmc_logo.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="/images/thumb/9/96/TGMC_logo.png/36px-TGMC_logo.png 1.5x, /images/thumb/9/96/TGMC_logo.png/48px-TGMC_logo.png 2x" /></a>
                               <figcaption></figcaption>
                            </figure>
                         </center>
