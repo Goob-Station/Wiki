@@ -2,7 +2,7 @@
 title: Chem Recipe Diagram WIP
 description: 
 published: true
-date: 2025-06-16T15:38:32.894Z
+date: 2025-10-12T15:24:31.520Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-09T02:24:35.374Z
