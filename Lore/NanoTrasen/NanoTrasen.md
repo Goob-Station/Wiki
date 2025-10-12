@@ -2,7 +2,7 @@
 title: NanoTrasen
 description: 
 published: true
-date: 2025-10-12T15:18:25.539Z
+date: 2025-10-12T16:03:19.911Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T17:43:10.205Z
@@ -22,7 +22,7 @@ dateCreated: 2025-10-05T17:43:10.205Z
 <tr>
 <td width="150" align="center" bgcolor="#cccccc"><span typeof="mw:File"><a href="/File:Nanotrasen_flag.png" class="mw-file-description"><img src="/factions/ntlogo.png" decoding="async" width="64" height="43" class="mw-file-element" srcset="/images/thumb/c/c2/Nanotrasen_flag.png/96px-Nanotrasen_flag.png 1.5x, /images/thumb/c/c2/Nanotrasen_flag.png/128px-Nanotrasen_flag.png 2x" /></a></span> <br /> <b>Nanotrasen</b>
 </td>
-<td><b>Headquarters:</b> Manhattan Capital District, New York City, United States, Earth, Sol System<br /> <b>Spheres:</b> Plasma extraction and refining, Bluespace technology, Alternative energy sources, Biology and xenobiology<br /><b>Organization:</b> Scientific Corporation<br /><b>Sphere of Influence:</b> Everything (unstable)<br /><b>Public Relations:</b> Positive<br /><b>Size:</b> Megacorporation
+<td><b>Headquarters:</b> Manhattan Capital District, New York City, United States, Earth, Sol System<br /> <b>Spheres:</b> Plasma extraction and refining, Bluespace technology, Alternative energy sources, Biology and xenobiology<br /><b>Organization:</b> Scientific Corporation<br /><b>Sphere of Influence:</b> Everything (unstable)<br /><b>Public Relations:</b> Positive<br /><b>Size:</b> Megacorporation<br /><b>CEO:</b> John NanoTrasen, Corporate Personhood<br />
 </td></tr></tbody></table>
 <p><br />
 </p>
@@ -36,11 +36,20 @@ Primarily an advanced research and development conglomerate, Nanotrasen also has
 As large and powerful as they are, Nanotrasen's future standing is still shaky and uncertain as they double down further on their Spinward settlements. Their decision to expand out Spinward on their own came during the dawn of TerraGov's efforts to begin scouting out and colonizing Alpha Centauri (Trailward of Sol, in the opposite direction of SS13), and the opportunity cost involved with breaking from TerraGov's expansion has been sizable.
 
 ## How it started
-Founded in 1963 in the city of Fresno by Michael Trasen and Dale Knox, Trasen-Knox Computing (as it was known at the time) would get its start producing scientific computers for academia. Trasen-Knox computers quickly gained a reputation for quality and reliability, and the company would gain a decent market share with American and Canadian universities over the coming decade. Trasen-Knox would also work closely with NASA in producing equipment for the space race- giving them an early start in Humanity’s push to the stars.
+  
+The company that owns and operates the playable stations. Originally National Notary, became NanoTrasen after merging with Tradecraft Seneca during the late Apollo era. NT is your employer, unless you've rolled certain special or antagonist roles. "The Good Guys" as far as gameplay is concerned, but, y'know, still pretty awful.
 
-With the introduction of the microprocessor in the early 1970s, the world of computers became accessible to the masses via the introduction of the personal computer. Seizing on the opportunity to expand their horizons, Trasen-Knox would introduce their first personal computer, the TKC Personal Computer, in 1978, becoming a household name as well as the favourite computer producer of scientific groups in North America. However, by the early 90s, as computers became smaller and technology more compact, Trasen-Knox saw the need to create more of a recognisable brand. They would officially change their name to Nanotrasen in 1995, and the name would stick for the company. By 1998, Dale Knox would leave Nanotrasen for health reasons, leaving the company under the sole leadership of Michael Trasen.
+NanoTrasen is dedicated to plasma extraction, plasma research, plasma-derived technologies and spacefaring / space exploration in general. NanoTrasen fueled Humanity's expansion across the Solar System and outward. NanoTrasen was a private-public partner of NASA since the late Apollo era, brought on by Senator Victor Jam to assist with extraction and research of lunar plasma samples discovered by Apollo 15.
 
-By the early 2000s, Nanotrasen had long observed the computer gaming industry since its inception during the 1980s, and in 2005 would finally make their own entry into the market via the Nanoplay: the world’s first game console with built-in internet connectivity capabilities, bringing the gamers of the world together. In 2008, Nanotrasen would buy out and merge with the Wulfe Group, a German company known for their manufacture of industrial equipment. Rebranding the company as Nanotrasen Heavy Industry (or NTHI), this would be Nanotrasen’s first step towards new horizons beyond computing. In a series of purchases, Nanotrasen would expand its range of products considerably, acquiring a chemical and oil subsidiary in Texas Chemical (now Nanotrasen Chemical Supply), a consumer goods subsidiary in Seowon Appliances (now Nanotrasen Consumer Goods)
+NT provided the fuel for Martian, Main Asteroid Belt and Jovian exploration before the discovery of the Channel at Io. Always a leading force in the new Frontier, NanoTrasen has recently become the dominant corporate power out here following years of maneuvering, acquisitions, mergers, and takeovers. With their ambitious project to move the Channel entry from Io to near Earth orbit in the mid 2040s, NT has effectively become the tollbooth keeper for all transit to the Frontier.
+
+Public resentments go back decades, from the many Lunar citizens harmed or displaced by the Helicon Refinery Disaster, to the current and former employees of rival corporations who for one reason or another trace their misfortunes to NT, to the many disgruntled current or former employees of NanoTrasen itself.
+  
+The NanoTrasen Family of Businesses:
+  
+- National Notary
+- Tradecraft Seneca  
+- Seneca Falls Staffing Solutions  
 
 ## Current Year NanoTrasen(Goob will be in here) 
 
