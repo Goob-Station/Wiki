@@ -2,7 +2,7 @@
 title: NanoTrasen
 description: 
 published: true
-date: 2025-10-12T16:08:13.243Z
+date: 2025-10-12T16:28:03.913Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T17:43:10.205Z
@@ -84,58 +84,54 @@ Notes:
 - Home of the NT Emergency Response Corps, an elite group of NT's best field agents.
 - Staffed by a slew of high ranking officials, including Admirals and Corporate Directors.
   
-### Nanotrasen Division of Asset Protection
-  
-Location: Mostly active in Sol, some presence in Spinward Sector.
-
-Type of Org: Division of Nanotrasen
-
-Description: As close as Nanotrasen is legally allowed to come to owning a private army, and then some. The DAP is Nanotrasen's paramilitary wing, and on paper is in charge of protecting most of Nanotrasen's cargo ships, settlements, space stations, and other valuable assets from the hands of insurgents or pirates who may want to cause them harm. In reality, however, the DAP performs offensive operations at least as often as it performs defensive maneuvers, a fact that is often left out of their press material. Some of their offensive operations include black ops raids on corporate rivals, overrunning native populations on resource rich planets or asteroid belts, and lightning strikes on vulnerable cargo transports carrying desired goods; in short, the exact things they are charged with preventing.
-
-Despite their generally shady nature and willingness to commit war crimes in pursuit of the almighty space dollar, the DAP is rarely involved in activity in the Spinward Sector. Their reputation back in Sol was already under scrutiny for various espionage operations they were apart of before the latest round of inquiries into Nanotrasen's Spinward activities, so NT's leadership has made as much of an effort as possible to distance the two organizations from each other. Still though, it's possible to find a few agents on a long distance mission protection Nanotrasen cargo or high value prisoners on the Periphery, though most of their functionality has been taken over by the Emergency Response Corps or on-station security teams.
-
-Notes:
-
-- The Department of Asset Protection prefers older, less experimental gear than their Spinward counterparts. The NT Boarder AR and venerable M1911 as well as the aging Mk. I SWAT suit are the weapons and armor of choice for AP Operatives.
-  
-### Nanotrasen Emergency Response Corps
-Location: Based at Central Command.
-
-Type of Org: Department of Central Command.
-
-Description: The best of the best of Nanotrasen's field agents in the Spinward Sector, or at least whoever was standing around in the ready room when a call for action goes out. The Emergency Response Corps is a relatively new initiative for Nanotrasen, founded circa 2556 in response to the ever rising levels of mayhem among their Spinward assets. The agents picked to run missions are recruited directly from among the best operatives, engineers, doctors, and leaders of the Spinward station staffs, though they are given pseudonyms and special callsigns in addition to identity protecting hardsuits and voice changers when on missions.
-
-While selection is usually rigorous and effective at keeping the ERC full of the best agents they can find, the number of assets that the division is responsible for protecting vastly outclasses their own numbers, so tough tactical decisions are constantly being made at Central Command. While crews and station leadership are quick to make requests for heavily armed crack teams of commandos at the slightest provocation, the reality is that sending even a light response team to a fraction of distress signals would lead to an almost immediate exhaustion of their resources, assuming they could even make it in time. There are more than a few action reports in the NT databanks from ERT's that arrived at a station a few hours after receiving a distress call, only to find the entire place devoid of life. As a result of the dearth of manpower, sometimes less than stellar junior agents are deployed on missions, and the Corps reputation is less than stellar among the employees they swear to protect. That being said, they're some of the few civilian employees Central Command will entrust with pulse weaponry, so there must be some level of trust in their abilities.
-
-Notes:
-
-- Members of the Emergency Response Corps are to be referred to as Emergency Response Agents or Operatives. Use of the term Emergency Response Personnel is grounds for an immediate citation and fine.
-  
-### Trasen-Knox Scientific
-Field: Scientific Computers and Analytical Equipment A legacy division of Nanotrasen, Trasen-Knox Scientific maintains the company's previous name, as well as its original purpose: high-grade scientific computing and analytical equipment. It's one of Nanotrasen's smallest divisions, but their products are popular with the academic market. Trasen-Knox operates out of Nanotrasen's Southwestern campus at San Jose.
-
-### NTHI (Nanotrasen Heavy Industry)
-Field: Resource Extraction and Heavy Industrial Equipment Originally existing as the German Wulfe Gruppe, NTHI was the first major acquisition beyond computing made by Nanotrasen, starting their upwards climb to being one of humanity's foremost corporations. It's arguably one of the company's most important divisions, being responsible for around 1/3rd of Nanotrasen's overall net worth, as well as managing Nanotrasen's extensive plasma empire. Most of the stations found in the frontier are operated primarily by NTHI, usually with some involvement by NTFID. NTHI's operations are mostly coordinated from Nanotrasen's European regional headquarters, located in Dortmund.
-
-### NTFID (Nanotrasen Futures and Innovation Division)
-Field: Research and Development Nanotrasen's research and development division, responsible for pushing humanity's scientific boundaries and being on the cutting edge of innovation. Naturally, NTFID acts as a significant source of funding for Nanotrasen's endeavours as a whole in the form of grants from TerraGov, as well as being a magnet for talent due to partnerships with research groups at universities across human space. Additionally, NTFID is a signatory and member of the Terran Joint Research Collective alongside many other major corporations. In theory, this should ensure that discoveries made by NTFID's researchers make their way into the collective knowledge of mankind rapidly. In practice, the collective sees very little of Nanotrasen's juiciest research, instead getting scraps or anything that management has deemed "no longer critical to maintain secrecy on". NTFID is based out of the Southwestern Campus at San Jose, although it also has major secondary sites at Houston, Busan, Dortmund and Adasta City.
-
-In terms of land share within Nanotrasen's full organisation, NTFID comes in second place behind NTHI, operating a large number of facilities across human space, including several major sites on the peripheries. One of NTFID's notable sites is Space Station 13, which it will operate jointly with NTHI until the construction of a more permanent mining outpost on or around Indecipheres is finished.
-
-### NTCS (Nanotrasen Chemical Supply)
-Field: Chemical Manufacture and Distribution Another acquisition made in the early days of the company, NTCS began life as Texas Chemical, a major US-based chemical manufacturer. In the centuries since, it's grown to be one of humanity's largest chemical producers, taking advantage of NTHI's dominance in the resource extraction field to produce a wide range of consumer, laboratory, and industrial grade chemicals. NTCS' operations are managed from Nanotrasen's Southern US Headquarters, in Houston. NTCG (Nanotrasen Consumer Goods)
-
-Field: Consumer Electronics NTCG is based out of Nanotrasen's Asian regional headquarters in Busan, Korea. NTCG is responsible primarily for basic consumer electronics, such as kitchen appliances, lamps, alarm clocks, and other similar devices, as well as larger, more premium devices such as televisions and computers.
-
-### GEW (Global Engine Works)
-Field: Vehicles GEW is one of the world's oldest engine works, having originated in the mid-1800s as a producer of railway steam engines. Into the 1900s, they broadened to aircraft, and then onto motorcars in the wake of the Second World War. After financial troubles in the early 2000s, they were acquired by Nanotrasen to further diversify the company's portfolio. GEW today is known for their bipolar range of vehicles, catering to both the lowest end of the market with budget options, and the extreme upper end with high-class supercars and luxury touring cars- in addition to maintaining their work on high-end aircraft engines. Additionally, their design expertise has been coupled into some of Nanotrasen's other companies, such as providing interior design for small luxury space vessels for ATA or atmospheric engine designs for Galaxywise.
-
-### Galaxywise Shipyards
-Field: General Aerospace Much of Nanotrasen's strength as a megacorporation comes from their ability to practice what is essentially autarky- the production of all required goods from raw material to finalised item, with little to no reliance on external companies or factors. To this end, Galaxywise is critical to Nanotrasen's practice of autarky- from their orbital shipyards above Adasta, Nanotrasen is able to produce a wide range of important vessels, from small single-man scouting vessels to large-scale freighters and everything inbetween. Unfortunately for Nanotrasen, however, their autarky chain is broken by limitations imposed by TerraGov stating that only licensed corporations are capable of producing heavily armed vessels (the Merchant Marine Act states that any vessel capable of bearing armaments in excess of Class 2, the highest legal civilian grade, may be produced by licensed companies only)- a license Galaxywise has been unable to secure due to politicking by corporate rivals at the senate.
-
-### ATA (Adasta Travaux Aérospatiaux/Adasta Aerospace Works)
-Field: Luxury Aerospace If Galaxywise is Nanotrasen's answer to the demand for reliable budget ships, ATA is their answer to the cries of billionaire corpos and top politicians: a shipyard based around the creation of bespoke, luxury vessels fit for royalty. Operating as part of the Galaxywise Shipyard Facility, ATA builds palatial vessels to the exacting demands of its clients, at extreme cost. No two ships built there come out alike. Of course, ships from ATA are commonly used by Nanotrasen's top executives.  
-  
+<details>
+  <summary> Nanotrasen Division of Asset Protection</summary>
+  Location: Mostly active in Sol, some presence in Spinward Sector.<br>
+  Type of Org: Division of Nanotrasen<br>
+   Description: As close as Nanotrasen is legally allowed to come to owning a private army, and then some. The DAP is Nanotrasen's paramilitary wing, and on paper is in charge of protecting most of Nanotrasen's cargo ships, settlements, space stations, and other valuable assets from the hands of insurgents or pirates who may want to cause them harm. In reality, however, the DAP performs offensive operations at least as often as it performs defensive maneuvers, a fact that is often left out of their press material. Some of their offensive operations include black ops raids on corporate rivals, overrunning native populations on resource rich planets or asteroid belts, and lightning strikes on vulnerable cargo transports carrying desired goods; in short, the exact things they are charged with preventing.<br>
+   Despite their generally shady nature and willingness to commit war crimes in pursuit of the almighty space dollar, the DAP is rarely involved in activity in the Spinward Sector. Their reputation back in Sol was already under scrutiny for various espionage operations they were apart of before the latest round of inquiries into Nanotrasen's Spinward activities, so NT's leadership has made as much of an effort as possible to distance the two organizations from each other. Still though, it's possible to find a few agents on a long distance mission protection Nanotrasen cargo or high value prisoners on the Periphery, though most of their functionality has been taken over by the Emergency Response Corps or on-station security teams.
+   Notes:
+   - The Department of Asset Protection prefers older, less experimental gear than their Spinward counterparts. The NT Boarder AR and venerable M1911 as well as the aging Mk. I SWAT suit are the weapons and armor of choice for AP Operatives.
+</details> 
+<details>
+   <summary>Nanotrasen Emergency Response Corps</summary>
+   Location: Based at Central Command.
+   Type of Org: Department of Central Command.
+   Description: The best of the best of Nanotrasen's field agents in the Spinward Sector, or at least whoever was standing around in the ready room when a call for action goes out. The Emergency Response Corps is a relatively new initiative for Nanotrasen, founded circa 2556 in response to the ever rising levels of mayhem among their Spinward assets. The agents picked to run missions are recruited directly from among the best operatives, engineers, doctors, and leaders of the Spinward station staffs, though they are given pseudonyms and special callsigns in addition to identity protecting hardsuits and voice changers when on missions.
+   While selection is usually rigorous and effective at keeping the ERC full of the best agents they can find, the number of assets that the division is responsible for protecting vastly outclasses their own numbers, so tough tactical decisions are constantly being made at Central Command. While crews and station leadership are quick to make requests for heavily armed crack teams of commandos at the slightest provocation, the reality is that sending even a light response team to a fraction of distress signals would lead to an almost immediate exhaustion of their resources, assuming they could even make it in time. There are more than a few action reports in the NT databanks from ERT's that arrived at a station a few hours after receiving a distress call, only to find the entire place devoid of life. As a result of the dearth of manpower, sometimes less than stellar junior agents are deployed on missions, and the Corps reputation is less than stellar among the employees they swear to protect. That being said, they're some of the few civilian employees Central Command will entrust with pulse weaponry, so there must be some level of trust in their abilities.
+   Notes:
+   - Members of the Emergency Response Corps are to be referred to as Emergency Response Agents or Operatives. Use of the term Emergency Response Personnel is grounds for an immediate citation and fine.
+</details>
+<details>
+   <summary> Trasen-Knox Scientific</summary>
+   Field: Scientific Computers and Analytical Equipment A legacy division of Nanotrasen, Trasen-Knox Scientific maintains the company's previous name, as well as its original purpose: high-grade scientific computing and analytical equipment. It's one of Nanotrasen's smallest divisions, but their products are popular with the academic market. Trasen-Knox operates out of Nanotrasen's Southwestern campus at San Jose.
+</details>
+<details>
+   <summary> NTHI (Nanotrasen Heavy Industry)</summary>
+   Field: Resource Extraction and Heavy Industrial Equipment Originally existing as the German Wulfe Gruppe, NTHI was the first major acquisition beyond computing made by Nanotrasen, starting their upwards climb to being one of humanity's foremost corporations. It's arguably one of the company's most important divisions, being responsible for around 1/3rd of Nanotrasen's overall net worth, as well as managing Nanotrasen's extensive plasma empire. Most of the stations found in the frontier are operated primarily by NTHI, usually with some involvement by NTFID. NTHI's operations are mostly coordinated from Nanotrasen's European regional headquarters, located in Dortmund.
+</details>
+<details>
+   <summary> NTFID (Nanotrasen Futures and Innovation Division)</summary>
+   Field: Research and Development Nanotrasen's research and development division, responsible for pushing humanity's scientific boundaries and being on the cutting edge of innovation. Naturally, NTFID acts as a significant source of funding for Nanotrasen's endeavours as a whole in the form of grants from TerraGov, as well as being a magnet for talent due to partnerships with research groups at universities across human space. Additionally, NTFID is a signatory and member of the Terran Joint Research Collective alongside many other major corporations. In theory, this should ensure that discoveries made by NTFID's researchers make their way into the collective knowledge of mankind rapidly. In practice, the collective sees very little of Nanotrasen's juiciest research, instead getting scraps or anything that management has deemed "no longer critical to maintain secrecy on". NTFID is based out of the Southwestern Campus at San Jose, although it also has major secondary sites at Houston, Busan, Dortmund and Adasta City.
+   In terms of land share within Nanotrasen's full organisation, NTFID comes in second place behind NTHI, operating a large number of facilities across human space, including several major sites on the peripheries. One of NTFID's notable sites is Space Station 13, which it will operate jointly with NTHI until the construction of a more permanent mining outpost on or around Indecipheres is finished.
+</details>
+<details>
+   <summary> NTCS (Nanotrasen Chemical Supply)</summary>
+   Field: Chemical Manufacture and Distribution Another acquisition made in the early days of the company, NTCS began life as Texas Chemical, a major US-based chemical manufacturer. In the centuries since, it's grown to be one of humanity's largest chemical producers, taking advantage of NTHI's dominance in the resource extraction field to produce a wide range of consumer, laboratory, and industrial grade chemicals. NTCS' operations are managed from Nanotrasen's Southern US Headquarters, in Houston. NTCG (Nanotrasen Consumer Goods)
+   Field: Consumer Electronics NTCG is based out of Nanotrasen's Asian regional headquarters in Busan, Korea. NTCG is responsible primarily for basic consumer electronics, such as kitchen appliances, lamps, alarm clocks, and other similar devices, as well as larger, more premium devices such as televisions and computers.
+</details>
+<details>
+   <summary> GEW (Global Engine Works)</summary>
+   Field: Vehicles GEW is one of the world's oldest engine works, having originated in the mid-1800s as a producer of railway steam engines. Into the 1900s, they broadened to aircraft, and then onto motorcars in the wake of the Second World War. After financial troubles in the early 2000s, they were acquired by Nanotrasen to further diversify the company's portfolio. GEW today is known for their bipolar range of vehicles, catering to both the lowest end of the market with budget options, and the extreme upper end with high-class supercars and luxury touring cars- in addition to maintaining their work on high-end aircraft engines. Additionally, their design expertise has been coupled into some of Nanotrasen's other companies, such as providing interior design for small luxury space vessels for ATA or atmospheric engine designs for Galaxywise.
+</details>
+<details>
+   <summary> Galaxywise Shipyards</summary>
+   Field: General Aerospace Much of Nanotrasen's strength as a megacorporation comes from their ability to practice what is essentially autarky- the production of all required goods from raw material to finalised item, with little to no reliance on external companies or factors. To this end, Galaxywise is critical to Nanotrasen's practice of autarky- from their orbital shipyards above Adasta, Nanotrasen is able to produce a wide range of important vessels, from small single-man scouting vessels to large-scale freighters and everything inbetween. Unfortunately for Nanotrasen, however, their autarky chain is broken by limitations imposed by TerraGov stating that only licensed corporations are capable of producing heavily armed vessels (the Merchant Marine Act states that any vessel capable of bearing armaments in excess of Class 2, the highest legal civilian grade, may be produced by licensed companies only)- a license Galaxywise has been unable to secure due to politicking by corporate rivals at the senate.
+</details>
+<details>
+   <summary>ATA (Adasta Travaux Aérospatiaux/Adasta Aerospace Works)</summary>
+   Field: Luxury Aerospace If Galaxywise is Nanotrasen's answer to the demand for reliable budget ships, ATA is their answer to the cries of billionaire corpos and top politicians: a shipyard based around the creation of bespoke, luxury vessels fit for royalty. Operating as part of the Galaxywise Shipyard Facility, ATA builds palatial vessels to the exacting demands of its clients, at extreme cost. No two ships built there come out alike. Of course, ships from ATA are commonly used by Nanotrasen's top executives.  
+</details>
 ## Trivia
   
 </body>
