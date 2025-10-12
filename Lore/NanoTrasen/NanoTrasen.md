@@ -2,7 +2,7 @@
 title: NanoTrasen
 description: 
 published: true
-date: 2025-10-12T16:28:03.913Z
+date: 2025-10-12T16:28:59.240Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T17:43:10.205Z
@@ -89,9 +89,9 @@ Notes:
   Location: Mostly active in Sol, some presence in Spinward Sector.<br>
   Type of Org: Division of Nanotrasen<br>
    Description: As close as Nanotrasen is legally allowed to come to owning a private army, and then some. The DAP is Nanotrasen's paramilitary wing, and on paper is in charge of protecting most of Nanotrasen's cargo ships, settlements, space stations, and other valuable assets from the hands of insurgents or pirates who may want to cause them harm. In reality, however, the DAP performs offensive operations at least as often as it performs defensive maneuvers, a fact that is often left out of their press material. Some of their offensive operations include black ops raids on corporate rivals, overrunning native populations on resource rich planets or asteroid belts, and lightning strikes on vulnerable cargo transports carrying desired goods; in short, the exact things they are charged with preventing.<br>
-   Despite their generally shady nature and willingness to commit war crimes in pursuit of the almighty space dollar, the DAP is rarely involved in activity in the Spinward Sector. Their reputation back in Sol was already under scrutiny for various espionage operations they were apart of before the latest round of inquiries into Nanotrasen's Spinward activities, so NT's leadership has made as much of an effort as possible to distance the two organizations from each other. Still though, it's possible to find a few agents on a long distance mission protection Nanotrasen cargo or high value prisoners on the Periphery, though most of their functionality has been taken over by the Emergency Response Corps or on-station security teams.
-   Notes:
-   - The Department of Asset Protection prefers older, less experimental gear than their Spinward counterparts. The NT Boarder AR and venerable M1911 as well as the aging Mk. I SWAT suit are the weapons and armor of choice for AP Operatives.
+  <br>Despite their generally shady nature and willingness to commit war crimes in pursuit of the almighty space dollar, the DAP is rarely involved in activity in the Spinward Sector. Their reputation back in Sol was already under scrutiny for various espionage operations they were apart of before the latest round of inquiries into Nanotrasen's Spinward activities, so NT's leadership has made as much of an effort as possible to distance the two organizations from each other. Still though, it's possible to find a few agents on a long distance mission protection Nanotrasen cargo or high value prisoners on the Periphery, though most of their functionality has been taken over by the Emergency Response Corps or on-station security teams.
+   <br>Notes:
+   <br>- The Department of Asset Protection prefers older, less experimental gear than their Spinward counterparts. The NT Boarder AR and venerable M1911 as well as the aging Mk. I SWAT suit are the weapons and armor of choice for AP Operatives.
 </details> 
 <details>
    <summary>Nanotrasen Emergency Response Corps</summary>
