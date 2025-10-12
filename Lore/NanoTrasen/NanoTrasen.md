@@ -2,7 +2,7 @@
 title: NanoTrasen
 description: 
 published: true
-date: 2025-10-12T16:35:49.847Z
+date: 2025-10-12T16:38:09.479Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T17:43:10.205Z
@@ -122,8 +122,14 @@ Notes:
    <summary> NTCS (Nanotrasen Chemical Supply)</summary>
    Field: Chemical Manufacture and Distribution<br> 
   <br>Another acquisition made in the early days of the company, NTCS began life as Texas Chemical, a major US-based chemical manufacturer. In the centuries since, it's grown to be one of humanity's largest chemical producers, taking advantage of NTHI's dominance in the resource extraction field to produce a wide range of consumer, laboratory, and industrial grade chemicals. NTCS' operations are managed from Nanotrasen's Southern US Headquarters, in Houston. NTCG (Nanotrasen Consumer Goods)<br>
-   <br>Field: Consumer Electronics NTCG is based out of Nanotrasen's Asian regional headquarters in Busan, Korea. NTCG is responsible primarily for basic consumer electronics, such as kitchen appliances, lamps, alarm clocks, and other similar devices, as well as larger, more premium devices such as televisions and computers.
+  
 </details>
+  <details>
+    <summary>NTCG (Nanotrasen Consumer Gadgets)</summary>
+     Field: Consumer Electronics<br> 
+    <br>NTCG is based out of Nanotrasen's Asian regional headquarters in Busan, Korea. NTCG is responsible primarily for basic consumer electronics, such as kitchen appliances, lamps, alarm clocks, and other similar devices, as well as larger, more premium devices such as televisions and computers.
+  </details>
+  
 <details>
    <summary> GEW (Global Engine Works)</summary>
    Field: Vehicles<br> 
