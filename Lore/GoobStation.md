@@ -2,7 +2,7 @@
 title: GoobStation
 description: 
 published: true
-date: 2025-10-12T15:41:40.598Z
+date: 2025-10-12T16:43:08.882Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T18:08:40.052Z
@@ -16,6 +16,7 @@ dateCreated: 2025-10-05T18:08:40.052Z
 We are fools.
 
 ## What is GoobStation?
+geosynchronous orbital operations base?!? Real?
 
 ## When is Goobstation?
 
