@@ -2,7 +2,7 @@
 title: GoobStation
 description: 
 published: true
-date: 2025-10-12T15:34:33.762Z
+date: 2025-10-12T15:41:40.598Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T18:08:40.052Z
@@ -25,3 +25,4 @@ We are fools.
 
 ## Why is the GoobStation?
 
+Kira and Durk Mention? OMG!?
