@@ -2,7 +2,7 @@
 title: NanoTrasen
 description: 
 published: true
-date: 2025-10-12T13:06:26.768Z
+date: 2025-10-12T13:11:20.679Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T17:43:10.205Z
@@ -20,7 +20,7 @@ dateCreated: 2025-10-05T17:43:10.205Z
 <td bgcolor="#092336" align="center" colspan="2"><font color="#FFFFF"><b>Scientific Corporation</b></font>
 </td></tr>
 <tr>
-<td width="150" align="center" bgcolor="#cccccc"><span typeof="mw:File"><a href="/File:Nanotrasen_flag.png" class="mw-file-description"><img src="/images/thumb/c/c2/Nanotrasen_flag.png/64px-Nanotrasen_flag.png" decoding="async" width="64" height="43" class="mw-file-element" srcset="/images/thumb/c/c2/Nanotrasen_flag.png/96px-Nanotrasen_flag.png 1.5x, /images/thumb/c/c2/Nanotrasen_flag.png/128px-Nanotrasen_flag.png 2x" /></a></span> <br /> <b>Nanotrasen</b>
+<td width="150" align="center" bgcolor="#cccccc"><span typeof="mw:File"><a href="/File:Nanotrasen_flag.png" class="mw-file-description"><img src="/factions/ntlogo.png" decoding="async" width="64" height="43" class="mw-file-element" srcset="/images/thumb/c/c2/Nanotrasen_flag.png/96px-Nanotrasen_flag.png 1.5x, /images/thumb/c/c2/Nanotrasen_flag.png/128px-Nanotrasen_flag.png 2x" /></a></span> <br /> <b>Nanotrasen</b>
 </td>
 <td><b>Headquarters:</b> Manhattan Capital District, New York City, United States, Earth, Sol System<br /> <b>Spheres:</b> Plasma extraction and refining, Bluespace technology, Alternative energy sources, Biology and xenobiology<br /><b>Organization:</b> Scientific Corporation<br /><b>Sphere of Influence:</b> Everything (unstable)<br /><b>Public Relations:</b> Positive<br /><b>Size:</b> Megacorporation
 </td></tr></tbody></table>
@@ -100,8 +100,9 @@ While selection is usually rigorous and effective at keeping the ERC full of the
 
 Notes:
 
-Members of the Emergency Response Corps are to be referred to as Emergency Response Agents or Operatives. Use of the term Emergency Response Personnel is grounds for an immediate citation and fine.
-Trasen-Knox Scientific
+- Members of the Emergency Response Corps are to be referred to as Emergency Response Agents or Operatives. Use of the term Emergency Response Personnel is grounds for an immediate citation and fine.
+  
+### Trasen-Knox Scientific
 Field: Scientific Computers and Analytical Equipment A legacy division of Nanotrasen, Trasen-Knox Scientific maintains the company's previous name, as well as its original purpose: high-grade scientific computing and analytical equipment. It's one of Nanotrasen's smallest divisions, but their products are popular with the academic market. Trasen-Knox operates out of Nanotrasen's Southwestern campus at San Jose.
 
 ### NTHI (Nanotrasen Heavy Industry)
