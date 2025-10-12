@@ -1,8 +1,8 @@
 ---
-title: Guide to Chemistry
+title: Guides to Chemistry
 description: 
 published: true
-date: 2025-08-29T06:49:00.719Z
+date: 2025-10-12T15:23:11.288Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-19T23:55:14.616Z
