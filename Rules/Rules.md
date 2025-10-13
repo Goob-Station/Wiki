@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-10-10T03:43:40.905Z
+date: 2025-10-13T23:53:24.574Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-26T22:31:02.210Z
@@ -79,7 +79,8 @@ Be excellent to each other. If you enjoy trying to ruin someone else’s good ti
   This is a zero tolerance rule.
 
   Keep IC out of OOC, and OOC out of IC. Your words and actions ingame should be distinguishable as an in-universe character, and not as a person playing a game. Playstyles that disregard all opportunities for engagement and roleplay can be met with administrative action. There is an exception for OOC in IC where terms like 'clickdrag X to Y, or look for the tab' is used to help a player.
-	### Precedents
+	
+### Precedents
   - References to the current round, even if vague, are still considered being IC in OOC.
   - Disruptive fighting with your friends in public spaces (sometimes called "chicken fights" or "Family Guy chicken fighting") is against the rules if done so without valid IC reason. If you do want to fight your friends for no real IC reason, keep it out of the public or utilise purpose-built areas such as rage cages, boxing rings or holodeck combat sims to make it RP-friendly.
   - Make a minimum effort to have your name fit in a setting involving a wacky space station in the future.
@@ -92,7 +93,8 @@ Be excellent to each other. If you enjoy trying to ruin someone else’s good ti
   To put it in simple terms, if you put the effort into your roleplay, then you can escalate to your hearts content.
 
   Crewmembers are not allowed to pre-emptively search for, hinder, or otherwise seek conflict with antagonists without reasonable cause to do so. Otherwise, they may handle antagonists in any way they wish, provided they understand that their actions may be punished by Space Law if given IC cause. Team antagonists can do as they wish as per lone antagonists, but their actions should neither harm their teams efforts, nor intentionally harm it through inaction. Emulating an antagonist by action or outfit puts you at risk of being treated as one.
-	### Precedents
+	
+### Precedents
   - Regular crewmembers can assist antagonists with good IC reasoning, but assisting an antagonist doesn't mean you get a pass on acting like one. If in doubt, ask an admin if a particular action is okay. Depending on the level of assistance, sufficient IC reasoning ranges from treating everyone who goes into medbay regardless of their history, to bartering contraband, to performing actions under threat of death.
   - Ghosting out mid-conversion/deconversion, going AFK, suiciding, or logging off after conversion/deconversion can result administrative action if done in bad faith. Let an admin know if you cannot or do not want to play any of the above mentioned roles so they may be offered to a willing participant.
 
