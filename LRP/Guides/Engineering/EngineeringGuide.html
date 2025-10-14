@@ -2,14 +2,14 @@
 title: Guide to Engineering
 description: Engineering Guide
 published: false
-date: 2025-10-14T04:30:16.279Z
+date: 2025-10-14T04:41:37.811Z
 tags: engineering, engineer, power
 editor: ckeditor
 dateCreated: 2025-09-05T17:56:25.488Z
 -->
 
 <h1>Guide to Engineering</h1>
-<p>This is a guide representing the fundamentals for a station engineer and technical assistant, and… well, the necessary steps not to get verbally abused by the entire station for incompetence. This does not delve into atmospherics.</p>
+<p>This is a guide representing the fundamentals for a station engineer and technical assistant, and… well, the necessary steps not to get verbally abused by the entire station for incompetence. This does not delve into atmospherics. <mark class="marker-yellow">THIS PAGE IS WORK IN PROGRESS</mark></p>
 <p>&nbsp;</p>
 <p>(INSERT TABLE TO DIFFERENT HEADINGS)</p>
 <p>&nbsp;</p>
@@ -149,10 +149,16 @@ dateCreated: 2025-09-05T17:56:25.488Z
 <p>This section discusses the types of power as well as transforming and storing it.</p>
 <p>&nbsp;</p>
 <h3>Voltage Groups and Transformation</h3>
-<p>There represent 3 voltage groups of electricity: Low (LV), medium (MV), and high (HV).&nbsp;</p>
-<figure class="image"><img src="/lv_coil_bundle.png"></figure>
-<figure class="image"><img src="/mv_coil_bundle.png"></figure>
-<figure class="image"><img src="/hv_coil_bundle.png"></figure>
+<p>There is 3 voltage groups of electricity within the game: Low (LV), medium (MV), and high (HV).&nbsp;</p>
+<figure class="image image_resized" style="width:5%;"><img src="/lv_coil_bundle.png" alt="LV">
+  <figcaption>LV</figcaption>
+</figure>
+<figure class="image image_resized" style="width:5%;"><img src="/mv_coil_bundle.png">
+  <figcaption>MV</figcaption>
+</figure>
+<figure class="image image_resized" style="width:5.01%;"><img src="/hv_coil_bundle.png">
+  <figcaption>HV</figcaption>
+</figure>
 <p>(Combine the above into a single figure, bruh.)</p>
 <p>It is to note, these wires are not directly interchangeable and need to be transformed. Doing so requires one of two machines:</p>
 <ul>
@@ -164,7 +170,8 @@ dateCreated: 2025-09-05T17:56:25.488Z
 <p>Any wiring can be seen under flooring using a T-Ray scanner, and may be removed by using a wire cutter. Beware, when trying to cut any powered wires you require insulated gloves (insuls), otherwise attempts will electrocute the player and not destroy the wire. The requirement for gloves also extends to cutting power wires to doors if powered) to doors, and attacking wires via melee. Additionally, grills will be electrified for any wiring connected beneath them and similarly, need insuls to deconstruct with wirecutters (they can still be destroyed by ranged attacks or repeated melee attempts).</p>
 <p>&nbsp;</p>
 <h3>Power Storage</h3>
-<p>Substations and APCs buffer buffer a small amount of power. However, for storage of bulk power requires the use of a superconducting magnetic energy storage (SMES). There are two types:</p>
+<p>Substations and APCs can buffer a small amount of power. However, for storage of bulk power requires the use of a superconducting magnetic energy storage (SMES). There are two types:</p>
+<p>&nbsp;</p>
 <figure class="table">
   <table>
     <tbody>
@@ -199,9 +206,10 @@ dateCreated: 2025-09-05T17:56:25.488Z
   </table>
 </figure>
 <p>&nbsp;</p>
-<p>SMESs are also a good way to generate money, they sell at a price of .00095 $ per Joule. This means the full sell price for a SMES and Advanced SMES is $15200 and $30400 respectfully. A SMES can be constructed round-start using machine boards that can be printed. An Advanced SMES must be researched by Science (Link) under the Advanced Powercells research (in industrial research). After research, an advanced SMES may be printed and constructed similarly to a SMES.</p>
+<p>SMESs are also a good way to generate money, they sell at a price of .00095 $ per Joule. This means the sell price for a full SMES and Advanced SMES is $15200 and $30400 respectfully. A SMES can be constructed round-start using machine boards that can be printed. An Advanced SMES must be researched by Science (Link) under the Advanced Powercells research (in industrial research). After research, an advanced SMES may be printed and constructed similarly to a SMES.</p>
 <p>&nbsp;</p>
 <p>A SMES can be charged by using a cable terminal (can be crafted using any 10 wires). Place the red part connecting to the SMES and other end (the grey box) connecting to HV wires. Any HV wires directly connected to the SMES without a cable terminal, will output power into them.</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2>Power Generation Methods</h2>
 <p>As of writing this guide, there are X main methods of generating power as engineering:</p>
@@ -212,7 +220,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
   <li>Tesla</li>
   <li>Thermo-electric generator (TEG)</li>
   <li>Super-matter crystal</li>
-  <li>Portable generators</li>
+  <li>Other Generators</li>
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -280,6 +288,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
 </ol>
 <p>&nbsp;</p>
 <p>They can be ordered from cargo for $1250, containing 10 solar assembly flatpacks and 20 glass sheets. Once you place the assembly flatpack in an appropriate spot, use a multitool on it to unpack it. It is automatically anchored on the ground and requires 2 glass (or other panel material) to be placed inside it to be functional.<br><br>&nbsp;</p>
+<p>&nbsp;</p>
 <h3>Other Generators</h3>
 <p>These refer to generators that do not fall under the previous categories. These include fuel-driven generators and infinite power generators. Since these generally do not provide significant power, it is best to use these to help supplement power generation for smaller grids or for emergencies to power sections to restart the main power grid. For the station use, generators requiring fuel generally should not be left running and are best used when in a power deficient. Note, for the generators to produce power, they must be anchored to the station's power grid. They are also useful for small structures such as shuttles.</p>
 <p>&nbsp;</p>
@@ -387,7 +396,9 @@ dateCreated: 2025-09-05T17:56:25.488Z
 <p>&nbsp;</p>
 <p>RTGs can be damaged, once in a damaged state they release radiation. This radiation can be harnessed with rad collectors with for extra power generation.</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 <h3>Singularity</h3>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -395,11 +406,14 @@ dateCreated: 2025-09-05T17:56:25.488Z
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 <h3>Thermo-electric generator (TEG)</h3>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 <h3>Super-Matter Crystals</h3>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2>Recommended Procedure</h2>
