@@ -2,7 +2,7 @@
 title: Guide to Engineering
 description: Engineering Guide
 published: false
-date: 2025-10-14T04:41:37.811Z
+date: 2025-10-14T06:53:58.571Z
 tags: engineering, engineer, power
 editor: ckeditor
 dateCreated: 2025-09-05T17:56:25.488Z
@@ -169,6 +169,11 @@ dateCreated: 2025-09-05T17:56:25.488Z
 <p>&nbsp;</p>
 <p>Any wiring can be seen under flooring using a T-Ray scanner, and may be removed by using a wire cutter. Beware, when trying to cut any powered wires you require insulated gloves (insuls), otherwise attempts will electrocute the player and not destroy the wire. The requirement for gloves also extends to cutting power wires to doors if powered) to doors, and attacking wires via melee. Additionally, grills will be electrified for any wiring connected beneath them and similarly, need insuls to deconstruct with wirecutters (they can still be destroyed by ranged attacks or repeated melee attempts).</p>
 <p>&nbsp;</p>
+<p>See video below for reference:</p>
+<figure class="media">
+  <oembed url="https://youtu.be/9iY0VJkhTWc?t=461"></oembed>
+</figure>
+<p>&nbsp;</p>
 <h3>Power Storage</h3>
 <p>Substations and APCs can buffer a small amount of power. However, for storage of bulk power requires the use of a superconducting magnetic energy storage (SMES). There are two types:</p>
 <p>&nbsp;</p>
@@ -228,14 +233,23 @@ dateCreated: 2025-09-05T17:56:25.488Z
 <p>Solar panels are source of passive energy on the station requiring minimal maintenance. Typically, they are used to supplement power generations for higher producing methods such as the tesla or singularity.</p>
 <p>(ICON OF SOLAR PANELS)</p>
 <p>&nbsp;</p>
-<p>Solar panels produce HV power, scaling based on their relative angle to the sun.&nbsp;The orientation of the sun changes over time and can be thought of as “orbiting the station”. Panels can be automatically adjusted to face the sun using a Solar Tracker and Solar Control Computer:</p>
+<p>Solar panels produce HV power, scaling based on their relative angle to the sun.&nbsp;Each station has solar panels present in an one or more arrays. They are typically named “Solars” on the station map or their location can be viewed on a Power Monitoring Console. However, they are not automatically set up, requiring HV wiring to the station power network, and alignment to the sun. This wiring also includes the solar tracker, typically found on nearby each array. &nbsp;Some solar panels may be broken, requiring the removal and repair of the broken glass in the machine. This is accomplished via the following steps:</p>
+<ol>
+  <li>Use a crowbar on the machine. This will eject 1-2 broken glass shards.</li>
+  <li>Place two glass sheets into the solar panel. You can also weld the broken glass shards.</li>
+</ol>
 <p>&nbsp;</p>
-<p>In most situations, Solar Trackers are already present on the station. However, they require HV connection to the power network to function. Once set up, interacting with a Solar Control Computer allows you to see the sun's orientation. Additionally, it allows you to input both the solar angle and velocity. The speed of the sun's rotation is randomized each shift, hence, you will be required to iterate to match the solar rotational velocity to that of the sun's. First, set the rotation to 6 as an initial guess as well as matching the solar angle to that of the sun. If you see the solar angle lag behind, increase their velocity. If you see them exceed the sun's angle, decrease their velocity. The sun's rotation is randomized between 4.5 and 7.5 degrees per minute each shift.</p>
-<p>&nbsp;</p>
-<p>Solar panels are able to be upgraded using 2 plasma or uranium glass.&nbsp;Solar panels are able to be upgraded using plasma or uranium glass. To do so:</p>
+<p>The orientation of the sun changes over time and can be thought of as “orbiting the station”. Panels can be automatically adjusted to face the sun using a Solar Tracker and Solar Control Computer:</p>
+<p>(List icons)</p>
+<p>In most situations, Solar Trackers are already present on the station. However, they require HV connection to the power network to function. Once set up, interacting with a Solar Control Computer allows you to see the sun's orientation. Additionally, it allows you to input both the solar angle and velocity. The speed of the sun's rotation is randomized each shift, hence, you will be required to iterate to match the solar rotational velocity to that of the sun's. First, set the rotation to 6 as an initial guess as well as matching the solar angle to that of the sun. If you see the solar angle lag behind, increase their velocity. If you see them exceed the sun's angle, decrease their velocity. Each shift, the sun's rotation is randomized to a value between 4.5 and 7.5 degrees per minute.</p>
+<p><mark class="marker-yellow">(VIDEO BELOW IS TEMPORARY UNTIL PROPER GUIDES ARE MADE)</mark></p>
+<figure class="media">
+  <oembed url="https://www.youtube.com/watch?v=0tvC6guZWiQ"></oembed>
+</figure>
+<p>Solar panels are able to be upgraded using plasma or uranium glass. These upgrades increase their durability and potential power output. Solar panels are able to be upgraded using 2 plasma or uranium glass. To do so:</p>
 <ol>
   <li>Use a crowbar on the solar panel.</li>
-  <li>Place the 2 of the desired panel material onto the machine.</li>
+  <li>Place 2 of the desired panel material onto the machine.</li>
 </ol>
 <p>&nbsp;</p>
 <figure class="table">
@@ -246,6 +260,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
         <td>Panel Icon</td>
         <td>Machine Icon</td>
         <td>Max Power Generation (Watt)</td>
+        <td>Health (HP)</td>
       </tr>
       <tr>
         <td>Glass</td>
@@ -256,6 +271,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
           <figure class="image"><img src="/structures/power_generation/solar_panels/solar_panel_glass.png"></figure>
         </td>
         <td>750</td>
+        <td>100</td>
       </tr>
       <tr>
         <td>Plasma glass</td>
@@ -266,6 +282,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
           <figure class="image"><img src="/structures/power_generation/solar_panels/solar_panel_plasma.png"></figure>
         </td>
         <td>1000</td>
+        <td>150</td>
       </tr>
       <tr>
         <td>Uranium glass</td>
@@ -276,18 +293,66 @@ dateCreated: 2025-09-05T17:56:25.488Z
           <figure class="image"><img src="/structures/power_generation/solar_panels/solar_panel_uranium.png"></figure>
         </td>
         <td>1500</td>
+        <td>200</td>
       </tr>
     </tbody>
   </table>
 </figure>
 <p>&nbsp;</p>
-<p>Each station has solar panels present in an one or more arrays. They are typically named “Solars” on the station map or their location can be viewed on a Power Monitoring Console. However, they are not automatically set up, requiring HV wiring to the station power network, and alignment to the sun. This wiring also includes the solar tracker, typically found on nearby each array. &nbsp;Some solar panels may be broken, requiring the removal and repair of the broken glass in the machine. This is accomplished via the following steps:</p>
-<ol>
-  <li>Use a crowbar on the machine. This will eject 1-2 broken glass shards.</li>
-  <li>Place two glass sheets into the solar panel. You can also weld the broken glass shards.</li>
-</ol>
+<figure class="media">
+  <oembed url="https://youtu.be/iTDqDIKy74Q?si=Q--rYT3IM_hDUa3m"></oembed>
+</figure>
+<p>Solar panels cannot be made by the station's lathes and require a purchase from cargo. A “solar assembly crate” can be ordered for $1250, containing 10 solar assembly flatpacks and 20 glass sheets. Once you place the assembly flatpack in an appropriate spot, use a multitool on it to unpack it. It is automatically anchored on the ground and requires 2 glass (or other panel material) to be placed inside it to be functional. Additionally, solar panels may be found on Salvage Wrecks in space or from Lavaland.<br><br>&nbsp;</p>
 <p>&nbsp;</p>
-<p>They can be ordered from cargo for $1250, containing 10 solar assembly flatpacks and 20 glass sheets. Once you place the assembly flatpack in an appropriate spot, use a multitool on it to unpack it. It is automatically anchored on the ground and requires 2 glass (or other panel material) to be placed inside it to be functional.<br><br>&nbsp;</p>
+<h3>AME</h3>
+<p>https://youtu.be/9iY0VJkhTWc?t=40</p>
+<p>The AME is a multi-component structure built using 9 or more AME parts and a AME controller. Generally, it is safe to operate the AME with 2 injections per core. You can go lower to save fuel, or more if you want to overclock it. The AME uses AME jars as fuel and are purchasable from cargo. &nbsp;A “antimatter containment jar crate” can be ordered for $2000, this contains 3 AME jars. (NOTE: the video below shows a depiction of the set up, values of the AME production since the production have been heavily nerfed).</p>
+<figure class="media">
+  <oembed url="https://youtu.be/I28iL_2w8bE?si=plIHZsmudkEUGVkk"></oembed>
+</figure>
+<p>Overclocking the AME increases energy consumption, but risks exploding the structure if not properly repaired.&nbsp;</p>
+<figure class="media">
+  <oembed url="https://www.youtube.com/watch?v=au-d8Hs74UM"></oembed>
+</figure>
+<p>Note: dismantling an AME that is below 80 integrity will not leave behind an ame flatpack, essentially permanently destroying the ame. ^^^</p>
+<p>&nbsp;</p>
+<h3>Singularity</h3>
+<p>Temporary video until I work on this section:</p>
+<figure class="media">
+  <oembed url="https://www.youtube.com/watch?v=9znFo6JjuB4"></oembed>
+</figure>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Tesla</h3>
+<p>Temporary video until I work on this section:</p>
+<figure class="media">
+  <oembed url="https://youtu.be/0cuFx-qo6cE?si=6mA_nTR--t3dGUou"></oembed>
+</figure>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Thermo-electric generator (TEG)</h3>
+<p>Temporary guide:</p>
+<p>https://steamcommunity.com/sharedfiles/filedetails/?id=3466187692</p>
+<p>Note, the GarTEG setup does not work anymore.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Super-Matter Crystals</h3>
+<p><strong>By god, be careful with this thing. Ask guidance from a chief engineer, or experienced member of engineering for help.&nbsp;</strong></p>
+<p>&nbsp;</p>
+<p>At round-start, the SM will be dormant, not producing any radiation nor interacting with the environment. However, it will activate when either two conditions are met:</p>
+<ul>
+  <li>When any object first touches the SM.</li>
+  <li>When an emitter hits the SM.</li>
+</ul>
+<p>&nbsp;</p>
+<p>The SM will turn everything it touches into ash (except for people wearing the Chief Engineer's hardsuit).&nbsp;</p>
+<p>&nbsp;</p>
+<p>Guide I found for SM VVV</p>
+<figure class="media">
+  <oembed url="https://youtu.be/HYesk8w1cGE?si=luzqthNSzb004H2H"></oembed>
+</figure>
+<p>Final note, this thing can produce an extreme amount of radiation and power if desired. When doing this, please put radiation shielding around it via uranium windows (or reinforced uranium windows). You can be rolebanned for incompetence if you create extreme amounts of radiation without proper prevention.</p>
 <p>&nbsp;</p>
 <h3>Other Generators</h3>
 <p>These refer to generators that do not fall under the previous categories. These include fuel-driven generators and infinite power generators. Since these generally do not provide significant power, it is best to use these to help supplement power generation for smaller grids or for emergencies to power sections to restart the main power grid. For the station use, generators requiring fuel generally should not be left running and are best used when in a power deficient. Note, for the generators to produce power, they must be anchored to the station's power grid. They are also useful for small structures such as shuttles.</p>
@@ -349,7 +414,9 @@ dateCreated: 2025-09-05T17:56:25.488Z
 <p>Pacmans produce Carbon Dioxide (CO2). A jr pacman produces 0.5 mole of CO2 per 1 u of Welding Fuel. A pacman produces 2 moles of CO2 per plasma. A super pacman produces none. Also, pacmans can apparently get clogged, preventing their start-up (I think by placing the wrong reagent in it).</p>
 <p>&nbsp;</p>
 <p>At 75 piercing damage, the tank contents explode, otherwise 100 damage causes the machine to break (nonviolently) into a machine frame. If you can somehow deal 200 damage, they break all entirely.</p>
-<p>&nbsp;</p>
+<figure class="media">
+  <oembed url="https://youtu.be/9iY0VJkhTWc?t=1113"></oembed>
+</figure>
 <p>Other than fuel-driven generators, there exists generators in the game that produce technically infinite power, requiring no maintenance. These are listed below.</p>
 <p>&nbsp;</p>
 <figure class="table">
@@ -395,26 +462,9 @@ dateCreated: 2025-09-05T17:56:25.488Z
 <p>Both the APUs and Thermos are commonly found in ships (Plunder at your own discretion).</p>
 <p>&nbsp;</p>
 <p>RTGs can be damaged, once in a damaged state they release radiation. This radiation can be harnessed with rad collectors with for extra power generation.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h3>Singularity</h3>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h3>Tesla</h3>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h3>Thermo-electric generator (TEG)</h3>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h3>Super-Matter Crystals</h3>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<figure class="media">
+  <oembed url="https://www.youtube.com/watch?v=MdodWz_hLgY"></oembed>
+</figure>
 <p>&nbsp;</p>
 <h2>Recommended Procedure</h2>
 <p>With all your found information, you find yourself pondering what to do next (or you're just confused). Here's a basic list of things to do to make sure power stays operational.</p>
