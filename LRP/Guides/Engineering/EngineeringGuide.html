@@ -2,7 +2,7 @@
 title: Guide to Engineering
 description: Engineering Guide
 published: false
-date: 2025-10-14T01:40:48.924Z
+date: 2025-10-14T04:30:16.279Z
 tags: engineering, engineer, power
 editor: ckeditor
 dateCreated: 2025-09-05T17:56:25.488Z
@@ -159,11 +159,49 @@ dateCreated: 2025-09-05T17:56:25.488Z
   <li>Substation (HV ↔ MV)</li>
   <li>APC (MV ↔ LV)</li>
 </ul>
+<p>In essence, most machinery found on the station run on LV, whilst most of power production produces HV. Hence, the produced power needs to be transformed down for station use.&nbsp;</p>
 <p>&nbsp;</p>
-<p>In essence, most machinery found on the station run on LV, whilst most of power production produces HV. Hence, the produced power needs to be transformed down for station use.</p>
+<p>Any wiring can be seen under flooring using a T-Ray scanner, and may be removed by using a wire cutter. Beware, when trying to cut any powered wires you require insulated gloves (insuls), otherwise attempts will electrocute the player and not destroy the wire. The requirement for gloves also extends to cutting power wires to doors if powered) to doors, and attacking wires via melee. Additionally, grills will be electrified for any wiring connected beneath them and similarly, need insuls to deconstruct with wirecutters (they can still be destroyed by ranged attacks or repeated melee attempts).</p>
 <p>&nbsp;</p>
 <h3>Power Storage</h3>
-<p>Substations and APCs buffer buffer a small amount of power. However, for storage of bulk power requires the use of a superconducting magnetic energy storage (SMES).</p>
+<p>Substations and APCs buffer buffer a small amount of power. However, for storage of bulk power requires the use of a superconducting magnetic energy storage (SMES). There are two types:</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td>Name</td>
+        <td>Icon</td>
+        <td>Max Energy Capacity (KWh)</td>
+        <td>Min Charge Rate (KW)</td>
+        <td>Max Charge Rate (KW)</td>
+        <td>Min Supply (KW)</td>
+        <td>Max Supply (KW)</td>
+      </tr>
+      <tr>
+        <td>SMES</td>
+        <td>&nbsp;</td>
+        <td>16,000</td>
+        <td>5</td>
+        <td>300</td>
+        <td>5</td>
+        <td>300</td>
+      </tr>
+      <tr>
+        <td>Advanced SMES</td>
+        <td>&nbsp;</td>
+        <td>32,000</td>
+        <td>5</td>
+        <td>300</td>
+        <td>5</td>
+        <td>300</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>
+<p>SMESs are also a good way to generate money, they sell at a price of .00095 $ per Joule. This means the full sell price for a SMES and Advanced SMES is $15200 and $30400 respectfully. A SMES can be constructed round-start using machine boards that can be printed. An Advanced SMES must be researched by Science (Link) under the Advanced Powercells research (in industrial research). After research, an advanced SMES may be printed and constructed similarly to a SMES.</p>
+<p>&nbsp;</p>
+<p>A SMES can be charged by using a cable terminal (can be crafted using any 10 wires). Place the red part connecting to the SMES and other end (the grey box) connecting to HV wires. Any HV wires directly connected to the SMES without a cable terminal, will output power into them.</p>
 <p>&nbsp;</p>
 <h2>Power Generation Methods</h2>
 <p>As of writing this guide, there are X main methods of generating power as engineering:</p>
@@ -184,17 +222,22 @@ dateCreated: 2025-09-05T17:56:25.488Z
 <p>&nbsp;</p>
 <p>Solar panels produce HV power, scaling based on their relative angle to the sun.&nbsp;The orientation of the sun changes over time and can be thought of as “orbiting the station”. Panels can be automatically adjusted to face the sun using a Solar Tracker and Solar Control Computer:</p>
 <p>&nbsp;</p>
-<p>In most situations, Solar Trackers are already present on the station. However, they require HV connection to the power network to function. Once set up, interacting with a Solar Control Computer allows you to see the sun's orientation. Additionally, it allows you to input both the solar angle and velocity. The speed of the sun's rotation is randomized each shift, hence, you will be required to iterate to match the solar rotational velocity to that of the sun's. First, set the velocity to 5.5 as an initial guess as well as matching the solar angle to that of the sun. If you see the solar angle lag behind, increase their velocity. If you see them exceed the sun's angle, decrease their velocity.</p>
+<p>In most situations, Solar Trackers are already present on the station. However, they require HV connection to the power network to function. Once set up, interacting with a Solar Control Computer allows you to see the sun's orientation. Additionally, it allows you to input both the solar angle and velocity. The speed of the sun's rotation is randomized each shift, hence, you will be required to iterate to match the solar rotational velocity to that of the sun's. First, set the rotation to 6 as an initial guess as well as matching the solar angle to that of the sun. If you see the solar angle lag behind, increase their velocity. If you see them exceed the sun's angle, decrease their velocity. The sun's rotation is randomized between 4.5 and 7.5 degrees per minute each shift.</p>
 <p>&nbsp;</p>
-<p>Solar panels are able to be upgraded using 2 plasma or uranium glass.&nbsp;At max each solar panel produces roughly:</p>
+<p>Solar panels are able to be upgraded using 2 plasma or uranium glass.&nbsp;Solar panels are able to be upgraded using plasma or uranium glass. To do so:</p>
+<ol>
+  <li>Use a crowbar on the solar panel.</li>
+  <li>Place the 2 of the desired panel material onto the machine.</li>
+</ol>
+<p>&nbsp;</p>
 <figure class="table">
   <table>
     <tbody>
       <tr>
         <td>Panel material</td>
         <td>Panel Icon</td>
-        <td>Machine icon</td>
-        <td>Power generation (Watt)</td>
+        <td>Machine Icon</td>
+        <td>Max Power Generation (Watt)</td>
       </tr>
       <tr>
         <td>Glass</td>
@@ -230,12 +273,6 @@ dateCreated: 2025-09-05T17:56:25.488Z
   </table>
 </figure>
 <p>&nbsp;</p>
-<p>Solar panels are able to be upgraded using plasma or uranium glass. To do so:</p>
-<ol>
-  <li>Use a crowbar on the solar panel.</li>
-  <li>Place the 2 of the desired panel material onto the machine.</li>
-</ol>
-<p>&nbsp;</p>
 <p>Each station has solar panels present in an one or more arrays. They are typically named “Solars” on the station map or their location can be viewed on a Power Monitoring Console. However, they are not automatically set up, requiring HV wiring to the station power network, and alignment to the sun. This wiring also includes the solar tracker, typically found on nearby each array. &nbsp;Some solar panels may be broken, requiring the removal and repair of the broken glass in the machine. This is accomplished via the following steps:</p>
 <ol>
   <li>Use a crowbar on the machine. This will eject 1-2 broken glass shards.</li>
@@ -244,7 +281,7 @@ dateCreated: 2025-09-05T17:56:25.488Z
 <p>&nbsp;</p>
 <p>They can be ordered from cargo for $1250, containing 10 solar assembly flatpacks and 20 glass sheets. Once you place the assembly flatpack in an appropriate spot, use a multitool on it to unpack it. It is automatically anchored on the ground and requires 2 glass (or other panel material) to be placed inside it to be functional.<br><br>&nbsp;</p>
 <h3>Other Generators</h3>
-<p>These refer to generators that do not fall under the previous categories. These include fuel-driven generators and infinite power generators. Since these generally do not provide significant power, it is best to use these to help supplement power generation for smaller grids or for emergencies to power sections to restart the main power grid. For the station use, generators requiring fuel generally should not be left running and are best used when in a power deficient. Note, for the generators to produce power, they must be anchored to the station's power grid.</p>
+<p>These refer to generators that do not fall under the previous categories. These include fuel-driven generators and infinite power generators. Since these generally do not provide significant power, it is best to use these to help supplement power generation for smaller grids or for emergencies to power sections to restart the main power grid. For the station use, generators requiring fuel generally should not be left running and are best used when in a power deficient. Note, for the generators to produce power, they must be anchored to the station's power grid. They are also useful for small structures such as shuttles.</p>
 <p>&nbsp;</p>
 <figure class="table">
   <table>
@@ -254,98 +291,101 @@ dateCreated: 2025-09-05T17:56:25.488Z
         <td>Icon</td>
         <td>Fuel</td>
         <td>Minimum Generation (kW)</td>
-        <td>Optimal Power (Generation at 100% efficiency) (kW)</td>
-        <td>Maximum Generation (kW)</td>
+        <td>Maximum Generation (kW) (100% efficiency)</td>
         <td>Output voltage</td>
         <td>Tank size</td>
         <td>Full tank duration at 100% efficiency (minutes)</td>
       </tr>
       <tr>
-        <td>Jnr Pacman</td>
+        <td>J.R.P.A.C.M.A.N (Jnr Pacman)</td>
         <td>&nbsp;</td>
         <td>Welding Fuel</td>
         <td>4</td>
         <td>8</td>
-        <td>8</td>
         <td>LV</td>
         <td>50 u</td>
-        <td>7.5</td>
+        <td>7.5 (~8 in-game)</td>
       </tr>
       <tr>
-        <td>Pacman</td>
+        <td>P.A.C.M.A.N (Pacman)</td>
         <td>&nbsp;</td>
         <td>Plasma</td>
         <td>5</td>
         <td>30</td>
-        <td>30</td>
         <td>HV or MV</td>
         <td>30 sheets</td>
-        <td>15</td>
+        <td>15 (~16 in-game)</td>
       </tr>
       <tr>
-        <td>Super Pacman</td>
+        <td>S.U.P.E.R.P.A.C.M.A.N (Super Pacman)</td>
         <td>&nbsp;</td>
         <td>Uranium</td>
         <td>10</td>
         <td>50</td>
-        <td>50</td>
         <td>HV or MV</td>
         <td>30 sheets</td>
-        <td>30</td>
+        <td>30 (~31 in-game)</td>
       </tr>
     </tbody>
   </table>
 </figure>
-<p>Note, reduces fuel efficiency for power generation greater than the optimal power and increases for generation below it.&nbsp;</p>
+<p>Note, fuel efficiency increases for generation below it. The max efficiencies at the minimum generation (Rough estimates based on in-game):</p>
+<ul>
+  <li>Jr Pacman (4 kW): 123.1 % (~ 10 minutes for a full tank)</li>
+  <li>Pacman (5 kW): 383.4 % (~ 58 minutes for a full tank)</li>
+  <li>Super Pacman: (10 kW) : 117.5 % (~ 36 minutes for a full tank)</li>
+</ul>
+<p>Once started, the target power is not instant and the pacmans must ramp up to their target power. (EXPAND ON THIS)</p>
 <p>&nbsp;</p>
-<p>Once started, the target power is not instant and the pacmans must ramp up to their target power</p>
-<p>&nbsp;</p>
-<p>Pacmans produce Carbon Dioxide (CO2). A jnr pacman produces 0.5 mole of CO2 per 1 u of Welding fuel. A pacman produces 2 moles of CO2 per plasma. A super pacman produces none.</p>
+<p>Pacmans produce Carbon Dioxide (CO2). A jr pacman produces 0.5 mole of CO2 per 1 u of Welding Fuel. A pacman produces 2 moles of CO2 per plasma. A super pacman produces none. Also, pacmans can apparently get clogged, preventing their start-up (I think by placing the wrong reagent in it).</p>
 <p>&nbsp;</p>
 <p>At 75 piercing damage, the tank contents explode, otherwise 100 damage causes the machine to break (nonviolently) into a machine frame. If you can somehow deal 200 damage, they break all entirely.</p>
+<p>&nbsp;</p>
+<p>Other than fuel-driven generators, there exists generators in the game that produce technically infinite power, requiring no maintenance. These are listed below.</p>
 <p>&nbsp;</p>
 <figure class="table">
   <table>
     <tbody>
       <tr>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td>&nbsp;Device</td>
+        <td>Icon&nbsp;</td>
+        <td>Generation (kW)</td>
+        <td>&nbsp;Output Voltage</td>
+        <td>&nbsp;Anchorable</td>
       </tr>
       <tr>
-        <td>RTG (full)</td>
+        <td>Radioisotope Thermoelectric Generator (RTG)</td>
         <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td>10&nbsp;</td>
+        <td>&nbsp;HV</td>
         <td>True</td>
       </tr>
       <tr>
-        <td>RTG (heavily damaged)</td>
+        <td>Generator (referred to as Thermos to avoid confusion)</td>
         <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td>15</td>
+        <td>&nbsp;HV</td>
         <td>True</td>
       </tr>
       <tr>
-        <td>Thermo Generator</td>
+        <td>Wall-Mounted APU</td>
         <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>True</td>
-      </tr>
-      <tr>
-        <td>APU</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
+        <td>6</td>
+        <td>&nbsp;HV</td>
         <td>False</td>
       </tr>
     </tbody>
   </table>
 </figure>
-<p>Note, RTG refers to the Radioisotope Thermoelectric Generator</p>
+<p>&nbsp;</p>
+<p>RTGs, Thermos, Wall-Mounted APUs cannot be made and must be found in Salvage Wrecks (INCLUDE LINK) or inside structures within Lavaland (INCLUDE LINK) structures. Each of these can be found on the station round-start at varying degrees:</p>
+<ul>
+  <li>RTGs and Thermos are rarely mapped on station, commonly at AI or spare at engineering.</li>
+  <li>Wall-Mounted APUs are commonly mapped onto the station inside emergency evacuation shuttles (Plunder at your own discretion).</li>
+</ul>
+<p>Both the APUs and Thermos are commonly found in ships (Plunder at your own discretion).</p>
+<p>&nbsp;</p>
+<p>RTGs can be damaged, once in a damaged state they release radiation. This radiation can be harnessed with rad collectors with for extra power generation.</p>
 <p>&nbsp;</p>
 <h3>Singularity</h3>
 <p>&nbsp;</p>
