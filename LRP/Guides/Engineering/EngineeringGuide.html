@@ -2,7 +2,7 @@
 title: Guide to Engineering
 description: Engineering Guide
 published: false
-date: 2025-10-12T15:22:14.086Z
+date: 2025-10-14T01:40:48.924Z
 tags: engineering, engineer, power
 editor: ckeditor
 dateCreated: 2025-09-05T17:56:25.488Z
@@ -239,14 +239,113 @@ dateCreated: 2025-09-05T17:56:25.488Z
 <p>Each station has solar panels present in an one or more arrays. They are typically named “Solars” on the station map or their location can be viewed on a Power Monitoring Console. However, they are not automatically set up, requiring HV wiring to the station power network, and alignment to the sun. This wiring also includes the solar tracker, typically found on nearby each array. &nbsp;Some solar panels may be broken, requiring the removal and repair of the broken glass in the machine. This is accomplished via the following steps:</p>
 <ol>
   <li>Use a crowbar on the machine. This will eject 1-2 broken glass shards.</li>
-  <li>Place two glass sheets into the solar panel. You can also weld the broken glass shards.&nbsp;</li>
+  <li>Place two glass sheets into the solar panel. You can also weld the broken glass shards.</li>
 </ol>
 <p>&nbsp;</p>
-<p>They can be ordered from cargo for $1250, containing 10 solar assembly flatpacks and 20 glass sheets. Once you place the assembly flatpack in an appropriate spot, use a multitool on it to unpack it. It is automatically anchored on the ground and requires 2 glass (or other panel material) to be placed inside it to be functional.</p>
+<p>They can be ordered from cargo for $1250, containing 10 solar assembly flatpacks and 20 glass sheets. Once you place the assembly flatpack in an appropriate spot, use a multitool on it to unpack it. It is automatically anchored on the ground and requires 2 glass (or other panel material) to be placed inside it to be functional.<br><br>&nbsp;</p>
+<h3>Other Generators</h3>
+<p>These refer to generators that do not fall under the previous categories. These include fuel-driven generators and infinite power generators. Since these generally do not provide significant power, it is best to use these to help supplement power generation for smaller grids or for emergencies to power sections to restart the main power grid. For the station use, generators requiring fuel generally should not be left running and are best used when in a power deficient. Note, for the generators to produce power, they must be anchored to the station's power grid.</p>
 <p>&nbsp;</p>
-<h3>Portable Generators</h3>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td>Name</td>
+        <td>Icon</td>
+        <td>Fuel</td>
+        <td>Minimum Generation (kW)</td>
+        <td>Optimal Power (Generation at 100% efficiency) (kW)</td>
+        <td>Maximum Generation (kW)</td>
+        <td>Output voltage</td>
+        <td>Tank size</td>
+        <td>Full tank duration at 100% efficiency (minutes)</td>
+      </tr>
+      <tr>
+        <td>Jnr Pacman</td>
+        <td>&nbsp;</td>
+        <td>Welding Fuel</td>
+        <td>4</td>
+        <td>8</td>
+        <td>8</td>
+        <td>LV</td>
+        <td>50 u</td>
+        <td>7.5</td>
+      </tr>
+      <tr>
+        <td>Pacman</td>
+        <td>&nbsp;</td>
+        <td>Plasma</td>
+        <td>5</td>
+        <td>30</td>
+        <td>30</td>
+        <td>HV or MV</td>
+        <td>30 sheets</td>
+        <td>15</td>
+      </tr>
+      <tr>
+        <td>Super Pacman</td>
+        <td>&nbsp;</td>
+        <td>Uranium</td>
+        <td>10</td>
+        <td>50</td>
+        <td>50</td>
+        <td>HV or MV</td>
+        <td>30 sheets</td>
+        <td>30</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>Note, reduces fuel efficiency for power generation greater than the optimal power and increases for generation below it.&nbsp;</p>
 <p>&nbsp;</p>
+<p>Once started, the target power is not instant and the pacmans must ramp up to their target power</p>
 <p>&nbsp;</p>
+<p>Pacmans produce Carbon Dioxide (CO2). A jnr pacman produces 0.5 mole of CO2 per 1 u of Welding fuel. A pacman produces 2 moles of CO2 per plasma. A super pacman produces none.</p>
+<p>&nbsp;</p>
+<p>At 75 piercing damage, the tank contents explode, otherwise 100 damage causes the machine to break (nonviolently) into a machine frame. If you can somehow deal 200 damage, they break all entirely.</p>
+<p>&nbsp;</p>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>RTG (full)</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>True</td>
+      </tr>
+      <tr>
+        <td>RTG (heavily damaged)</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>True</td>
+      </tr>
+      <tr>
+        <td>Thermo Generator</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>True</td>
+      </tr>
+      <tr>
+        <td>APU</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>False</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>Note, RTG refers to the Radioisotope Thermoelectric Generator</p>
 <p>&nbsp;</p>
 <h3>Singularity</h3>
 <p>&nbsp;</p>
