@@ -2,7 +2,7 @@
 title: Lore Portal
 description: 
 published: true
-date: 2025-11-01T19:10:43.987Z
+date: 2025-11-01T19:13:03.211Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T17:39:39.210Z
