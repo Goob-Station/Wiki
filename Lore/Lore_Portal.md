@@ -2,7 +2,7 @@
 title: Lore Portal
 description: 
 published: true
-date: 2025-11-01T20:16:27.619Z
+date: 2025-11-01T20:23:09.283Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T17:39:39.210Z
@@ -248,7 +248,7 @@ dateCreated: 2025-10-05T17:39:39.210Z
   <div class="pdaBorder">
     <div class="pdaBody">
       <div class="row">
-        	<button class="pdaButton">The Inhabitants of the Milky Way</button>
+        	<button class="pdaButton"><div class="row">The Inhabitants of the Milky Way<img src="https://wiki.tgstation13.org/images/b/b1/Galcom.png"></div></button>
       		<button class="pdaButton">Nanotrasen</button>
       </div>
       <div class="row">
