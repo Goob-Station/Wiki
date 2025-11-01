@@ -2,7 +2,7 @@
 title: Lore Portal
 description: 
 published: true
-date: 2025-11-01T18:57:44.630Z
+date: 2025-11-01T19:10:43.987Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T17:39:39.210Z
@@ -245,4 +245,19 @@ dateCreated: 2025-10-05T17:39:39.210Z
             </ul>
          </div>
       </div>
+  <div class="pdaBorder">
+    <div class="pdaBody">
+      <div class="row">
+      	<button class="pdaButton">The Inhabitants of the Milky Way</button>
+      	<button class="pdaButton">Nanotrasen</button>
+      </div>
+      <div class="row">
+      	<button class="pdaButton">Other Organizations</button>
+      	<button class="pdaButton">The Spinward Sector</button>
+      </div>
+      <div class="row">
+      	<button class="pdaButton">TerraGov</button>
+      </div>
+    </div>
+  </div>
      
