@@ -2,7 +2,7 @@
 title: Lore Portal
 description: 
 published: true
-date: 2025-11-01T19:21:41.906Z
+date: 2025-11-01T20:15:47.465Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T17:39:39.210Z
@@ -248,7 +248,7 @@ dateCreated: 2025-10-05T17:39:39.210Z
   <div class="pdaBorder">
     <div class="pdaBody">
       <div class="row">
-        <div>
+        <div class="center">
         	<button class="pdaButton">The Inhabitants of the Milky Way</button>
       		<button class="pdaButton">Nanotrasen</button>
         </div>
